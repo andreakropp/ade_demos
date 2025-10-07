@@ -1,0 +1,359 @@
+{
+  "chunks": [
+    {
+      "id": "4dfa9093-3dae-4da1-be94-840c8643bd24",
+      "grounding": {
+        "box": {
+          "bottom": 0.18318885564804077,
+          "left": 0.07170378416776657,
+          "right": 0.2521362602710724,
+          "top": 0.048859208822250366
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4dfa9093-3dae-4da1-be94-840c8643bd24'></a>\n\n<::An illustration of a green robot with dollar signs on its eyes, a checkmark, and a delivery truck::>",
+      "type": "figure"
+    },
+    {
+      "id": "6446ee0d-cd62-45db-80d2-6502cac50842",
+      "grounding": {
+        "box": {
+          "bottom": 0.07336647808551788,
+          "left": 0.2546345293521881,
+          "right": 0.43837323784828186,
+          "top": 0.04902224615216255
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6446ee0d-cd62-45db-80d2-6502cac50842'></a>\n\nDollarFulfillment",
+      "type": "text"
+    },
+    {
+      "id": "83450e56-c9c3-40fe-bad1-85a63ab5d0dc",
+      "grounding": {
+        "box": {
+          "bottom": 0.07539485394954681,
+          "left": 0.7084041833877563,
+          "right": 0.9238895177841187,
+          "top": 0.04761155694723129
+        },
+        "page": 0
+      },
+      "markdown": "<a id='83450e56-c9c3-40fe-bad1-85a63ab5d0dc'></a>\n\nInvoice 2071221",
+      "type": "text"
+    },
+    {
+      "id": "9cb0ba14-c03f-442d-8234-07b942c2e6c8",
+      "grounding": {
+        "box": {
+          "bottom": 0.16772565245628357,
+          "left": 0.255232572555542,
+          "right": 0.6681016683578491,
+          "top": 0.0865427628159523
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9cb0ba14-c03f-442d-8234-07b942c2e6c8'></a>\n\nWest Coast\n10450 N Airport Rd Hayden, ID 83835\nUnited States\nSupport@DollarFulfillment.com",
+      "type": "text"
+    },
+    {
+      "id": "b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404",
+      "grounding": {
+        "box": {
+          "bottom": 0.3089256286621094,
+          "left": 0.07276938855648041,
+          "right": 0.33575689792633057,
+          "top": 0.2264343500137329
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404'></a>\n\nBill To\nSouhail Martesse\n4 Rue des \u00c9coles\n28120, Nogent-sur-Eure\nFRANCE",
+      "type": "text"
+    },
+    {
+      "id": "b9861421-a2d7-4d49-8658-b346d134a808",
+      "grounding": {
+        "box": {
+          "bottom": 0.2882682681083679,
+          "left": 0.6989309191703796,
+          "right": 0.9255697131156921,
+          "top": 0.22612012922763824
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b9861421-a2d7-4d49-8658-b346d134a808'></a>\n\nInvoice Number: 2071221\n\nDate: 08/30/2021\n\nDue Date: 08/30/2021",
+      "type": "text"
+    },
+    {
+      "id": "c5273fa3-f056-44ef-a25b-94626d7bd674",
+      "grounding": {
+        "box": {
+          "bottom": 0.4103684425354004,
+          "left": 0.07428693771362305,
+          "right": 0.9252506494522095,
+          "top": 0.3211835026741028
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c5273fa3-f056-44ef-a25b-94626d7bd674'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Quantity</td><td id=\"0-4\">Unit price</td><td id=\"0-5\">Amount</td></tr>\n<tr><td id=\"0-6\">Apple iPhone 12 Pro Max 256 GB Excellent Condition</td><td id=\"0-7\">3</td><td id=\"0-8\">$600.29</td><td id=\"0-9\">$1800.87</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">Total</td><td id=\"0-d\">$1800.87</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "f9360bed-1bb8-47d0-b68a-af3b70f8039e",
+      "grounding": {
+        "box": {
+          "bottom": 0.526665985584259,
+          "left": 0.07212815433740616,
+          "right": 0.29467159509658813,
+          "top": 0.4495540261268616
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f9360bed-1bb8-47d0-b68a-af3b70f8039e'></a>\n\n+1 855-441-7447\nSupport@DollarFulfillment.com\n10450 N Airport Rd\nHayden, ID 83835",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='4dfa9093-3dae-4da1-be94-840c8643bd24'></a>\n\n<::An illustration of a green robot with dollar signs on its eyes, a checkmark, and a delivery truck::>\n\n<a id='6446ee0d-cd62-45db-80d2-6502cac50842'></a>\n\nDollarFulfillment\n\n<a id='83450e56-c9c3-40fe-bad1-85a63ab5d0dc'></a>\n\nInvoice 2071221\n\n<a id='9cb0ba14-c03f-442d-8234-07b942c2e6c8'></a>\n\nWest Coast\n10450 N Airport Rd Hayden, ID 83835\nUnited States\nSupport@DollarFulfillment.com\n\n<a id='b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404'></a>\n\nBill To\nSouhail Martesse\n4 Rue des \u00c9coles\n28120, Nogent-sur-Eure\nFRANCE\n\n<a id='b9861421-a2d7-4d49-8658-b346d134a808'></a>\n\nInvoice Number: 2071221\n\nDate: 08/30/2021\n\nDue Date: 08/30/2021\n\n<a id='c5273fa3-f056-44ef-a25b-94626d7bd674'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Quantity</td><td id=\"0-4\">Unit price</td><td id=\"0-5\">Amount</td></tr>\n<tr><td id=\"0-6\">Apple iPhone 12 Pro Max 256 GB Excellent Condition</td><td id=\"0-7\">3</td><td id=\"0-8\">$600.29</td><td id=\"0-9\">$1800.87</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">Total</td><td id=\"0-d\">$1800.87</td></tr>\n</table>\n\n<a id='f9360bed-1bb8-47d0-b68a-af3b70f8039e'></a>\n\n+1 855-441-7447\nSupport@DollarFulfillment.com\n10450 N Airport Rd\nHayden, ID 83835",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 10738,
+    "filename": "invoice_11.pdf",
+    "job_id": "liikzvox7j81g4f3yhg05ice8",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "4dfa9093-3dae-4da1-be94-840c8643bd24",
+        "6446ee0d-cd62-45db-80d2-6502cac50842",
+        "83450e56-c9c3-40fe-bad1-85a63ab5d0dc",
+        "9cb0ba14-c03f-442d-8234-07b942c2e6c8",
+        "b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404",
+        "b9861421-a2d7-4d49-8658-b346d134a808",
+        "c5273fa3-f056-44ef-a25b-94626d7bd674",
+        "f9360bed-1bb8-47d0-b68a-af3b70f8039e"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='4dfa9093-3dae-4da1-be94-840c8643bd24'></a>\n\n<::An illustration of a green robot with dollar signs on its eyes, a checkmark, and a delivery truck::>\n\n<a id='6446ee0d-cd62-45db-80d2-6502cac50842'></a>\n\nDollarFulfillment\n\n<a id='83450e56-c9c3-40fe-bad1-85a63ab5d0dc'></a>\n\nInvoice 2071221\n\n<a id='9cb0ba14-c03f-442d-8234-07b942c2e6c8'></a>\n\nWest Coast\n10450 N Airport Rd Hayden, ID 83835\nUnited States\nSupport@DollarFulfillment.com\n\n<a id='b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404'></a>\n\nBill To\nSouhail Martesse\n4 Rue des \u00c9coles\n28120, Nogent-sur-Eure\nFRANCE\n\n<a id='b9861421-a2d7-4d49-8658-b346d134a808'></a>\n\nInvoice Number: 2071221\n\nDate: 08/30/2021\n\nDue Date: 08/30/2021\n\n<a id='c5273fa3-f056-44ef-a25b-94626d7bd674'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Description</td><td id=\"0-3\">Quantity</td><td id=\"0-4\">Unit price</td><td id=\"0-5\">Amount</td></tr>\n<tr><td id=\"0-6\">Apple iPhone 12 Pro Max 256 GB Excellent Condition</td><td id=\"0-7\">3</td><td id=\"0-8\">$600.29</td><td id=\"0-9\">$1800.87</td></tr>\n<tr><td id=\"0-a\"></td><td id=\"0-b\"></td><td id=\"0-c\">Total</td><td id=\"0-d\">$1800.87</td></tr>\n</table>\n\n<a id='f9360bed-1bb8-47d0-b68a-af3b70f8039e'></a>\n\n+1 855-441-7447\nSupport@DollarFulfillment.com\n10450 N Airport Rd\nHayden, ID 83835",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "4dfa9093-3dae-4da1-be94-840c8643bd24": {
+      "box": {
+        "bottom": 0.18318885564804077,
+        "left": 0.07170378416776657,
+        "right": 0.2521362602710724,
+        "top": 0.048859208822250366
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "6446ee0d-cd62-45db-80d2-6502cac50842": {
+      "box": {
+        "bottom": 0.07336647808551788,
+        "left": 0.2546345293521881,
+        "right": 0.43837323784828186,
+        "top": 0.04902224615216255
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "83450e56-c9c3-40fe-bad1-85a63ab5d0dc": {
+      "box": {
+        "bottom": 0.07539485394954681,
+        "left": 0.7084041833877563,
+        "right": 0.9238895177841187,
+        "top": 0.04761155694723129
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9cb0ba14-c03f-442d-8234-07b942c2e6c8": {
+      "box": {
+        "bottom": 0.16772565245628357,
+        "left": 0.255232572555542,
+        "right": 0.6681016683578491,
+        "top": 0.0865427628159523
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404": {
+      "box": {
+        "bottom": 0.3089256286621094,
+        "left": 0.07276938855648041,
+        "right": 0.33575689792633057,
+        "top": 0.2264343500137329
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "b9861421-a2d7-4d49-8658-b346d134a808": {
+      "box": {
+        "bottom": 0.2882682681083679,
+        "left": 0.6989309191703796,
+        "right": 0.9255697131156921,
+        "top": 0.22612012922763824
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c5273fa3-f056-44ef-a25b-94626d7bd674": {
+      "box": {
+        "bottom": 0.4103684425354004,
+        "left": 0.07428693771362305,
+        "right": 0.9252506494522095,
+        "top": 0.3211835026741028
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.4056177431026242,
+        "left": 0.08071780999560951,
+        "right": 0.9186753313699398,
+        "top": 0.3256728403592679
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.35295363502402033,
+        "left": 0.08071780999560951,
+        "right": 0.5137616584243361,
+        "top": 0.3256728403592679
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.35295363502402033,
+        "left": 0.5137616584243361,
+        "right": 0.6400283990652653,
+        "top": 0.3256728403592679
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.35295363502402033,
+        "left": 0.6400283990652653,
+        "right": 0.7794539927358741,
+        "top": 0.3256728403592679
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.35295363502402033,
+        "left": 0.7794539927358741,
+        "right": 0.9187241253468841,
+        "top": 0.3256728403592679
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3787279023094925,
+        "left": 0.08071780999560951,
+        "right": 0.5137616584243361,
+        "top": 0.35295363502402033
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3787279023094925,
+        "left": 0.5137616584243361,
+        "right": 0.6400283990652653,
+        "top": 0.35295363502402033
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3787279023094925,
+        "left": 0.6400283990652653,
+        "right": 0.7794539927358741,
+        "top": 0.35295363502402033
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3787279023094925,
+        "left": 0.7794539927358741,
+        "right": 0.9187241253468841,
+        "top": 0.35295363502402033
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.4056177431026242,
+        "left": 0.08071780999560951,
+        "right": 0.5137616584243361,
+        "top": 0.3787279023094925
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.4056177431026242,
+        "left": 0.5137616584243361,
+        "right": 0.6400283990652653,
+        "top": 0.3787279023094925
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.4056177431026242,
+        "left": 0.6400283990652653,
+        "right": 0.7794539927358741,
+        "top": 0.3787279023094925
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.4056177431026242,
+        "left": 0.7794539927358741,
+        "right": 0.9187241253468841,
+        "top": 0.3787279023094925
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "f9360bed-1bb8-47d0-b68a-af3b70f8039e": {
+      "box": {
+        "bottom": 0.526665985584259,
+        "left": 0.07212815433740616,
+        "right": 0.29467159509658813,
+        "top": 0.4495540261268616
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

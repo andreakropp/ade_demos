@@ -1,0 +1,269 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_number": "0000329003",
+      "invoice_date_raw": "2019-04-04T23:55:50+08:00",
+      "invoice_date": "2019-04-04",
+      "order_date": "2019-03-29",
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Nazish",
+      "sold_to_address": "R 44 block-D sadat e amroha society karachi, Karachi - Cantonment, Sindh Pakistan",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "Jade E-Services Pakistan Private Limited",
+      "supplier_address": "12/B, 12th floor Executive Tower, Dolmen City Plot # HC-3, Block 4, Scheme #5 Clifton, Saddar Town, Karachi South",
+      "representative": null,
+      "email": null,
+      "phone": null,
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Cash On Delivery",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "PKR",
+      "total_due_raw": "Rs 147.00",
+      "total_due": 147,
+      "subtotal": 147,
+      "tax": 0,
+      "shipping": 0,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": "1",
+        "sku": "100858625_PK-1 246231949",
+        "description": "11% off on Bundle of Knorr Chilli Garlic Ketchup 300gm and Knorr Tomato Ketchup 300gm",
+        "quantity": 1,
+        "unit_price": 147,
+        "price": null,
+        "amount": 147,
+        "total": 147
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_number": {
+        "value": "0000329003",
+        "references": [
+          "a7142ed7-ec54-4a3b-814a-525a8be2f4e3"
+        ]
+      },
+      "invoice_date_raw": {
+        "value": "2019-04-04T23:55:50+08:00",
+        "references": [
+          "a7142ed7-ec54-4a3b-814a-525a8be2f4e3"
+        ]
+      },
+      "invoice_date": {
+        "value": "2019-04-04",
+        "references": [
+          "a7142ed7-ec54-4a3b-814a-525a8be2f4e3"
+        ]
+      },
+      "order_date": {
+        "value": "2019-03-29",
+        "references": [
+          "2382bc92-60e5-42aa-b6b0-8e180a48d890"
+        ]
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Nazish",
+        "references": [
+          "43da17a1-fbed-4293-9fb1-ed63c05cc13f"
+        ]
+      },
+      "sold_to_address": {
+        "value": "R 44 block-D sadat e amroha society karachi, Karachi - Cantonment, Sindh Pakistan",
+        "references": [
+          "43da17a1-fbed-4293-9fb1-ed63c05cc13f"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Jade E-Services Pakistan Private Limited",
+        "references": [
+          "3cab88f7-7762-4a33-bde1-6a5876682fba"
+        ]
+      },
+      "supplier_address": {
+        "value": "12/B, 12th floor Executive Tower, Dolmen City Plot # HC-3, Block 4, Scheme #5 Clifton, Saddar Town, Karachi South",
+        "references": [
+          "3cab88f7-7762-4a33-bde1-6a5876682fba"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": null,
+        "references": []
+      },
+      "phone": {
+        "value": null,
+        "references": []
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Cash On Delivery",
+        "references": [
+          "2c5c3781-ff1a-4f9d-890a-463c0e640e5e"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "PKR",
+        "references": [
+          "0-f",
+          "0-h",
+          "0-j",
+          "0-m",
+          "0-p",
+          "0-s",
+          "0-v"
+        ]
+      },
+      "total_due_raw": {
+        "value": "Rs 147.00",
+        "references": [
+          "0-j",
+          "0-w"
+        ]
+      },
+      "total_due": {
+        "value": 147,
+        "references": [
+          "0-j",
+          "0-w"
+        ]
+      },
+      "subtotal": {
+        "value": 147,
+        "references": [
+          "0-n"
+        ]
+      },
+      "tax": {
+        "value": 0,
+        "references": [
+          "0-t"
+        ]
+      },
+      "shipping": {
+        "value": 0,
+        "references": [
+          "0-t"
+        ]
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": "1",
+          "references": [
+            "0-a"
+          ]
+        },
+        "sku": {
+          "value": "100858625_PK-1 246231949",
+          "references": [
+            "0-d"
+          ]
+        },
+        "description": {
+          "value": "11% off on Bundle of Knorr Chilli Garlic Ketchup 300gm and Knorr Tomato Ketchup 300gm",
+          "references": [
+            "0-c"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-e"
+          ]
+        },
+        "unit_price": {
+          "value": 147,
+          "references": [
+            "0-f"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 147,
+          "references": [
+            "0-h"
+          ]
+        },
+        "total": {
+          "value": 147,
+          "references": [
+            "0-h"
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.8,
+    "duration_ms": 29763,
+    "filename": "upload",
+    "job_id": "cu0omhr8sbmewotp6m3xafctd",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

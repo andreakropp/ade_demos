@@ -1,0 +1,261 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "01/29/2020",
+      "invoice_date": "2020-01-29",
+      "invoice_number": "0001131",
+      "order_date": null,
+      "po_number": "7783 Newhaven Dr",
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Real Property Management",
+      "sold_to_address": "1901 Lendew St Suite 7\nGreensboro, NC\n27408",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "Roofing Renovations INC",
+      "supplier_address": "4917 Old Randleman Rd\nGreensboro, North Carolina\n27406\nUnited States",
+      "representative": null,
+      "email": null,
+      "phone": "336-862-5235",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Thank you for trusting us with all your home improvement needs.",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "$2,650.00",
+      "total_due": 2650,
+      "subtotal": 2650,
+      "tax": 0,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": null,
+        "description": "Replace HVAC Unit.",
+        "quantity": 1,
+        "unit_price": 2650,
+        "price": null,
+        "amount": 2650,
+        "total": 2650
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "01/29/2020",
+        "references": [
+          "265a2801-cd7e-41ab-838b-9ba1af6ca931"
+        ]
+      },
+      "invoice_date": {
+        "value": "2020-01-29",
+        "references": [
+          "265a2801-cd7e-41ab-838b-9ba1af6ca931"
+        ]
+      },
+      "invoice_number": {
+        "value": "0001131",
+        "references": [
+          "16ad6f34-820e-4209-85ee-cfb8bae161b3"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": "7783 Newhaven Dr",
+        "references": [
+          "16ad6f34-820e-4209-85ee-cfb8bae161b3"
+        ]
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Real Property Management",
+        "references": [
+          "79b3b9e7-5ac8-4ad2-832e-521d34ff5b09"
+        ]
+      },
+      "sold_to_address": {
+        "value": "1901 Lendew St Suite 7\nGreensboro, NC\n27408",
+        "references": [
+          "79b3b9e7-5ac8-4ad2-832e-521d34ff5b09"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Roofing Renovations INC",
+        "references": [
+          "c9d958ec-b2bc-42c8-9370-c4bc7e4e0d44"
+        ]
+      },
+      "supplier_address": {
+        "value": "4917 Old Randleman Rd\nGreensboro, North Carolina\n27406\nUnited States",
+        "references": [
+          "bfbc29a7-495a-4b7e-92ce-900d792b5274"
+        ]
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": null,
+        "references": []
+      },
+      "phone": {
+        "value": "336-862-5235",
+        "references": [
+          "c9d958ec-b2bc-42c8-9370-c4bc7e4e0d44"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Thank you for trusting us with all your home improvement needs.",
+        "references": [
+          "832a910a-fe9a-4279-8e7a-e421cf225aa6"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "717a320d-286f-417c-92fa-35c680d1e266",
+          "0-m"
+        ]
+      },
+      "total_due_raw": {
+        "value": "$2,650.00",
+        "references": [
+          "717a320d-286f-417c-92fa-35c680d1e266",
+          "0-m"
+        ]
+      },
+      "total_due": {
+        "value": 2650,
+        "references": [
+          "717a320d-286f-417c-92fa-35c680d1e266",
+          "0-g",
+          "0-m"
+        ]
+      },
+      "subtotal": {
+        "value": 2650,
+        "references": [
+          "0-a"
+        ]
+      },
+      "tax": {
+        "value": 0,
+        "references": [
+          "0-d"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "Replace HVAC Unit.",
+          "references": [
+            "0-5"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-7"
+          ]
+        },
+        "unit_price": {
+          "value": 2650,
+          "references": [
+            "0-6"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 2650,
+          "references": [
+            "0-7"
+          ]
+        },
+        "total": {
+          "value": 2650,
+          "references": [
+            "0-7"
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.5,
+    "duration_ms": 9936,
+    "filename": "upload",
+    "job_id": "vknf2ud7rq8b4u61u8wkezza8",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

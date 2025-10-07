@@ -1,0 +1,1502 @@
+{
+  "chunks": [
+    {
+      "id": "6a7520cc-51fe-40ca-a316-6a23a56e6f2b",
+      "grounding": {
+        "box": {
+          "bottom": 0.09276722371578217,
+          "left": 0.6393972039222717,
+          "right": 0.9278661608695984,
+          "top": 0.04564682021737099
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6a7520cc-51fe-40ca-a316-6a23a56e6f2b'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in a bold, sans-serif font, followed by a circular emblem containing a stylized bird or wing symbol.::>",
+      "type": "logo"
+    },
+    {
+      "id": "9e749e87-9899-43cf-9f24-60e4ad209b3a",
+      "grounding": {
+        "box": {
+          "bottom": 0.22376635670661926,
+          "left": 0.0731598287820816,
+          "right": 0.3429955840110779,
+          "top": 0.15338042378425598
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9e749e87-9899-43cf-9f24-60e4ad209b3a'></a>\n\nMRS\nANDREA KROPP\n227 N 5TH AVE, RIDGEFIELD, WA\nUS-98642 RIDGEFIELD",
+      "type": "text"
+    },
+    {
+      "id": "74c735f0-1941-4c46-aa73-3dee1fcb3d45",
+      "grounding": {
+        "box": {
+          "bottom": 0.21678829193115234,
+          "left": 0.6370638608932495,
+          "right": 0.8436071872711182,
+          "top": 0.1526584029197693
+        },
+        "page": 0
+      },
+      "markdown": "<a id='74c735f0-1941-4c46-aa73-3dee1fcb3d45'></a>\n\nCondor Flugdienst GmbH\nAn der Gehespitz 50\n63263 Neu-Isenburg\nTel. +49 (0)6171 - 69889 20",
+      "type": "text"
+    },
+    {
+      "id": "69852521-28dc-41ed-89d0-cf09d1d8f6bc",
+      "grounding": {
+        "box": {
+          "bottom": 0.2845308184623718,
+          "left": 0.641456663608551,
+          "right": 0.8959264159202576,
+          "top": 0.2519192099571228
+        },
+        "page": 0
+      },
+      "markdown": "<a id='69852521-28dc-41ed-89d0-cf09d1d8f6bc'></a>\n\nbooking ref.: 11828454 version: 01\nconf. date: 27.03.2025",
+      "type": "text"
+    },
+    {
+      "id": "d0c6f77f-0310-47ed-b4c7-117897006a15",
+      "grounding": {
+        "box": {
+          "bottom": 0.334686279296875,
+          "left": 0.07069417834281921,
+          "right": 0.47199562191963196,
+          "top": 0.31121325492858887
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d0c6f77f-0310-47ed-b4c7-117897006a15'></a>\n\nBooking - Confirmation / Invoice",
+      "type": "text"
+    },
+    {
+      "id": "82a8c6ef-a199-47ea-8c7a-d2fcedbbc216",
+      "grounding": {
+        "box": {
+          "bottom": 0.32976922392845154,
+          "left": 0.8506335616111755,
+          "right": 0.9279336333274841,
+          "top": 0.3132800757884979
+        },
+        "page": 0
+      },
+      "markdown": "<a id='82a8c6ef-a199-47ea-8c7a-d2fcedbbc216'></a>\n\nPage 1 / 4",
+      "type": "text"
+    },
+    {
+      "id": "fa0b049a-d01e-4c95-8bc9-4172b2ab2783",
+      "grounding": {
+        "box": {
+          "bottom": 0.5526019334793091,
+          "left": 0.06963816285133362,
+          "right": 0.878506064414978,
+          "top": 0.3455338478088379
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fa0b049a-d01e-4c95-8bc9-4172b2ab2783'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">pos</td><td id=\"0-3\">name</td><td id=\"0-4\">age remark</td><td id=\"0-5\">amount</td></tr>\n<tr><td id=\"0-6\">1</td><td id=\"0-7\" colspan=\"2\">KROPP/ANDREA KASTRUP</td><td id=\"0-8\">1,001.23</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\">Taxes, fees and other surcharges in total</td><td id=\"0-c\">188.75</td></tr>\n<tr><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\">Seat reservation 34A, 36A FK: ZYIM6E</td><td id=\"0-g\">100.00</td></tr>\n<tr><td id=\"0-h\">2</td><td id=\"0-i\">KROPP/KARL</td><td id=\"0-j\">ROBERT</td><td id=\"0-k\">1,001.23</td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">Taxes, fees and other surcharges in total</td><td id=\"0-o\">188.75</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">Seat reservation 34C, 36C</td><td id=\"0-s\">100.00</td></tr>\n<tr><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">total amount USD</td><td id=\"0-w\">2,579.96</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9",
+      "grounding": {
+        "box": {
+          "bottom": 0.7042161822319031,
+          "left": 0.07048904895782471,
+          "right": 0.8652747869491577,
+          "top": 0.5597050786018372
+        },
+        "page": 0
+      },
+      "markdown": "<a id='f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9'></a>\n\nDetails of Taxes, fees and other surcharges\nTravellers Taxes, fees and other surcharges\n                                 per traveller in detail\n\n1,2             188.75 USD       US USD 22.90 XF USD 4.50 AY USD 5.60 XF\n                                 USD 4.50 DE EUR 11.86 RA EUR 27.11 WP EUR\n                                 19.44 WQ EUR 5.00 DE EUR 11.86 RA EUR 27.\n                                 11 US USD 22.90 XA USD 3.71 XY USD 7.00\n                                 YC USD 7.20",
+      "type": "text"
+    },
+    {
+      "id": "76fd5dac-895a-4257-b167-9fb974ff99b9",
+      "grounding": {
+        "box": {
+          "bottom": 0.949437141418457,
+          "left": 0.06928521394729614,
+          "right": 0.814981997013092,
+          "top": 0.7399429082870483
+        },
+        "page": 0
+      },
+      "markdown": "<a id='76fd5dac-895a-4257-b167-9fb974ff99b9'></a>\n\nPassenger Service\n\nall on 26.07.25\n\nPORTLAND - SEATTLE\nAS 2188 14:30 - 15:24 (0:54h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nSEATTLE - FRANKFURT INT.\nDE 2033 17:15 - 12:20+1 (10:05h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg",
+      "type": "text"
+    },
+    {
+      "id": "9de6db54-3e02-418c-b068-35e3cf4ab3f5",
+      "grounding": {
+        "box": {
+          "bottom": 0.07858683168888092,
+          "left": 0.7193335294723511,
+          "right": 0.9278554916381836,
+          "top": 0.04197786748409271
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9de6db54-3e02-418c-b068-35e3cf4ab3f5'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in a bold, sans-serif font, accompanied by a circular emblem containing a stylized bird or wing shape.\n::>",
+      "type": "logo"
+    },
+    {
+      "id": "4f1144de-8784-490a-b849-cbfa3dbd5173",
+      "grounding": {
+        "box": {
+          "bottom": 0.1317112296819687,
+          "left": 0.8494719862937927,
+          "right": 0.9293258786201477,
+          "top": 0.11352349817752838
+        },
+        "page": 1
+      },
+      "markdown": "<a id='4f1144de-8784-490a-b849-cbfa3dbd5173'></a>\n\nPage 2 / 4",
+      "type": "marginalia"
+    },
+    {
+      "id": "93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb",
+      "grounding": {
+        "box": {
+          "bottom": 0.506264328956604,
+          "left": 0.06685295701026917,
+          "right": 0.8216468095779419,
+          "top": 0.16148364543914795
+        },
+        "page": 1
+      },
+      "markdown": "<a id='93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb'></a>\n\n27.07.25\nCarry-on baggage: 1 piece total 8 kg\nFRANKFURT INT. - ATHEN\nGQ 861 14:25 - 18:10 (2:45h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\n\nall on 10.08.25\nATHEN - FRANKFURT INT.\nGQ 860 11:15 - 13:25 (3:10h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nFRANKFURT INT. - PORTLAND\nDE 2090 14:55 - 16:35 (10:40h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nCheck-In Referenz: ZYIM6E\n\nSecure Flight details need to be provided\nbefore departure.",
+      "type": "text"
+    },
+    {
+      "id": "7542ccc8-283d-4936-aa6b-5f7734707f86",
+      "grounding": {
+        "box": {
+          "bottom": 0.5702610015869141,
+          "left": 0.068917416036129,
+          "right": 0.3046135902404785,
+          "top": 0.5193620920181274
+        },
+        "page": 1
+      },
+      "markdown": "<a id='7542ccc8-283d-4936-aa6b-5f7734707f86'></a>\n\nGQ = Sky Express\nDE = Condor\nAS = Alaska Airlines",
+      "type": "text"
+    },
+    {
+      "id": "420e9652-31bf-4621-a491-ad768fc5f2c6",
+      "grounding": {
+        "box": {
+          "bottom": 0.6093670129776001,
+          "left": 0.06993019580841064,
+          "right": 0.5603693127632141,
+          "top": 0.5782097578048706
+        },
+        "page": 1
+      },
+      "markdown": "<a id='420e9652-31bf-4621-a491-ad768fc5f2c6'></a>\n\nClassic: Please note the special cancellation and rebooking conditions.\nSchedule and routing subject to change without notice.",
+      "type": "text"
+    },
+    {
+      "id": "dec22989-f3fa-464d-989e-f440f1ee52b3",
+      "grounding": {
+        "box": {
+          "bottom": 0.6454052925109863,
+          "left": 0.07091575115919113,
+          "right": 0.2204158902168274,
+          "top": 0.6287153959274292
+        },
+        "page": 1
+      },
+      "markdown": "<a id='dec22989-f3fa-464d-989e-f440f1ee52b3'></a>\n\nBooked on 27.03.25",
+      "type": "text"
+    },
+    {
+      "id": "b40676d2-136d-47d9-ad07-9bf2c81e3483",
+      "grounding": {
+        "box": {
+          "bottom": 0.6716477274894714,
+          "left": 0.07063861191272736,
+          "right": 0.3281862735748291,
+          "top": 0.6549202799797058
+        },
+        "page": 1
+      },
+      "markdown": "<a id='b40676d2-136d-47d9-ad07-9bf2c81e3483'></a>\n\nYour customer number is: 72630224",
+      "type": "text"
+    },
+    {
+      "id": "7bac6e3c-c85f-47b6-856c-ad64f5dcd51e",
+      "grounding": {
+        "box": {
+          "bottom": 0.7659837603569031,
+          "left": 0.06792321801185608,
+          "right": 0.8032951354980469,
+          "top": 0.683427631855011
+        },
+        "page": 1
+      },
+      "markdown": "<a id='7bac6e3c-c85f-47b6-856c-ad64f5dcd51e'></a>\n\nContact:\nANDREA KROPP\n227 N 5TH AVE, RIDGEFIELD, WA\n98642 RIDGEFIELD\nE-mail: andr3akropp@gmail.com\n\nPhone private: +1 360-624-2355",
+      "type": "text"
+    },
+    {
+      "id": "03332738-7a4f-4038-a0d0-d5d1d8f47c6f",
+      "grounding": {
+        "box": {
+          "bottom": 0.802471935749054,
+          "left": 0.07012441754341125,
+          "right": 0.2471158504486084,
+          "top": 0.7851698994636536
+        },
+        "page": 1
+      },
+      "markdown": "<a id='03332738-7a4f-4038-a0d0-d5d1d8f47c6f'></a>\n\nPayment by Credit Card.",
+      "type": "text"
+    },
+    {
+      "id": "6c5dffb4-eb09-445f-8c6a-325f23b0da38",
+      "grounding": {
+        "box": {
+          "bottom": 0.8895981311798096,
+          "left": 0.0689629316329956,
+          "right": 0.9224849939346313,
+          "top": 0.8357514142990112
+        },
+        "page": 1
+      },
+      "markdown": "<a id='6c5dffb4-eb09-445f-8c6a-325f23b0da38'></a>\n\nBefore your journey begins, please research the necessary entry requirements and regulations pertaining to your destination airport in order to avoid being denied boarding or receiving fines from the local authorities. Please note that the local applicable regulations may differ from the regulations in your country of residence. Further information: https://www.condor.com/entry-regulations",
+      "type": "text"
+    },
+    {
+      "id": "d3c9a42b-afae-4d49-a00d-6725abf2e8be",
+      "grounding": {
+        "box": {
+          "bottom": 0.9560595750808716,
+          "left": 0.06937184929847717,
+          "right": 0.9223265647888184,
+          "top": 0.8886175155639648
+        },
+        "page": 1
+      },
+      "markdown": "<a id='d3c9a42b-afae-4d49-a00d-6725abf2e8be'></a>\n\nFor flights to/from USA and Canada, a free baggage allowance of one item weighing up to 23kg applies in Economy class (except LIGHT tariff), or 32 kg in Premium Economy class. In Business class, 2 baggage items weighing up to 32kg per item will be carried without charge. Infants under age 2 have a free baggage allowance of one item weighing up to 10kg in Economy class (except LIGHT tariff), also in Premium Economy class and Business class. The LIGHT tariff does not normally include any free baggage allowance.",
+      "type": "text"
+    },
+    {
+      "id": "9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b",
+      "grounding": {
+        "box": {
+          "bottom": 0.07930270582437515,
+          "left": 0.7187888622283936,
+          "right": 0.9283391237258911,
+          "top": 0.041376546025276184
+        },
+        "page": 2
+      },
+      "markdown": "<a id='9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>",
+      "type": "logo"
+    },
+    {
+      "id": "55e02ca0-1b4b-45f1-b886-35649f2ea745",
+      "grounding": {
+        "box": {
+          "bottom": 0.13291284441947937,
+          "left": 0.8494004607200623,
+          "right": 0.9301230311393738,
+          "top": 0.11284811794757843
+        },
+        "page": 2
+      },
+      "markdown": "<a id='55e02ca0-1b4b-45f1-b886-35649f2ea745'></a>\n\nPage 3 / 4",
+      "type": "marginalia"
+    },
+    {
+      "id": "bf6bbb5c-e45e-4814-a4ba-502c048fe568",
+      "grounding": {
+        "box": {
+          "bottom": 0.2299838811159134,
+          "left": 0.06867948174476624,
+          "right": 0.9203008413314819,
+          "top": 0.17284132540225983
+        },
+        "page": 2
+      },
+      "markdown": "<a id='bf6bbb5c-e45e-4814-a4ba-502c048fe568'></a>\n\nImportant! It is essential to find out about the important entry and transit requirements for the USA (incl. Puerto Rico) and/or Canada, as if you do not register for the ESTA and/or eTA and (TSA) Secure Flight programs, you will be refused entry to the USA / to Canada (and also transit through USA/Canada). For further information please go to condor.com / Flight Preparation / Entry Regulations and Customs.",
+      "type": "text"
+    },
+    {
+      "id": "8f7f462f-6ad7-4a30-b60a-de84fba865f9",
+      "grounding": {
+        "box": {
+          "bottom": 0.2816273868083954,
+          "left": 0.06968554854393005,
+          "right": 0.911070704460144,
+          "top": 0.23667176067829132
+        },
+        "page": 2
+      },
+      "markdown": "<a id='8f7f462f-6ad7-4a30-b60a-de84fba865f9'></a>\n\nYou will be asked for your Secure Flight data (title/gender, first name, surname, date of birth, Redress Number* if available) when you make your booking through condor.com and the data will be automatically be forwarded to the authorities in the USA. In this case, there is then no requirement for the data to be recorded separately.",
+      "type": "text"
+    },
+    {
+      "id": "0dd6a761-6807-41ca-858c-f4e06bb7532e",
+      "grounding": {
+        "box": {
+          "bottom": 0.3199062943458557,
+          "left": 0.0694575309753418,
+          "right": 0.9024184942245483,
+          "top": 0.28855299949645996
+        },
+        "page": 2
+      },
+      "markdown": "<a id='0dd6a761-6807-41ca-858c-f4e06bb7532e'></a>\n\nIf you did not provide this information when you made your booking, please do so as quickly as possible, and ideally right after you book your flight on condor.com / My booking.",
+      "type": "text"
+    },
+    {
+      "id": "613ab747-01a9-44e6-b43d-eafae4a2dcca",
+      "grounding": {
+        "box": {
+          "bottom": 0.3594287037849426,
+          "left": 0.06879013776779175,
+          "right": 0.92313551902771,
+          "top": 0.3261580467224121
+        },
+        "page": 2
+      },
+      "markdown": "<a id='613ab747-01a9-44e6-b43d-eafae4a2dcca'></a>\n\nWhen registering the electronic travel application ESTA and/or eTA with a German passport, it is important to ensure that the letters \"O\" and \"I\" are not used in German Passports. In case of doubt, it is a zero (0) or an one (1).",
+      "type": "text"
+    },
+    {
+      "id": "32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0",
+      "grounding": {
+        "box": {
+          "bottom": 0.3843863904476166,
+          "left": 0.06984326243400574,
+          "right": 0.5801920890808105,
+          "top": 0.36499419808387756
+        },
+        "page": 2
+      },
+      "markdown": "<a id='32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0'></a>\n\nPlease note the following if a Canadian airport is located on your itinerary:",
+      "type": "text"
+    },
+    {
+      "id": "8b458b96-cf8e-4b30-88bf-72f29ec00671",
+      "grounding": {
+        "box": {
+          "bottom": 0.4234427809715271,
+          "left": 0.06829234957695007,
+          "right": 0.913371205329895,
+          "top": 0.389590859413147
+        },
+        "page": 2
+      },
+      "markdown": "<a id='8b458b96-cf8e-4b30-88bf-72f29ec00671'></a>\n\nOn the following page you can find the summary of key terms and conditions of carriage as required under Canadian APPR SOR/2019-150: https://www.condor.com/us/info-service/canada-key-terms-conditions-of-carriage.jsp",
+      "type": "text"
+    },
+    {
+      "id": "bca3c438-5382-4020-9ac1-6bed0c82e90e",
+      "grounding": {
+        "box": {
+          "bottom": 0.4491207003593445,
+          "left": 0.06962957978248596,
+          "right": 0.6564081907272339,
+          "top": 0.4290603995323181
+        },
+        "page": 2
+      },
+      "markdown": "<a id='bca3c438-5382-4020-9ac1-6bed0c82e90e'></a>\n\nNotice according to Canadian Air Passenger Protection Regulations: SOR/2019- 150",
+      "type": "text"
+    },
+    {
+      "id": "5c7ec4c9-0bb7-412d-8d89-b9df98802cf4",
+      "grounding": {
+        "box": {
+          "bottom": 0.5116022229194641,
+          "left": 0.06949761509895325,
+          "right": 0.9240297079086304,
+          "top": 0.4557243585586548
+        },
+        "page": 2
+      },
+      "markdown": "<a id='5c7ec4c9-0bb7-412d-8d89-b9df98802cf4'></a>\n\nIf you are denied boarding, your flight is cancelled or delayed for at least two hours, or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the Air Passenger Protection Regulations. For more information about your passenger rights please contact your air carrier or visit the Canadian Transportation Agency's website.",
+      "type": "text"
+    },
+    {
+      "id": "605e236b-75c0-498e-a34e-acf12e279961",
+      "grounding": {
+        "box": {
+          "bottom": 0.5900839567184448,
+          "left": 0.06970241665840149,
+          "right": 0.919440507888794,
+          "top": 0.5189597606658936
+        },
+        "page": 2
+      },
+      "markdown": "<a id='605e236b-75c0-498e-a34e-acf12e279961'></a>\n\nSi l'embarquement vous est refus\u00e9, ou si votre vol est annul\u00e9 ou retard\u00e9 d'au moins deux heures ou si vos bagages sont perdus ou endommag\u00e9s, vous pourriez avoir droit au titre du R\u00e8glement sur la protection des passagers a\u00e9riens, \u00e0 certains avantages au titre des normes de traitement applicables et \u00e0 une indemnit\u00e9. Pour de plus amples renseignements sur vos droits, veuillez communiquer avec votre transporteur a\u00e9rien ou visiter le site Web de l'Office des transports du Canada.avec votre transporteur a\u00e9rien ou visiter le site Web de l'Office des transports du Canada.",
+      "type": "text"
+    },
+    {
+      "id": "ec9bdf7b-b6c7-4dfc-895b-99f3756d7209",
+      "grounding": {
+        "box": {
+          "bottom": 0.678285539150238,
+          "left": 0.06883779168128967,
+          "right": 0.922026515007019,
+          "top": 0.5965996384620667
+        },
+        "page": 2
+      },
+      "markdown": "<a id='ec9bdf7b-b6c7-4dfc-895b-99f3756d7209'></a>\n\n**Important Information concerning your outbward flight**\nCHECK-IN: Alaska AIRLINES\n\nCHECK-IN DEADLINE: please beaware that you have to finalize the check-in procedure and be in possession of your boarding-card at the latest 60 minutes prior to departure. Principally we recommend that you are at check-in 2 hours prior to departure.",
+      "type": "text"
+    },
+    {
+      "id": "395414d7-c80c-4747-be88-d97a7f719456",
+      "grounding": {
+        "box": {
+          "bottom": 0.7440685629844666,
+          "left": 0.06913426518440247,
+          "right": 0.9174504280090332,
+          "top": 0.6847441792488098
+        },
+        "page": 2
+      },
+      "markdown": "<a id='395414d7-c80c-4747-be88-d97a7f719456'></a>\n\nFLIGHT-RECONFIRMATION: You can check your flight times starting 48 hours before your flight on the internet at www.condor.com. You will find all the important information on your flight under the menu item Flight info - Departures and Arrivals. The General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp",
+      "type": "text"
+    },
+    {
+      "id": "91fbac33-63b2-42c1-affc-12651ce017cd",
+      "grounding": {
+        "box": {
+          "bottom": 0.8972911238670349,
+          "left": 0.06759178638458252,
+          "right": 0.9264335632324219,
+          "top": 0.775394856929779
+        },
+        "page": 2
+      },
+      "markdown": "<a id='91fbac33-63b2-42c1-affc-12651ce017cd'></a>\n\nSpecial note for ticketless travel TKNE/NOTIX: At the Check-in, please have at hand this booking itinerary and a valid passport/personal identification card for all passengers, including children and infants. If you have booked a feeder with one of our partner-airlines an electronic-ticket will be issued for this flight. Please check and observe the visa and entry requirements for the country of destination and any transit countries!! Check-in deadline: The passenger strictly needs to observe the dead- line of 120 minutes on all outbound and inbound flights (180 minutes on flights to the U.S. and Canada). If the passenger has not reported to the Check-in within this time, the airline is authorized to alternatively dispose of the seat. Please be aware that more restrictive security measures concerning hand luggage on flights to and from the USA are in place. Please inform yourself by your Travel Agent or on our website WWW.CONDOR.COM.",
+      "type": "text"
+    },
+    {
+      "id": "814bc622-8523-4ae0-ba06-ca84cef8452f",
+      "grounding": {
+        "box": {
+          "bottom": 0.9357917308807373,
+          "left": 0.06876024603843689,
+          "right": 0.8698210716247559,
+          "top": 0.904782772064209
+        },
+        "page": 2
+      },
+      "markdown": "<a id='814bc622-8523-4ae0-ba06-ca84cef8452f'></a>\n\nThe published flight times can to a reasonable extent be subject to changes for flight operating reasons. Condor will endeavor to keep changes in flight times to a minimum and inform all passengers of them as early as possible.",
+      "type": "text"
+    },
+    {
+      "id": "c28989a7-3033-4bcf-9056-c344afbbaea6",
+      "grounding": {
+        "box": {
+          "bottom": 0.07927028089761734,
+          "left": 0.7186924815177917,
+          "right": 0.9285611510276794,
+          "top": 0.041664063930511475
+        },
+        "page": 3
+      },
+      "markdown": "<a id='c28989a7-3033-4bcf-9056-c344afbbaea6'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>",
+      "type": "logo"
+    },
+    {
+      "id": "d2c7f399-8cff-46d5-8df4-bdb1f9b17697",
+      "grounding": {
+        "box": {
+          "bottom": 0.13144652545452118,
+          "left": 0.8492424488067627,
+          "right": 0.9300287961959839,
+          "top": 0.11354048550128937
+        },
+        "page": 3
+      },
+      "markdown": "<a id='d2c7f399-8cff-46d5-8df4-bdb1f9b17697'></a>\n\nPage 4 / 4",
+      "type": "marginalia"
+    },
+    {
+      "id": "0c998a57-8838-4199-8330-2f0de934873b",
+      "grounding": {
+        "box": {
+          "bottom": 0.18003036081790924,
+          "left": 0.06945914030075073,
+          "right": 0.7424303889274597,
+          "top": 0.16006465256214142
+        },
+        "page": 3
+      },
+      "markdown": "<a id='0c998a57-8838-4199-8330-2f0de934873b'></a>\n\nFree baggage allowance: The free baggage allowance specified above is per person, not per seat.",
+      "type": "text"
+    },
+    {
+      "id": "1b792cb7-d55f-4d7e-8c84-3169ff5f7abb",
+      "grounding": {
+        "box": {
+          "bottom": 0.38333627581596375,
+          "left": 0.06915280222892761,
+          "right": 0.9295161962509155,
+          "top": 0.18706902861595154
+        },
+        "page": 3
+      },
+      "markdown": "<a id='1b792cb7-d55f-4d7e-8c84-3169ff5f7abb'></a>\n\n**Liability:**\nOn a journey with an ultimate destination or a stop in a country other than the country of departure an international treaty, such as the 1999 Montreal Convention or the Warsaw Convention including its amendments or any other treaty, as well as a carrier's own contract of carriage or tariff provisions may apply in respect of liability for the entire journey. The applicable treaty governs and may limit the liability of carriers to passengers for death or personal injury, for loss of or damage to baggage, and for delay. Where the Montreal Convention applies the liability for destruction, loss of, or damage or delay to baggage is limited to a maximum of 1,288 special drawing rights (SDRs)/approx. EUR 1,595 per passenger. For damage occasioned by delay to the journey the limit of liability is a maximum of 5,346 SDRs/approx. EUR 6,621 per passenger. There is no limitation on the liability of EU airlines for death or bodily injury. Where the transportation is governed by the Warsaw Convention, limits of the Montreal Convention do not apply. According to this, in the event a passenger suffers a loss of up to 128,821 SDRs/approx. EUR 159,500 it cannot be proven that the party suffering the loss was partially or completely at fault for causing the damage. Regardless of which Convention applies to the journey, additional protection for loss of, damage or delay to baggage can usually be obtained by purchasing insurance from a private company. If your journey involves carriage by different carriers, their limits of liability shall apply. For further information please consult your airline or insurance company representative.",
+      "type": "text"
+    },
+    {
+      "id": "6badaa26-5623-49fc-a1d1-88345c1eba1d",
+      "grounding": {
+        "box": {
+          "bottom": 0.4232604205608368,
+          "left": 0.06841480731964111,
+          "right": 0.5852561593055725,
+          "top": 0.39156147837638855
+        },
+        "page": 3
+      },
+      "markdown": "<a id='6badaa26-5623-49fc-a1d1-88345c1eba1d'></a>\n\nThe general terms and conditions for transportation can be viewed at www.condor.com or by your Travel Agent.",
+      "type": "text"
+    },
+    {
+      "id": "f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e",
+      "grounding": {
+        "box": {
+          "bottom": 0.4862264096736908,
+          "left": 0.06973478198051453,
+          "right": 0.54369056224823,
+          "top": 0.43083634972572327
+        },
+        "page": 3
+      },
+      "markdown": "<a id='f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e'></a>\n\nLegal notes regarding taxes:\nservice according to Par. 25 UStG (German Sales Tax Code)\nCross-border passenger transportation according to Par. 26,3 UStG\n(German Sales Tax Code). Tax no.: 035 222 50034",
+      "type": "text"
+    },
+    {
+      "id": "27204094-a9bc-44ec-8aa5-d339d5a15032",
+      "grounding": {
+        "box": {
+          "bottom": 0.5120456218719482,
+          "left": 0.06972160935401917,
+          "right": 0.48607680201530457,
+          "top": 0.4939626455307007
+        },
+        "page": 3
+      },
+      "markdown": "<a id='27204094-a9bc-44ec-8aa5-d339d5a15032'></a>\n\nPrices for purely German domestic flights include 19% VAT",
+      "type": "text"
+    },
+    {
+      "id": "366e4e08-1992-4cd7-9243-17a2317b248e",
+      "grounding": {
+        "box": {
+          "bottom": 0.563441276550293,
+          "left": 0.07070320844650269,
+          "right": 0.5606322288513184,
+          "top": 0.5198274850845337
+        },
+        "page": 3
+      },
+      "markdown": "<a id='366e4e08-1992-4cd7-9243-17a2317b248e'></a>\n\nTaxes/commercial fees include any applicable taxes, fees or other charges as may become due in the applicable currency of any relevant jurisdiction.",
+      "type": "text"
+    },
+    {
+      "id": "825b5fc4-9c81-4cd9-9470-f2ed0f766cc9",
+      "grounding": {
+        "box": {
+          "bottom": 0.6035201549530029,
+          "left": 0.06908175349235535,
+          "right": 0.5725562572479248,
+          "top": 0.5700352191925049
+        },
+        "page": 3
+      },
+      "markdown": "<a id='825b5fc4-9c81-4cd9-9470-f2ed0f766cc9'></a>\n\nPlease be reminded of the handluggage-rules concerning the carriage of liquids. Info on www.condor.com.",
+      "type": "text"
+    },
+    {
+      "id": "e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba",
+      "grounding": {
+        "box": {
+          "bottom": 0.7175912857055664,
+          "left": 0.06917540729045868,
+          "right": 0.5546754002571106,
+          "top": 0.6343643665313721
+        },
+        "page": 3
+      },
+      "markdown": "<a id='e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba'></a>\n\nCondor Flugdienst GmbH,\nChairman of the Supervisory Board: Friedrich Andreae,\nExecutive Board: Peter Gerber (CEO), Heiko Holm, Christian Schmitt,\nBj\u00f6rn Walther.\nRegistered Office: Kelsterbach/Germany, Register Court and Number:\nAmtsgericht Darmstadt HRB 83385.",
+      "type": "text"
+    },
+    {
+      "id": "37d704d5-db2d-4340-ba86-26a214036da3",
+      "grounding": {
+        "box": {
+          "bottom": 0.8192108869552612,
+          "left": 0.0682988166809082,
+          "right": 0.8216071724891663,
+          "top": 0.7681940793991089
+        },
+        "page": 3
+      },
+      "markdown": "<a id='37d704d5-db2d-4340-ba86-26a214036da3'></a>\n\n***\nThe General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='6a7520cc-51fe-40ca-a316-6a23a56e6f2b'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in a bold, sans-serif font, followed by a circular emblem containing a stylized bird or wing symbol.::>\n\n<a id='9e749e87-9899-43cf-9f24-60e4ad209b3a'></a>\n\nMRS\nANDREA KROPP\n227 N 5TH AVE, RIDGEFIELD, WA\nUS-98642 RIDGEFIELD\n\n<a id='74c735f0-1941-4c46-aa73-3dee1fcb3d45'></a>\n\nCondor Flugdienst GmbH\nAn der Gehespitz 50\n63263 Neu-Isenburg\nTel. +49 (0)6171 - 69889 20\n\n<a id='69852521-28dc-41ed-89d0-cf09d1d8f6bc'></a>\n\nbooking ref.: 11828454 version: 01\nconf. date: 27.03.2025\n\n<a id='d0c6f77f-0310-47ed-b4c7-117897006a15'></a>\n\nBooking - Confirmation / Invoice\n\n<a id='82a8c6ef-a199-47ea-8c7a-d2fcedbbc216'></a>\n\nPage 1 / 4\n\n<a id='fa0b049a-d01e-4c95-8bc9-4172b2ab2783'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">pos</td><td id=\"0-3\">name</td><td id=\"0-4\">age remark</td><td id=\"0-5\">amount</td></tr>\n<tr><td id=\"0-6\">1</td><td id=\"0-7\" colspan=\"2\">KROPP/ANDREA KASTRUP</td><td id=\"0-8\">1,001.23</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\">Taxes, fees and other surcharges in total</td><td id=\"0-c\">188.75</td></tr>\n<tr><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\">Seat reservation 34A, 36A FK: ZYIM6E</td><td id=\"0-g\">100.00</td></tr>\n<tr><td id=\"0-h\">2</td><td id=\"0-i\">KROPP/KARL</td><td id=\"0-j\">ROBERT</td><td id=\"0-k\">1,001.23</td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">Taxes, fees and other surcharges in total</td><td id=\"0-o\">188.75</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">Seat reservation 34C, 36C</td><td id=\"0-s\">100.00</td></tr>\n<tr><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">total amount USD</td><td id=\"0-w\">2,579.96</td></tr>\n</table>\n\n<a id='f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9'></a>\n\nDetails of Taxes, fees and other surcharges\nTravellers Taxes, fees and other surcharges\n                                 per traveller in detail\n\n1,2             188.75 USD       US USD 22.90 XF USD 4.50 AY USD 5.60 XF\n                                 USD 4.50 DE EUR 11.86 RA EUR 27.11 WP EUR\n                                 19.44 WQ EUR 5.00 DE EUR 11.86 RA EUR 27.\n                                 11 US USD 22.90 XA USD 3.71 XY USD 7.00\n                                 YC USD 7.20\n\n<a id='76fd5dac-895a-4257-b167-9fb974ff99b9'></a>\n\nPassenger Service\n\nall on 26.07.25\n\nPORTLAND - SEATTLE\nAS 2188 14:30 - 15:24 (0:54h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nSEATTLE - FRANKFURT INT.\nDE 2033 17:15 - 12:20+1 (10:05h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\n\n<a id='9de6db54-3e02-418c-b068-35e3cf4ab3f5'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in a bold, sans-serif font, accompanied by a circular emblem containing a stylized bird or wing shape.\n::>\n\n<a id='4f1144de-8784-490a-b849-cbfa3dbd5173'></a>\n\nPage 2 / 4\n\n<a id='93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb'></a>\n\n27.07.25\nCarry-on baggage: 1 piece total 8 kg\nFRANKFURT INT. - ATHEN\nGQ 861 14:25 - 18:10 (2:45h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\n\nall on 10.08.25\nATHEN - FRANKFURT INT.\nGQ 860 11:15 - 13:25 (3:10h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nFRANKFURT INT. - PORTLAND\nDE 2090 14:55 - 16:35 (10:40h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nCheck-In Referenz: ZYIM6E\n\nSecure Flight details need to be provided\nbefore departure.\n\n<a id='7542ccc8-283d-4936-aa6b-5f7734707f86'></a>\n\nGQ = Sky Express\nDE = Condor\nAS = Alaska Airlines\n\n<a id='420e9652-31bf-4621-a491-ad768fc5f2c6'></a>\n\nClassic: Please note the special cancellation and rebooking conditions.\nSchedule and routing subject to change without notice.\n\n<a id='dec22989-f3fa-464d-989e-f440f1ee52b3'></a>\n\nBooked on 27.03.25\n\n<a id='b40676d2-136d-47d9-ad07-9bf2c81e3483'></a>\n\nYour customer number is: 72630224\n\n<a id='7bac6e3c-c85f-47b6-856c-ad64f5dcd51e'></a>\n\nContact:\nANDREA KROPP\n227 N 5TH AVE, RIDGEFIELD, WA\n98642 RIDGEFIELD\nE-mail: andr3akropp@gmail.com\n\nPhone private: +1 360-624-2355\n\n<a id='03332738-7a4f-4038-a0d0-d5d1d8f47c6f'></a>\n\nPayment by Credit Card.\n\n<a id='6c5dffb4-eb09-445f-8c6a-325f23b0da38'></a>\n\nBefore your journey begins, please research the necessary entry requirements and regulations pertaining to your destination airport in order to avoid being denied boarding or receiving fines from the local authorities. Please note that the local applicable regulations may differ from the regulations in your country of residence. Further information: https://www.condor.com/entry-regulations\n\n<a id='d3c9a42b-afae-4d49-a00d-6725abf2e8be'></a>\n\nFor flights to/from USA and Canada, a free baggage allowance of one item weighing up to 23kg applies in Economy class (except LIGHT tariff), or 32 kg in Premium Economy class. In Business class, 2 baggage items weighing up to 32kg per item will be carried without charge. Infants under age 2 have a free baggage allowance of one item weighing up to 10kg in Economy class (except LIGHT tariff), also in Premium Economy class and Business class. The LIGHT tariff does not normally include any free baggage allowance.\n\n<a id='9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>\n\n<a id='55e02ca0-1b4b-45f1-b886-35649f2ea745'></a>\n\nPage 3 / 4\n\n<a id='bf6bbb5c-e45e-4814-a4ba-502c048fe568'></a>\n\nImportant! It is essential to find out about the important entry and transit requirements for the USA (incl. Puerto Rico) and/or Canada, as if you do not register for the ESTA and/or eTA and (TSA) Secure Flight programs, you will be refused entry to the USA / to Canada (and also transit through USA/Canada). For further information please go to condor.com / Flight Preparation / Entry Regulations and Customs.\n\n<a id='8f7f462f-6ad7-4a30-b60a-de84fba865f9'></a>\n\nYou will be asked for your Secure Flight data (title/gender, first name, surname, date of birth, Redress Number* if available) when you make your booking through condor.com and the data will be automatically be forwarded to the authorities in the USA. In this case, there is then no requirement for the data to be recorded separately.\n\n<a id='0dd6a761-6807-41ca-858c-f4e06bb7532e'></a>\n\nIf you did not provide this information when you made your booking, please do so as quickly as possible, and ideally right after you book your flight on condor.com / My booking.\n\n<a id='613ab747-01a9-44e6-b43d-eafae4a2dcca'></a>\n\nWhen registering the electronic travel application ESTA and/or eTA with a German passport, it is important to ensure that the letters \"O\" and \"I\" are not used in German Passports. In case of doubt, it is a zero (0) or an one (1).\n\n<a id='32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0'></a>\n\nPlease note the following if a Canadian airport is located on your itinerary:\n\n<a id='8b458b96-cf8e-4b30-88bf-72f29ec00671'></a>\n\nOn the following page you can find the summary of key terms and conditions of carriage as required under Canadian APPR SOR/2019-150: https://www.condor.com/us/info-service/canada-key-terms-conditions-of-carriage.jsp\n\n<a id='bca3c438-5382-4020-9ac1-6bed0c82e90e'></a>\n\nNotice according to Canadian Air Passenger Protection Regulations: SOR/2019- 150\n\n<a id='5c7ec4c9-0bb7-412d-8d89-b9df98802cf4'></a>\n\nIf you are denied boarding, your flight is cancelled or delayed for at least two hours, or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the Air Passenger Protection Regulations. For more information about your passenger rights please contact your air carrier or visit the Canadian Transportation Agency's website.\n\n<a id='605e236b-75c0-498e-a34e-acf12e279961'></a>\n\nSi l'embarquement vous est refus\u00e9, ou si votre vol est annul\u00e9 ou retard\u00e9 d'au moins deux heures ou si vos bagages sont perdus ou endommag\u00e9s, vous pourriez avoir droit au titre du R\u00e8glement sur la protection des passagers a\u00e9riens, \u00e0 certains avantages au titre des normes de traitement applicables et \u00e0 une indemnit\u00e9. Pour de plus amples renseignements sur vos droits, veuillez communiquer avec votre transporteur a\u00e9rien ou visiter le site Web de l'Office des transports du Canada.avec votre transporteur a\u00e9rien ou visiter le site Web de l'Office des transports du Canada.\n\n<a id='ec9bdf7b-b6c7-4dfc-895b-99f3756d7209'></a>\n\n**Important Information concerning your outbward flight**\nCHECK-IN: Alaska AIRLINES\n\nCHECK-IN DEADLINE: please beaware that you have to finalize the check-in procedure and be in possession of your boarding-card at the latest 60 minutes prior to departure. Principally we recommend that you are at check-in 2 hours prior to departure.\n\n<a id='395414d7-c80c-4747-be88-d97a7f719456'></a>\n\nFLIGHT-RECONFIRMATION: You can check your flight times starting 48 hours before your flight on the internet at www.condor.com. You will find all the important information on your flight under the menu item Flight info - Departures and Arrivals. The General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp\n\n<a id='91fbac33-63b2-42c1-affc-12651ce017cd'></a>\n\nSpecial note for ticketless travel TKNE/NOTIX: At the Check-in, please have at hand this booking itinerary and a valid passport/personal identification card for all passengers, including children and infants. If you have booked a feeder with one of our partner-airlines an electronic-ticket will be issued for this flight. Please check and observe the visa and entry requirements for the country of destination and any transit countries!! Check-in deadline: The passenger strictly needs to observe the dead- line of 120 minutes on all outbound and inbound flights (180 minutes on flights to the U.S. and Canada). If the passenger has not reported to the Check-in within this time, the airline is authorized to alternatively dispose of the seat. Please be aware that more restrictive security measures concerning hand luggage on flights to and from the USA are in place. Please inform yourself by your Travel Agent or on our website WWW.CONDOR.COM.\n\n<a id='814bc622-8523-4ae0-ba06-ca84cef8452f'></a>\n\nThe published flight times can to a reasonable extent be subject to changes for flight operating reasons. Condor will endeavor to keep changes in flight times to a minimum and inform all passengers of them as early as possible.\n\n<a id='c28989a7-3033-4bcf-9056-c344afbbaea6'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>\n\n<a id='d2c7f399-8cff-46d5-8df4-bdb1f9b17697'></a>\n\nPage 4 / 4\n\n<a id='0c998a57-8838-4199-8330-2f0de934873b'></a>\n\nFree baggage allowance: The free baggage allowance specified above is per person, not per seat.\n\n<a id='1b792cb7-d55f-4d7e-8c84-3169ff5f7abb'></a>\n\n**Liability:**\nOn a journey with an ultimate destination or a stop in a country other than the country of departure an international treaty, such as the 1999 Montreal Convention or the Warsaw Convention including its amendments or any other treaty, as well as a carrier's own contract of carriage or tariff provisions may apply in respect of liability for the entire journey. The applicable treaty governs and may limit the liability of carriers to passengers for death or personal injury, for loss of or damage to baggage, and for delay. Where the Montreal Convention applies the liability for destruction, loss of, or damage or delay to baggage is limited to a maximum of 1,288 special drawing rights (SDRs)/approx. EUR 1,595 per passenger. For damage occasioned by delay to the journey the limit of liability is a maximum of 5,346 SDRs/approx. EUR 6,621 per passenger. There is no limitation on the liability of EU airlines for death or bodily injury. Where the transportation is governed by the Warsaw Convention, limits of the Montreal Convention do not apply. According to this, in the event a passenger suffers a loss of up to 128,821 SDRs/approx. EUR 159,500 it cannot be proven that the party suffering the loss was partially or completely at fault for causing the damage. Regardless of which Convention applies to the journey, additional protection for loss of, damage or delay to baggage can usually be obtained by purchasing insurance from a private company. If your journey involves carriage by different carriers, their limits of liability shall apply. For further information please consult your airline or insurance company representative.\n\n<a id='6badaa26-5623-49fc-a1d1-88345c1eba1d'></a>\n\nThe general terms and conditions for transportation can be viewed at www.condor.com or by your Travel Agent.\n\n<a id='f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e'></a>\n\nLegal notes regarding taxes:\nservice according to Par. 25 UStG (German Sales Tax Code)\nCross-border passenger transportation according to Par. 26,3 UStG\n(German Sales Tax Code). Tax no.: 035 222 50034\n\n<a id='27204094-a9bc-44ec-8aa5-d339d5a15032'></a>\n\nPrices for purely German domestic flights include 19% VAT\n\n<a id='366e4e08-1992-4cd7-9243-17a2317b248e'></a>\n\nTaxes/commercial fees include any applicable taxes, fees or other charges as may become due in the applicable currency of any relevant jurisdiction.\n\n<a id='825b5fc4-9c81-4cd9-9470-f2ed0f766cc9'></a>\n\nPlease be reminded of the handluggage-rules concerning the carriage of liquids. Info on www.condor.com.\n\n<a id='e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba'></a>\n\nCondor Flugdienst GmbH,\nChairman of the Supervisory Board: Friedrich Andreae,\nExecutive Board: Peter Gerber (CEO), Heiko Holm, Christian Schmitt,\nBj\u00f6rn Walther.\nRegistered Office: Kelsterbach/Germany, Register Court and Number:\nAmtsgericht Darmstadt HRB 83385.\n\n<a id='37d704d5-db2d-4340-ba86-26a214036da3'></a>\n\n***\nThe General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp",
+  "metadata": {
+    "credit_usage": 12.0,
+    "duration_ms": 6948,
+    "filename": "invoice_12.pdf",
+    "job_id": "opwu903u9asq6hgaez69v6t93",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 4,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "6a7520cc-51fe-40ca-a316-6a23a56e6f2b",
+        "9e749e87-9899-43cf-9f24-60e4ad209b3a",
+        "74c735f0-1941-4c46-aa73-3dee1fcb3d45",
+        "69852521-28dc-41ed-89d0-cf09d1d8f6bc",
+        "d0c6f77f-0310-47ed-b4c7-117897006a15",
+        "82a8c6ef-a199-47ea-8c7a-d2fcedbbc216",
+        "fa0b049a-d01e-4c95-8bc9-4172b2ab2783",
+        "f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9",
+        "76fd5dac-895a-4257-b167-9fb974ff99b9",
+        "9de6db54-3e02-418c-b068-35e3cf4ab3f5",
+        "4f1144de-8784-490a-b849-cbfa3dbd5173",
+        "93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb",
+        "7542ccc8-283d-4936-aa6b-5f7734707f86",
+        "420e9652-31bf-4621-a491-ad768fc5f2c6",
+        "dec22989-f3fa-464d-989e-f440f1ee52b3",
+        "b40676d2-136d-47d9-ad07-9bf2c81e3483",
+        "7bac6e3c-c85f-47b6-856c-ad64f5dcd51e",
+        "03332738-7a4f-4038-a0d0-d5d1d8f47c6f",
+        "6c5dffb4-eb09-445f-8c6a-325f23b0da38",
+        "d3c9a42b-afae-4d49-a00d-6725abf2e8be",
+        "9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b",
+        "55e02ca0-1b4b-45f1-b886-35649f2ea745",
+        "bf6bbb5c-e45e-4814-a4ba-502c048fe568",
+        "8f7f462f-6ad7-4a30-b60a-de84fba865f9",
+        "0dd6a761-6807-41ca-858c-f4e06bb7532e",
+        "613ab747-01a9-44e6-b43d-eafae4a2dcca",
+        "32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0",
+        "8b458b96-cf8e-4b30-88bf-72f29ec00671",
+        "bca3c438-5382-4020-9ac1-6bed0c82e90e",
+        "5c7ec4c9-0bb7-412d-8d89-b9df98802cf4",
+        "605e236b-75c0-498e-a34e-acf12e279961",
+        "ec9bdf7b-b6c7-4dfc-895b-99f3756d7209",
+        "395414d7-c80c-4747-be88-d97a7f719456",
+        "91fbac33-63b2-42c1-affc-12651ce017cd",
+        "814bc622-8523-4ae0-ba06-ca84cef8452f",
+        "c28989a7-3033-4bcf-9056-c344afbbaea6",
+        "d2c7f399-8cff-46d5-8df4-bdb1f9b17697",
+        "0c998a57-8838-4199-8330-2f0de934873b",
+        "1b792cb7-d55f-4d7e-8c84-3169ff5f7abb",
+        "6badaa26-5623-49fc-a1d1-88345c1eba1d",
+        "f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e",
+        "27204094-a9bc-44ec-8aa5-d339d5a15032",
+        "366e4e08-1992-4cd7-9243-17a2317b248e",
+        "825b5fc4-9c81-4cd9-9470-f2ed0f766cc9",
+        "e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba",
+        "37d704d5-db2d-4340-ba86-26a214036da3"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='6a7520cc-51fe-40ca-a316-6a23a56e6f2b'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in a bold, sans-serif font, followed by a circular emblem containing a stylized bird or wing symbol.::>\n\n<a id='9e749e87-9899-43cf-9f24-60e4ad209b3a'></a>\n\nMRS\nANDREA KROPP\n227 N 5TH AVE, RIDGEFIELD, WA\nUS-98642 RIDGEFIELD\n\n<a id='74c735f0-1941-4c46-aa73-3dee1fcb3d45'></a>\n\nCondor Flugdienst GmbH\nAn der Gehespitz 50\n63263 Neu-Isenburg\nTel. +49 (0)6171 - 69889 20\n\n<a id='69852521-28dc-41ed-89d0-cf09d1d8f6bc'></a>\n\nbooking ref.: 11828454 version: 01\nconf. date: 27.03.2025\n\n<a id='d0c6f77f-0310-47ed-b4c7-117897006a15'></a>\n\nBooking - Confirmation / Invoice\n\n<a id='82a8c6ef-a199-47ea-8c7a-d2fcedbbc216'></a>\n\nPage 1 / 4\n\n<a id='fa0b049a-d01e-4c95-8bc9-4172b2ab2783'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">pos</td><td id=\"0-3\">name</td><td id=\"0-4\">age remark</td><td id=\"0-5\">amount</td></tr>\n<tr><td id=\"0-6\">1</td><td id=\"0-7\" colspan=\"2\">KROPP/ANDREA KASTRUP</td><td id=\"0-8\">1,001.23</td></tr>\n<tr><td id=\"0-9\"></td><td id=\"0-a\"></td><td id=\"0-b\">Taxes, fees and other surcharges in total</td><td id=\"0-c\">188.75</td></tr>\n<tr><td id=\"0-d\"></td><td id=\"0-e\"></td><td id=\"0-f\">Seat reservation 34A, 36A FK: ZYIM6E</td><td id=\"0-g\">100.00</td></tr>\n<tr><td id=\"0-h\">2</td><td id=\"0-i\">KROPP/KARL</td><td id=\"0-j\">ROBERT</td><td id=\"0-k\">1,001.23</td></tr>\n<tr><td id=\"0-l\"></td><td id=\"0-m\"></td><td id=\"0-n\">Taxes, fees and other surcharges in total</td><td id=\"0-o\">188.75</td></tr>\n<tr><td id=\"0-p\"></td><td id=\"0-q\"></td><td id=\"0-r\">Seat reservation 34C, 36C</td><td id=\"0-s\">100.00</td></tr>\n<tr><td id=\"0-t\"></td><td id=\"0-u\"></td><td id=\"0-v\">total amount USD</td><td id=\"0-w\">2,579.96</td></tr>\n</table>\n\n<a id='f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9'></a>\n\nDetails of Taxes, fees and other surcharges\nTravellers Taxes, fees and other surcharges\n                                 per traveller in detail\n\n1,2             188.75 USD       US USD 22.90 XF USD 4.50 AY USD 5.60 XF\n                                 USD 4.50 DE EUR 11.86 RA EUR 27.11 WP EUR\n                                 19.44 WQ EUR 5.00 DE EUR 11.86 RA EUR 27.\n                                 11 US USD 22.90 XA USD 3.71 XY USD 7.00\n                                 YC USD 7.20\n\n<a id='76fd5dac-895a-4257-b167-9fb974ff99b9'></a>\n\nPassenger Service\n\nall on 26.07.25\n\nPORTLAND - SEATTLE\nAS 2188 14:30 - 15:24 (0:54h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nSEATTLE - FRANKFURT INT.\nDE 2033 17:15 - 12:20+1 (10:05h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\n\n<a id='9de6db54-3e02-418c-b068-35e3cf4ab3f5'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in a bold, sans-serif font, accompanied by a circular emblem containing a stylized bird or wing shape.\n::>\n\n<a id='4f1144de-8784-490a-b849-cbfa3dbd5173'></a>\n\nPage 2 / 4\n\n<a id='93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb'></a>\n\n27.07.25\nCarry-on baggage: 1 piece total 8 kg\nFRANKFURT INT. - ATHEN\nGQ 861 14:25 - 18:10 (2:45h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\n\nall on 10.08.25\nATHEN - FRANKFURT INT.\nGQ 860 11:15 - 13:25 (3:10h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nFRANKFURT INT. - PORTLAND\nDE 2090 14:55 - 16:35 (10:40h)\nSPO = Classic\nEconomy Class\nbaggage incl.: 1 PC \u00e1 23 kg\nCarry-on baggage: 1 piece total 8 kg\nCheck-In Referenz: ZYIM6E\n\nSecure Flight details need to be provided\nbefore departure.\n\n<a id='7542ccc8-283d-4936-aa6b-5f7734707f86'></a>\n\nGQ = Sky Express\nDE = Condor\nAS = Alaska Airlines\n\n<a id='420e9652-31bf-4621-a491-ad768fc5f2c6'></a>\n\nClassic: Please note the special cancellation and rebooking conditions.\nSchedule and routing subject to change without notice.\n\n<a id='dec22989-f3fa-464d-989e-f440f1ee52b3'></a>\n\nBooked on 27.03.25\n\n<a id='b40676d2-136d-47d9-ad07-9bf2c81e3483'></a>\n\nYour customer number is: 72630224\n\n<a id='7bac6e3c-c85f-47b6-856c-ad64f5dcd51e'></a>\n\nContact:\nANDREA KROPP\n227 N 5TH AVE, RIDGEFIELD, WA\n98642 RIDGEFIELD\nE-mail: andr3akropp@gmail.com\n\nPhone private: +1 360-624-2355\n\n<a id='03332738-7a4f-4038-a0d0-d5d1d8f47c6f'></a>\n\nPayment by Credit Card.\n\n<a id='6c5dffb4-eb09-445f-8c6a-325f23b0da38'></a>\n\nBefore your journey begins, please research the necessary entry requirements and regulations pertaining to your destination airport in order to avoid being denied boarding or receiving fines from the local authorities. Please note that the local applicable regulations may differ from the regulations in your country of residence. Further information: https://www.condor.com/entry-regulations\n\n<a id='d3c9a42b-afae-4d49-a00d-6725abf2e8be'></a>\n\nFor flights to/from USA and Canada, a free baggage allowance of one item weighing up to 23kg applies in Economy class (except LIGHT tariff), or 32 kg in Premium Economy class. In Business class, 2 baggage items weighing up to 32kg per item will be carried without charge. Infants under age 2 have a free baggage allowance of one item weighing up to 10kg in Economy class (except LIGHT tariff), also in Premium Economy class and Business class. The LIGHT tariff does not normally include any free baggage allowance.\n\n<a id='9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>\n\n<a id='55e02ca0-1b4b-45f1-b886-35649f2ea745'></a>\n\nPage 3 / 4\n\n<a id='bf6bbb5c-e45e-4814-a4ba-502c048fe568'></a>\n\nImportant! It is essential to find out about the important entry and transit requirements for the USA (incl. Puerto Rico) and/or Canada, as if you do not register for the ESTA and/or eTA and (TSA) Secure Flight programs, you will be refused entry to the USA / to Canada (and also transit through USA/Canada). For further information please go to condor.com / Flight Preparation / Entry Regulations and Customs.\n\n<a id='8f7f462f-6ad7-4a30-b60a-de84fba865f9'></a>\n\nYou will be asked for your Secure Flight data (title/gender, first name, surname, date of birth, Redress Number* if available) when you make your booking through condor.com and the data will be automatically be forwarded to the authorities in the USA. In this case, there is then no requirement for the data to be recorded separately.\n\n<a id='0dd6a761-6807-41ca-858c-f4e06bb7532e'></a>\n\nIf you did not provide this information when you made your booking, please do so as quickly as possible, and ideally right after you book your flight on condor.com / My booking.\n\n<a id='613ab747-01a9-44e6-b43d-eafae4a2dcca'></a>\n\nWhen registering the electronic travel application ESTA and/or eTA with a German passport, it is important to ensure that the letters \"O\" and \"I\" are not used in German Passports. In case of doubt, it is a zero (0) or an one (1).\n\n<a id='32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0'></a>\n\nPlease note the following if a Canadian airport is located on your itinerary:\n\n<a id='8b458b96-cf8e-4b30-88bf-72f29ec00671'></a>\n\nOn the following page you can find the summary of key terms and conditions of carriage as required under Canadian APPR SOR/2019-150: https://www.condor.com/us/info-service/canada-key-terms-conditions-of-carriage.jsp\n\n<a id='bca3c438-5382-4020-9ac1-6bed0c82e90e'></a>\n\nNotice according to Canadian Air Passenger Protection Regulations: SOR/2019- 150\n\n<a id='5c7ec4c9-0bb7-412d-8d89-b9df98802cf4'></a>\n\nIf you are denied boarding, your flight is cancelled or delayed for at least two hours, or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the Air Passenger Protection Regulations. For more information about your passenger rights please contact your air carrier or visit the Canadian Transportation Agency's website.\n\n<a id='605e236b-75c0-498e-a34e-acf12e279961'></a>\n\nSi l'embarquement vous est refus\u00e9, ou si votre vol est annul\u00e9 ou retard\u00e9 d'au moins deux heures ou si vos bagages sont perdus ou endommag\u00e9s, vous pourriez avoir droit au titre du R\u00e8glement sur la protection des passagers a\u00e9riens, \u00e0 certains avantages au titre des normes de traitement applicables et \u00e0 une indemnit\u00e9. Pour de plus amples renseignements sur vos droits, veuillez communiquer avec votre transporteur a\u00e9rien ou visiter le site Web de l'Office des transports du Canada.avec votre transporteur a\u00e9rien ou visiter le site Web de l'Office des transports du Canada.\n\n<a id='ec9bdf7b-b6c7-4dfc-895b-99f3756d7209'></a>\n\n**Important Information concerning your outbward flight**\nCHECK-IN: Alaska AIRLINES\n\nCHECK-IN DEADLINE: please beaware that you have to finalize the check-in procedure and be in possession of your boarding-card at the latest 60 minutes prior to departure. Principally we recommend that you are at check-in 2 hours prior to departure.\n\n<a id='395414d7-c80c-4747-be88-d97a7f719456'></a>\n\nFLIGHT-RECONFIRMATION: You can check your flight times starting 48 hours before your flight on the internet at www.condor.com. You will find all the important information on your flight under the menu item Flight info - Departures and Arrivals. The General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp\n\n<a id='91fbac33-63b2-42c1-affc-12651ce017cd'></a>\n\nSpecial note for ticketless travel TKNE/NOTIX: At the Check-in, please have at hand this booking itinerary and a valid passport/personal identification card for all passengers, including children and infants. If you have booked a feeder with one of our partner-airlines an electronic-ticket will be issued for this flight. Please check and observe the visa and entry requirements for the country of destination and any transit countries!! Check-in deadline: The passenger strictly needs to observe the dead- line of 120 minutes on all outbound and inbound flights (180 minutes on flights to the U.S. and Canada). If the passenger has not reported to the Check-in within this time, the airline is authorized to alternatively dispose of the seat. Please be aware that more restrictive security measures concerning hand luggage on flights to and from the USA are in place. Please inform yourself by your Travel Agent or on our website WWW.CONDOR.COM.\n\n<a id='814bc622-8523-4ae0-ba06-ca84cef8452f'></a>\n\nThe published flight times can to a reasonable extent be subject to changes for flight operating reasons. Condor will endeavor to keep changes in flight times to a minimum and inform all passengers of them as early as possible.\n\n<a id='c28989a7-3033-4bcf-9056-c344afbbaea6'></a>\n\n<::logo: Condor\ncondor\nThe logo features the word \"condor\" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>\n\n<a id='d2c7f399-8cff-46d5-8df4-bdb1f9b17697'></a>\n\nPage 4 / 4\n\n<a id='0c998a57-8838-4199-8330-2f0de934873b'></a>\n\nFree baggage allowance: The free baggage allowance specified above is per person, not per seat.\n\n<a id='1b792cb7-d55f-4d7e-8c84-3169ff5f7abb'></a>\n\n**Liability:**\nOn a journey with an ultimate destination or a stop in a country other than the country of departure an international treaty, such as the 1999 Montreal Convention or the Warsaw Convention including its amendments or any other treaty, as well as a carrier's own contract of carriage or tariff provisions may apply in respect of liability for the entire journey. The applicable treaty governs and may limit the liability of carriers to passengers for death or personal injury, for loss of or damage to baggage, and for delay. Where the Montreal Convention applies the liability for destruction, loss of, or damage or delay to baggage is limited to a maximum of 1,288 special drawing rights (SDRs)/approx. EUR 1,595 per passenger. For damage occasioned by delay to the journey the limit of liability is a maximum of 5,346 SDRs/approx. EUR 6,621 per passenger. There is no limitation on the liability of EU airlines for death or bodily injury. Where the transportation is governed by the Warsaw Convention, limits of the Montreal Convention do not apply. According to this, in the event a passenger suffers a loss of up to 128,821 SDRs/approx. EUR 159,500 it cannot be proven that the party suffering the loss was partially or completely at fault for causing the damage. Regardless of which Convention applies to the journey, additional protection for loss of, damage or delay to baggage can usually be obtained by purchasing insurance from a private company. If your journey involves carriage by different carriers, their limits of liability shall apply. For further information please consult your airline or insurance company representative.\n\n<a id='6badaa26-5623-49fc-a1d1-88345c1eba1d'></a>\n\nThe general terms and conditions for transportation can be viewed at www.condor.com or by your Travel Agent.\n\n<a id='f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e'></a>\n\nLegal notes regarding taxes:\nservice according to Par. 25 UStG (German Sales Tax Code)\nCross-border passenger transportation according to Par. 26,3 UStG\n(German Sales Tax Code). Tax no.: 035 222 50034\n\n<a id='27204094-a9bc-44ec-8aa5-d339d5a15032'></a>\n\nPrices for purely German domestic flights include 19% VAT\n\n<a id='366e4e08-1992-4cd7-9243-17a2317b248e'></a>\n\nTaxes/commercial fees include any applicable taxes, fees or other charges as may become due in the applicable currency of any relevant jurisdiction.\n\n<a id='825b5fc4-9c81-4cd9-9470-f2ed0f766cc9'></a>\n\nPlease be reminded of the handluggage-rules concerning the carriage of liquids. Info on www.condor.com.\n\n<a id='e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba'></a>\n\nCondor Flugdienst GmbH,\nChairman of the Supervisory Board: Friedrich Andreae,\nExecutive Board: Peter Gerber (CEO), Heiko Holm, Christian Schmitt,\nBj\u00f6rn Walther.\nRegistered Office: Kelsterbach/Germany, Register Court and Number:\nAmtsgericht Darmstadt HRB 83385.\n\n<a id='37d704d5-db2d-4340-ba86-26a214036da3'></a>\n\n***\nThe General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp",
+      "pages": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "6a7520cc-51fe-40ca-a316-6a23a56e6f2b": {
+      "box": {
+        "bottom": 0.09276722371578217,
+        "left": 0.6393972039222717,
+        "right": 0.9278661608695984,
+        "top": 0.04564682021737099
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "9e749e87-9899-43cf-9f24-60e4ad209b3a": {
+      "box": {
+        "bottom": 0.22376635670661926,
+        "left": 0.0731598287820816,
+        "right": 0.3429955840110779,
+        "top": 0.15338042378425598
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "74c735f0-1941-4c46-aa73-3dee1fcb3d45": {
+      "box": {
+        "bottom": 0.21678829193115234,
+        "left": 0.6370638608932495,
+        "right": 0.8436071872711182,
+        "top": 0.1526584029197693
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "69852521-28dc-41ed-89d0-cf09d1d8f6bc": {
+      "box": {
+        "bottom": 0.2845308184623718,
+        "left": 0.641456663608551,
+        "right": 0.8959264159202576,
+        "top": 0.2519192099571228
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "d0c6f77f-0310-47ed-b4c7-117897006a15": {
+      "box": {
+        "bottom": 0.334686279296875,
+        "left": 0.07069417834281921,
+        "right": 0.47199562191963196,
+        "top": 0.31121325492858887
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "82a8c6ef-a199-47ea-8c7a-d2fcedbbc216": {
+      "box": {
+        "bottom": 0.32976922392845154,
+        "left": 0.8506335616111755,
+        "right": 0.9279336333274841,
+        "top": 0.3132800757884979
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "fa0b049a-d01e-4c95-8bc9-4172b2ab2783": {
+      "box": {
+        "bottom": 0.5526019334793091,
+        "left": 0.06963816285133362,
+        "right": 0.878506064414978,
+        "top": 0.3455338478088379
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.5525998723286207,
+        "left": 0.073706653233083,
+        "right": 0.8742979516355884,
+        "top": 0.3470984290547668
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3702823525671146,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.3470984290547668
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3702823525671146,
+        "left": 0.11912772880621447,
+        "right": 0.2916117366993669,
+        "top": 0.3470984290547668
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3702823525671146,
+        "left": 0.2916117366993669,
+        "right": 0.7407153569061222,
+        "top": 0.3470984290547668
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3702823525671146,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.3470984290547668
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.39344585713049085,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.3702823525671146
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.4246819478458761,
+        "left": 0.11912772880621447,
+        "right": 0.8742674814721365,
+        "top": 0.3702823525671146
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.39344585713049085,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.3702823525671146
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4246819478458761,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.39344585713049085
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.4246819478458761,
+        "left": 0.11912772880621447,
+        "right": 0.2916117366993669,
+        "top": 0.39344585713049085
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.4246819478458761,
+        "left": 0.2916117366993669,
+        "right": 0.7407153569061222,
+        "top": 0.39344585713049085
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.4246819478458761,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.39344585713049085
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.45514617465513396,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.4246819478458761
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.45514617465513396,
+        "left": 0.11912772880621447,
+        "right": 0.2916117366993669,
+        "top": 0.4246819478458761
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.45514617465513396,
+        "left": 0.2916117366993669,
+        "right": 0.7407153569061222,
+        "top": 0.4246819478458761
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.45514617465513396,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.4246819478458761
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.47163562700631445,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.45514617465513396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.47163562700631445,
+        "left": 0.11912772880621447,
+        "right": 0.2916117366993669,
+        "top": 0.45514617465513396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.47163562700631445,
+        "left": 0.2916117366993669,
+        "right": 0.7407153569061222,
+        "top": 0.45514617465513396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.47163562700631445,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.45514617465513396
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.5030795051613026,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.47163562700631445
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.5030795051613026,
+        "left": 0.11912772880621447,
+        "right": 0.2916117366993669,
+        "top": 0.47163562700631445
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.5030795051613026,
+        "left": 0.2916117366993669,
+        "right": 0.7407153569061222,
+        "top": 0.47163562700631445
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.5030795051613026,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.47163562700631445
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.5266293736554317,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.5030795051613026
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.5266293736554317,
+        "left": 0.11912772880621447,
+        "right": 0.2916117366993669,
+        "top": 0.5030795051613026
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5266293736554317,
+        "left": 0.2916117366993669,
+        "right": 0.7407153569061222,
+        "top": 0.5030795051613026
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5266293736554317,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.5030795051613026
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5525998723286207,
+        "left": 0.073706653233083,
+        "right": 0.11912772880621447,
+        "top": 0.5266293736554317
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.5525998723286207,
+        "left": 0.11912772880621447,
+        "right": 0.2916117366993669,
+        "top": 0.5266293736554317
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.5525998723286207,
+        "left": 0.2916117366993669,
+        "right": 0.7407153569061222,
+        "top": 0.5266293736554317
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.5525998723286207,
+        "left": 0.7407153569061222,
+        "right": 0.8742674814721365,
+        "top": 0.5266293736554317
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9": {
+      "box": {
+        "bottom": 0.7042161822319031,
+        "left": 0.07048904895782471,
+        "right": 0.8652747869491577,
+        "top": 0.5597050786018372
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "76fd5dac-895a-4257-b167-9fb974ff99b9": {
+      "box": {
+        "bottom": 0.949437141418457,
+        "left": 0.06928521394729614,
+        "right": 0.814981997013092,
+        "top": 0.7399429082870483
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9de6db54-3e02-418c-b068-35e3cf4ab3f5": {
+      "box": {
+        "bottom": 0.07858683168888092,
+        "left": 0.7193335294723511,
+        "right": 0.9278554916381836,
+        "top": 0.04197786748409271
+      },
+      "page": 1,
+      "type": "chunkLogo"
+    },
+    "4f1144de-8784-490a-b849-cbfa3dbd5173": {
+      "box": {
+        "bottom": 0.1317112296819687,
+        "left": 0.8494719862937927,
+        "right": 0.9293258786201477,
+        "top": 0.11352349817752838
+      },
+      "page": 1,
+      "type": "chunkMarginalia"
+    },
+    "93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb": {
+      "box": {
+        "bottom": 0.506264328956604,
+        "left": 0.06685295701026917,
+        "right": 0.8216468095779419,
+        "top": 0.16148364543914795
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "7542ccc8-283d-4936-aa6b-5f7734707f86": {
+      "box": {
+        "bottom": 0.5702610015869141,
+        "left": 0.068917416036129,
+        "right": 0.3046135902404785,
+        "top": 0.5193620920181274
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "420e9652-31bf-4621-a491-ad768fc5f2c6": {
+      "box": {
+        "bottom": 0.6093670129776001,
+        "left": 0.06993019580841064,
+        "right": 0.5603693127632141,
+        "top": 0.5782097578048706
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "dec22989-f3fa-464d-989e-f440f1ee52b3": {
+      "box": {
+        "bottom": 0.6454052925109863,
+        "left": 0.07091575115919113,
+        "right": 0.2204158902168274,
+        "top": 0.6287153959274292
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "b40676d2-136d-47d9-ad07-9bf2c81e3483": {
+      "box": {
+        "bottom": 0.6716477274894714,
+        "left": 0.07063861191272736,
+        "right": 0.3281862735748291,
+        "top": 0.6549202799797058
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "7bac6e3c-c85f-47b6-856c-ad64f5dcd51e": {
+      "box": {
+        "bottom": 0.7659837603569031,
+        "left": 0.06792321801185608,
+        "right": 0.8032951354980469,
+        "top": 0.683427631855011
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "03332738-7a4f-4038-a0d0-d5d1d8f47c6f": {
+      "box": {
+        "bottom": 0.802471935749054,
+        "left": 0.07012441754341125,
+        "right": 0.2471158504486084,
+        "top": 0.7851698994636536
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "6c5dffb4-eb09-445f-8c6a-325f23b0da38": {
+      "box": {
+        "bottom": 0.8895981311798096,
+        "left": 0.0689629316329956,
+        "right": 0.9224849939346313,
+        "top": 0.8357514142990112
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "d3c9a42b-afae-4d49-a00d-6725abf2e8be": {
+      "box": {
+        "bottom": 0.9560595750808716,
+        "left": 0.06937184929847717,
+        "right": 0.9223265647888184,
+        "top": 0.8886175155639648
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b": {
+      "box": {
+        "bottom": 0.07930270582437515,
+        "left": 0.7187888622283936,
+        "right": 0.9283391237258911,
+        "top": 0.041376546025276184
+      },
+      "page": 2,
+      "type": "chunkLogo"
+    },
+    "55e02ca0-1b4b-45f1-b886-35649f2ea745": {
+      "box": {
+        "bottom": 0.13291284441947937,
+        "left": 0.8494004607200623,
+        "right": 0.9301230311393738,
+        "top": 0.11284811794757843
+      },
+      "page": 2,
+      "type": "chunkMarginalia"
+    },
+    "bf6bbb5c-e45e-4814-a4ba-502c048fe568": {
+      "box": {
+        "bottom": 0.2299838811159134,
+        "left": 0.06867948174476624,
+        "right": 0.9203008413314819,
+        "top": 0.17284132540225983
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "8f7f462f-6ad7-4a30-b60a-de84fba865f9": {
+      "box": {
+        "bottom": 0.2816273868083954,
+        "left": 0.06968554854393005,
+        "right": 0.911070704460144,
+        "top": 0.23667176067829132
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "0dd6a761-6807-41ca-858c-f4e06bb7532e": {
+      "box": {
+        "bottom": 0.3199062943458557,
+        "left": 0.0694575309753418,
+        "right": 0.9024184942245483,
+        "top": 0.28855299949645996
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "613ab747-01a9-44e6-b43d-eafae4a2dcca": {
+      "box": {
+        "bottom": 0.3594287037849426,
+        "left": 0.06879013776779175,
+        "right": 0.92313551902771,
+        "top": 0.3261580467224121
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0": {
+      "box": {
+        "bottom": 0.3843863904476166,
+        "left": 0.06984326243400574,
+        "right": 0.5801920890808105,
+        "top": 0.36499419808387756
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "8b458b96-cf8e-4b30-88bf-72f29ec00671": {
+      "box": {
+        "bottom": 0.4234427809715271,
+        "left": 0.06829234957695007,
+        "right": 0.913371205329895,
+        "top": 0.389590859413147
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "bca3c438-5382-4020-9ac1-6bed0c82e90e": {
+      "box": {
+        "bottom": 0.4491207003593445,
+        "left": 0.06962957978248596,
+        "right": 0.6564081907272339,
+        "top": 0.4290603995323181
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "5c7ec4c9-0bb7-412d-8d89-b9df98802cf4": {
+      "box": {
+        "bottom": 0.5116022229194641,
+        "left": 0.06949761509895325,
+        "right": 0.9240297079086304,
+        "top": 0.4557243585586548
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "605e236b-75c0-498e-a34e-acf12e279961": {
+      "box": {
+        "bottom": 0.5900839567184448,
+        "left": 0.06970241665840149,
+        "right": 0.919440507888794,
+        "top": 0.5189597606658936
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "ec9bdf7b-b6c7-4dfc-895b-99f3756d7209": {
+      "box": {
+        "bottom": 0.678285539150238,
+        "left": 0.06883779168128967,
+        "right": 0.922026515007019,
+        "top": 0.5965996384620667
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "395414d7-c80c-4747-be88-d97a7f719456": {
+      "box": {
+        "bottom": 0.7440685629844666,
+        "left": 0.06913426518440247,
+        "right": 0.9174504280090332,
+        "top": 0.6847441792488098
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "91fbac33-63b2-42c1-affc-12651ce017cd": {
+      "box": {
+        "bottom": 0.8972911238670349,
+        "left": 0.06759178638458252,
+        "right": 0.9264335632324219,
+        "top": 0.775394856929779
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "814bc622-8523-4ae0-ba06-ca84cef8452f": {
+      "box": {
+        "bottom": 0.9357917308807373,
+        "left": 0.06876024603843689,
+        "right": 0.8698210716247559,
+        "top": 0.904782772064209
+      },
+      "page": 2,
+      "type": "chunkText"
+    },
+    "c28989a7-3033-4bcf-9056-c344afbbaea6": {
+      "box": {
+        "bottom": 0.07927028089761734,
+        "left": 0.7186924815177917,
+        "right": 0.9285611510276794,
+        "top": 0.041664063930511475
+      },
+      "page": 3,
+      "type": "chunkLogo"
+    },
+    "d2c7f399-8cff-46d5-8df4-bdb1f9b17697": {
+      "box": {
+        "bottom": 0.13144652545452118,
+        "left": 0.8492424488067627,
+        "right": 0.9300287961959839,
+        "top": 0.11354048550128937
+      },
+      "page": 3,
+      "type": "chunkMarginalia"
+    },
+    "0c998a57-8838-4199-8330-2f0de934873b": {
+      "box": {
+        "bottom": 0.18003036081790924,
+        "left": 0.06945914030075073,
+        "right": 0.7424303889274597,
+        "top": 0.16006465256214142
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "1b792cb7-d55f-4d7e-8c84-3169ff5f7abb": {
+      "box": {
+        "bottom": 0.38333627581596375,
+        "left": 0.06915280222892761,
+        "right": 0.9295161962509155,
+        "top": 0.18706902861595154
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "6badaa26-5623-49fc-a1d1-88345c1eba1d": {
+      "box": {
+        "bottom": 0.4232604205608368,
+        "left": 0.06841480731964111,
+        "right": 0.5852561593055725,
+        "top": 0.39156147837638855
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e": {
+      "box": {
+        "bottom": 0.4862264096736908,
+        "left": 0.06973478198051453,
+        "right": 0.54369056224823,
+        "top": 0.43083634972572327
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "27204094-a9bc-44ec-8aa5-d339d5a15032": {
+      "box": {
+        "bottom": 0.5120456218719482,
+        "left": 0.06972160935401917,
+        "right": 0.48607680201530457,
+        "top": 0.4939626455307007
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "366e4e08-1992-4cd7-9243-17a2317b248e": {
+      "box": {
+        "bottom": 0.563441276550293,
+        "left": 0.07070320844650269,
+        "right": 0.5606322288513184,
+        "top": 0.5198274850845337
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "825b5fc4-9c81-4cd9-9470-f2ed0f766cc9": {
+      "box": {
+        "bottom": 0.6035201549530029,
+        "left": 0.06908175349235535,
+        "right": 0.5725562572479248,
+        "top": 0.5700352191925049
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba": {
+      "box": {
+        "bottom": 0.7175912857055664,
+        "left": 0.06917540729045868,
+        "right": 0.5546754002571106,
+        "top": 0.6343643665313721
+      },
+      "page": 3,
+      "type": "chunkText"
+    },
+    "37d704d5-db2d-4340-ba86-26a214036da3": {
+      "box": {
+        "bottom": 0.8192108869552612,
+        "left": 0.0682988166809082,
+        "right": 0.8216071724891663,
+        "top": 0.7681940793991089
+      },
+      "page": 3,
+      "type": "chunkText"
+    }
+  }
+}

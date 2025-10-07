@@ -1,0 +1,2344 @@
+RUN_ID,INVOICE_UUID,DOCUMENT_NAME,chunk_id,chunk_type,text,page,box_l,box_t,box_r,box_b
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,91a9fca9-fe21-4cbb-9564-f42f8d5c5d97,logo,"<a id='91a9fca9-fe21-4cbb-9564-f42f8d5c5d97'></a>
+
+<::logo: Freshworks
+freshworks
+A stylized leaf-like symbol composed of multiple facets in shades of gray.::>",0,0.08743181824684143,0.033484891057014465,0.44194576144218445,0.096154123544693
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,aa7a2b51-6d87-48d0-a809-bb6a948a707f,text,"<a id='aa7a2b51-6d87-48d0-a809-bb6a948a707f'></a>
+
+Freshworks Inc., (formerly known as Freshdesk Inc.)
+2950 S. Delaware St,
+Suite 201, San Mateo, CA 94403,
+U.S.A.
+Phone: +1 (866) 832 3090
+Tax ID: 33-1218825
+Tax Reg #: 33-1218825",0,0.08651575446128845,0.10671643912792206,0.4332708418369293,0.21089597046375275
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,69b3493a-bbb7-4e13-8923-968322bbee95,text,"<a id='69b3493a-bbb7-4e13-8923-968322bbee95'></a>
+
+INVOICE
+
+Invoice #: FCL233308
+Invoice Date: May 26, 2021
+Invoice Amount: $10.00 (USD)
+Payment Terms: Due Upon Receipt
+PAID",0,0.5961894392967224,0.03922150284051895,0.8421856760978699,0.19167819619178772
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,30d86071-0659-4537-bdce-7486b4093fa4,text,"<a id='30d86071-0659-4537-bdce-7486b4093fa4'></a>
+
+BILLED TO
+Leo Charles Vincent
+abaxystech
+1061 Midvale Ave
+Morrsiville, North Carolina 27560
+United States",0,0.08736848086118698,0.23484545946121216,0.3143427073955536,0.3217448592185974
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,8ead2ed5-e678-48a9-b6a6-b639adf25234,text,"<a id='8ead2ed5-e678-48a9-b6a6-b639adf25234'></a>
+
+SUBSCRIPTION
+Billing Period May 26 to May 26, 2021",0,0.59776771068573,0.23522764444351196,0.8604755401611328,0.2687315344810486
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,e321a4b7-dbab-4c7e-b2e0-0484c659c3fb,table,"<a id='e321a4b7-dbab-4c7e-b2e0-0484c659c3fb'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">DESCRIPTION</td><td id=""0-3"">UNITS</td><td id=""0-4"">UNIT PRICE</td><td id=""0-5"">AMOUNT (USD)</td></tr>
+<tr><td id=""0-6"">Freshcaller Phone Credits</td><td id=""0-7"">10</td><td id=""0-8"">$1.00</td><td id=""0-9"">$10.00</td></tr>
+<tr><td id=""0-a""></td><td id=""0-b""></td><td id=""0-c"">Total</td><td id=""0-d"">$10.00</td></tr>
+<tr><td id=""0-e""></td><td id=""0-f""></td><td id=""0-g"">Payments</td><td id=""0-h"">($10.00)</td></tr>
+<tr><td id=""0-i""></td><td id=""0-j"" colspan=""2"">Amount Due (USD)</td><td id=""0-k"">$0.00</td></tr>
+</table>",0,0.08666667342185974,0.3424803912639618,0.9102663993835449,0.5344086289405823
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,0c6a415e-16ec-4cd3-9fe6-8e3584eef8dd,text,"<a id='0c6a415e-16ec-4cd3-9fe6-8e3584eef8dd'></a>
+
+PAYMENTS
+
+**$10.00** was paid on 26 May, 2021 11:49 PDT by Visa card ending 2136.",0,0.08779513835906982,0.5478050708770752,0.5508441925048828,0.5945142507553101
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,bfe94130-96cf-4d5d-89d2-96c292be8bd7,text,"<a id='bfe94130-96cf-4d5d-89d2-96c292be8bd7'></a>
+
+NOTES
+---
+Please always include your invoice number when making any payment!",0,0.08871494233608246,0.6159620881080627,0.5692809820175171,0.6606581807136536
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,58fc33a6-bbf7-41b6-91fc-55262dcd469c,text,"<a id='58fc33a6-bbf7-41b6-91fc-55262dcd469c'></a>
+
+**Reference to our Bank details:**
+
+Click the appropriate currency below to view our respective Bank account details for payment processing.
+
+AUD EUR GBP USD",0,0.08950304985046387,0.6689214110374451,0.7812685966491699,0.7406542897224426
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,47858450-b707-41d4-a945-485f328f9b6b,text,"<a id='47858450-b707-41d4-a945-485f328f9b6b'></a>
+
+**For Check Payments (US Customers Only)**
+
+E-checks: Freshworks Inc, Dept LA 24888, Pasadena CA 91185-4888.
+
+Physical checks: Freshworks Inc., 24888, 14005 Live Oak Ave, Irwindale CA 91706-1300.
+
+**Other Payment Methods**: PayPal ID: paypal@freshdesk.com (USD Only)
+
+For questions/concerning regarding this invoice, please contact billing@freshworks.com
+
+Click this link to download the W9 certificate",0,0.08868715167045593,0.7489556074142456,0.6722677946090698,0.8998996019363403
+ab51eee8-43ab-4c60-974f-d37043e93f76,83aa2614-39b8-418b-90b7-e726ebd3c90a,invoice_17.pdf,960d63e5-ea32-4c17-b4b7-56eeaee689f5,table,"<a id='960d63e5-ea32-4c17-b4b7-56eeaee689f5'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"" colspan=""3"">Tata Invoice</td></tr>
+<tr><td id=""0-3"" rowspan=""3"">Variant Technologies Sgar Complex, Off No. 19 A Tower, Near Nashik Phata Kasarwadi. Pune - 411034 E-Mail : sales@vtechpune.co.in</td><td id=""0-4"">Invoice No: 2014/00355</td><td id=""0-5"">Dated 10-Dec-14</td></tr>
+<tr><td id=""0-6"">Delivery Note By Road</td><td id=""0-7"">Mode/Terms Of Payment 100% Against receipt of Material</td></tr>
+<tr><td id=""0-8"" rowspan=""2"">Buyers Order No.</td><td id=""0-9"" rowspan=""2"">PO Dated</td></tr>
+<tr><td id=""0-a"" rowspan=""2"">Buyer Sandip Patil Ambegaon Bk, Pune</td></tr>
+<tr><td id=""0-b"" colspan=""2"">Terms Of Delivery Delivared at Place</td></tr>
+</table>",0,0.07401201128959656,0.05636787414550781,0.9164379835128784,0.35451340675354004
+ab51eee8-43ab-4c60-974f-d37043e93f76,83aa2614-39b8-418b-90b7-e726ebd3c90a,invoice_17.pdf,cf06c5a8-8b3c-4559-9c70-22706f39a0ad,table,"<a id='cf06c5a8-8b3c-4559-9c70-22706f39a0ad'></a>
+
+<table id=""0-c"">
+<tr><td id=""0-d"">SrNo</td><td id=""0-e"">Description of Goods</td><td id=""0-f"">Part No</td><td id=""0-g"">Qty</td><td id=""0-h"">VAT</td><td id=""0-i"">Rate</td><td id=""0-j"">Amount</td></tr>
+<tr><td id=""0-k"">1</td><td id=""0-l"">Tata Photon 3G Plan 750@7GB</td><td id=""0-m""></td><td id=""0-n"">1</td><td id=""0-o""></td><td id=""0-p"">2800.00</td><td id=""0-q"">2800.00</td></tr>
+<tr><td id=""0-r""></td><td id=""0-s"">Sub Total</td><td id=""0-t""></td><td id=""0-u""></td><td id=""0-v""></td><td id=""0-w""></td><td id=""0-x"">2800.00</td></tr>
+<tr><td id=""0-y""></td><td id=""0-z""></td><td id=""0-A""></td><td id=""0-B""></td><td id=""0-C""></td><td id=""0-D""></td><td id=""0-E""></td></tr>
+<tr><td id=""0-F""></td><td id=""0-G"">Total</td><td id=""0-H""></td><td id=""0-I""></td><td id=""0-J""></td><td id=""0-K"" colspan=""2"">2800.00</td></tr>
+</table>",0,0.07360115647315979,0.34660741686820984,0.9162291288375854,0.7674177885055542
+ab51eee8-43ab-4c60-974f-d37043e93f76,83aa2614-39b8-418b-90b7-e726ebd3c90a,invoice_17.pdf,6f96ffad-caa9-4410-8969-86963766fbee,text,"<a id='6f96ffad-caa9-4410-8969-86963766fbee'></a>
+
+Amount Chargeable(in words)
+Rs. Two Thousand Eight Hundred Only.
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true",0,0.07496252655982971,0.7598319053649902,0.5906327962875366,0.9222245216369629
+ab51eee8-43ab-4c60-974f-d37043e93f76,83aa2614-39b8-418b-90b7-e726ebd3c90a,invoice_17.pdf,17fdb831-0a57-4193-a6b7-6441fd8dea21,attestation,"<a id='17fdb831-0a57-4193-a6b7-6441fd8dea21'></a>
+
+<::attestation: Signature and Official Stamp
+Signed, Stamped
+Signature: illegible
+For Variant Technologies
+Variant Technologies
+VT
++91 20 46700005
+M +91 95-60000000
+www.vtechpune.co.in
+Pune-34
+A handwritten signature is placed above the text ""For Variant Technologies"", with a circular company stamp overlapping the signature and text, positioned on the right side of the signature.::>",0,0.583089292049408,0.7877967357635498,0.9134795069694519,0.9237267971038818
+ab51eee8-43ab-4c60-974f-d37043e93f76,83aa2614-39b8-418b-90b7-e726ebd3c90a,invoice_17.pdf,bb758d6b-5a2b-48b6-8921-c807f0340198,attestation,"<a id='bb758d6b-5a2b-48b6-8921-c807f0340198'></a>
+
+<::attestation: Official Stamp
+Stamped
+Variant Technologies
+VT.tech
+T +91 20 46700305
+M +91 98-60000800
+Pune-34
+web: www.vttechpune.co.in
+A circular blue ink stamp with company name, logo, contact details, and address, centrally located in the image.
+::>",0,0.737311840057373,0.7924855351448059,0.8757553100585938,0.8771019577980042
+ab51eee8-43ab-4c60-974f-d37043e93f76,83aa2614-39b8-418b-90b7-e726ebd3c90a,invoice_17.pdf,d1830a26-9b9b-4b36-91b5-ee8ade362d6f,marginalia,"<a id='d1830a26-9b9b-4b36-91b5-ee8ade362d6f'></a>
+
+This is a Computer Generated Invoice",0,0.409298837184906,0.918374240398407,0.6812650561332703,0.9353894591331482
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,a24acd30-2126-4953-854b-b4d9635480ea,text,"<a id='a24acd30-2126-4953-854b-b4d9635480ea'></a>
+
+INVOICE",0,0.648505687713623,0.05987708270549774,0.8924366235733032,0.0993993878364563
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,1d7b248e-2235-43d2-a96f-e80d1b81f195,text,"<a id='1d7b248e-2235-43d2-a96f-e80d1b81f195'></a>
+
+_East Padden Animal Hospital_
+15721 NE Fourth Plain Blvd.
+Vancouver, WA 98682
+360-892-1500",0,0.11045388877391815,0.08873892575502396,0.44505274295806885,0.16577720642089844
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,e30625d8-f317-4f36-b401-49e0c5652d4b,text,"<a id='e30625d8-f317-4f36-b401-49e0c5652d4b'></a>
+
+Your OTHER Family Doctor. We love what we do!",0,0.3117828071117401,0.18910838663578033,0.6903002262115479,0.21208135783672333
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,2dbe995f-69d3-4b81-81fd-295e44ab9561,text,"<a id='2dbe995f-69d3-4b81-81fd-295e44ab9561'></a>
+
+FOR: Andrea Kropp
+227 N 5th Ave
+PO Box 1168
+Ridgefield, WA 98642",0,0.1118985265493393,0.2351713329553604,0.34580886363983154,0.3027985692024231
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,a5a6334a-ec82-46cc-a892-e1f7ebf6dce0,text,"<a id='a5a6334a-ec82-46cc-a892-e1f7ebf6dce0'></a>
+
+Printed: 08-18-23 at 3:14p
+Date: 08-18-23
+Account: 41283",0,0.664871335029602,0.22185461223125458,0.8875643014907837,0.27267423272132874
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,1927aed9-a494-4984-b701-25647d2a975e,text,"<a id='1927aed9-a494-4984-b701-25647d2a975e'></a>
+
+Invoice: 412824",0,0.6643661260604858,0.28150027990341187,0.8162983655929565,0.3020061254501343
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,40966379-6674-4caf-94c1-a6235cddf187,table,"<a id='40966379-6674-4caf-94c1-a6235cddf187'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Date</td><td id=""0-3"">For</td><td id=""0-4"">Qty Description</td><td id=""0-5"">Price</td><td id=""0-6"">Discount</td><td id=""0-7"">Price</td></tr>
+<tr><td id=""0-8"">08-18-23</td><td id=""0-9"" colspan=""4"">Zazzles 2 Selarid Feline 5-15lb Revolution Ge* Apply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.</td><td id=""0-a"">42.00</td></tr>
+<tr><td id=""0-b"">08-18-23</td><td id=""0-c"" colspan=""3"">1 HCP Combo Vaccine (1 Year) The HCP vaccine was given under the skin of the right front leg.</td><td id=""0-d""></td><td id=""0-e"">45.00</td></tr>
+<tr><td id=""0-f"">08-18-23</td><td id=""0-g"" colspan=""3"">1 Technician Appointment</td><td id=""0-h""></td><td id=""0-i"">0.00</td></tr>
+<tr><td id=""0-j"">08-18-23</td><td id=""0-k"" colspan=""3"">Visa payment</td><td id=""0-l""></td><td id=""0-m"">-90.53</td></tr>
+</table>",0,0.10764092206954956,0.30991435050964355,0.8923571705818176,0.5216607451438904
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,16e0a4ce-ba4f-4980-bace-30618d82186a,text,"<a id='16e0a4ce-ba4f-4980-bace-30618d82186a'></a>
+
+Merchant ID: 4445060632312
+Approval code: 00301D
+Transaction ID: 753403776
+Ref #: 153071494
+Act #: ************3800
+Entry: ContactIcc
+Card: VISA",0,0.11078664660453796,0.5237376689910889,0.7374686002731323,0.5566332340240479
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,a4180b9b-4961-466c-aab4-6564ef737bc0,text,"<a id='a4180b9b-4961-466c-aab4-6564ef737bc0'></a>
+
+Your card balance is not available
+I AGREE TO PAY ABOVE TOTAL AMOUNT ACCORDING TO CARD ISSUER AGREEMENT",0,0.1110023558139801,0.5554140210151672,0.8052910566329956,0.5911219716072083
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,19ea1947-1465-4e26-850b-1d5f2562c0e9,attestation,"<a id='19ea1947-1465-4e26-850b-1d5f2562c0e9'></a>
+
+<::attestation: Signature mark
+Mark made
+Signature: legible
+Readable Text: X
+A prominent 'X' followed by a long horizontal line, centered horizontally in the image.::>",0,0.6430811285972595,0.5954693555831909,0.8892853856086731,0.6232918500900269
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,e77958b1-73be-40e6-b521-6106c0a2b56b,table,"<a id='e77958b1-73be-40e6-b521-6106c0a2b56b'></a>
+
+<table id=""0-n"">
+<tr><td id=""0-o"">Old balance</td><td id=""0-p"">Charges</td><td id=""0-q"">Tax</td><td id=""0-r"">Payments</td><td id=""0-s"">New balance</td></tr>
+<tr><td id=""0-t"">0.00</td><td id=""0-u"">87.00</td><td id=""0-v"">*3.53</td><td id=""0-w"">90.53</td><td id=""0-x"">0.00</td></tr>
+<tr><td id=""0-y""></td><td id=""0-z""></td><td id=""0-A""></td><td id=""0-B""></td><td id=""0-C""></td></tr>
+</table>",0,0.11261692643165588,0.6369664072990417,0.8897533416748047,0.7013563513755798
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,538918d4-16bf-49b0-a692-45eeef120446,text,"<a id='538918d4-16bf-49b0-a692-45eeef120446'></a>
+
+**Patient**
+Zazzles
+
+**Total charges**
+90.53",0,0.10851822793483734,0.7024720311164856,0.4471859931945801,0.7442029118537903
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,608e352a-2df9-4101-881a-74aab5116be0,table,"<a id='608e352a-2df9-4101-881a-74aab5116be0'></a>
+
+Reminders for: **Zazzles** (Weight: 9.9 lbs - 12y) Last done
+<table id=""0-D"">
+<tr><td id=""0-E"">07-28-19</td><td id=""0-F"">Cardiopet proBNP</td><td id=""0-G""></td></tr>
+<tr><td id=""0-H"">07-28-19</td><td id=""0-I"">Blood Pressure</td><td id=""0-J""></td></tr>
+<tr><td id=""0-K"">10-17-23</td><td id=""0-L"">Monthly Topical Parasite Contr</td><td id=""0-M"">08-18-23</td></tr>
+<tr><td id=""0-N"">07-26-24</td><td id=""0-O"">Purevax Rabies Vaccine(1 year)</td><td id=""0-P"">07-27-23</td></tr>
+<tr><td id=""0-Q"">07-26-24</td><td id=""0-R"">Annual Wellness Exam</td><td id=""0-S"">07-27-23</td></tr>
+</table>",0,0.10837957262992859,0.7772925496101379,0.6389297246932983,0.8873994946479797
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,99d8aea3-3c3b-420b-92cc-535410a03e97,table,"<a id='99d8aea3-3c3b-420b-92cc-535410a03e97'></a>
+
+<table id=""1-1"">
+<tr><td id=""1-2"" colspan=""2"">Reminders for: Zazzles (Weight: 9.9 lbs - 12y)</td><td id=""1-3"">Last done</td></tr>
+<tr><td id=""1-4"">07-26-24 08-17-24</td><td id=""1-5"">Annual Labwork HCP Combo Vaccine - 3 year</td><td id=""1-6"">07-27-23</td></tr>
+</table>",1,0.11084091663360596,0.0872635543346405,0.6324667930603027,0.14777608215808868
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,9da7956d-570d-4a64-a91c-2306ef0eb49e,text,"<a id='9da7956d-570d-4a64-a91c-2306ef0eb49e'></a>
+
+**_Doctor's Instructions_**",1,0.11036616563796997,0.17099395394325256,0.30907732248306274,0.1931646764278412
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,ec684082-e03b-441c-abb1-85f9860e827f,text,"<a id='ec684082-e03b-441c-abb1-85f9860e827f'></a>
+
+Selarid Feline 5-15lb Revolution Generic
+Apply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, ticks, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.",1,0.1408413052558899,0.20298194885253906,0.7300625443458557,0.26389002799987793
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,ce470258-2a24-4709-8ce8-49326859a7ff,text,"<a id='ce470258-2a24-4709-8ce8-49326859a7ff'></a>
+
+HCP Combo Vaccine (1 Year)
+HCP 1 year - Zazzles has been vaccinated with an HCP
+(Rhinotracheitis-Calici-Panleukopenia) vaccination today. It was given in the right front
+leg. The site may be slightly tender for a day or two. If you are concerned about your
+cat's comfort, please call us. This vaccine will need a booster in 1 year. Please call us at
+360-892-1500 to schedule an appointment.",1,0.14142760634422302,0.2715039849281311,0.7522639036178589,0.3587850332260132
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,eb8a329f-d1c7-4eaa-9baa-01857fcab43f,table,"<a id='eb8a329f-d1c7-4eaa-9baa-01857fcab43f'></a>
+
+Zazzles's weight history (in lbs)
+<table><thead><tr><th>Col&nbsp;1</th><th>Col&nbsp;2</th></tr></thead><tbody><tr><td>07-27-23</td><td>9.90</td></tr></tbody></table>",1,0.1111437976360321,0.3664489984512329,0.5680332183837891,0.4096997380256653
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55,text,"<a id='ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55'></a>
+
+**If Zazzles leaves with a pressure bandage, or ""band-aid"" in place, please be sure to remove this in 15 minutes or when you arrive at home. Failure to do so can result in swelling of the limb, discomfort, and further complications.**",1,0.15780320763587952,0.4449028968811035,0.7299712896347046,0.4903180003166199
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,06c591ec-4ae8-4afe-8a27-65641ac8dff4,text,"<a id='06c591ec-4ae8-4afe-8a27-65641ac8dff4'></a>
+
+Visit our Online Pharmacy: https://eastpaddenah.securevetsource.com/index.pml",1,0.1593550145626068,0.49839553236961365,0.6983004808425903,0.5187317132949829
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,e32b8eb7-fe10-439b-bf63-83c6afb1cf38,text,"<a id='e32b8eb7-fe10-439b-bf63-83c6afb1cf38'></a>
+
+Thank you for choosing East Padden Animal Hospital for all of your pet's medical needs.
+We appreciate your confidence in our care and welcome any feedback you may have!",1,0.15954184532165527,0.5253926515579224,0.7438620924949646,0.5602798461914062
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,7e376974-b72e-4f94-bddc-25b2f9858525,logo,"<a id='7e376974-b72e-4f94-bddc-25b2f9858525'></a>
+
+<::logo: Walmart
+Walmart
+The logo features the word ""Walmart"" in blue, followed by a yellow starburst or spark symbol.::>",0,0.06346899271011353,0.013747559860348701,0.31800419092178345,0.0683220848441124
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,1c38904f-e556-4762-8bfa-a5463b29ce92,text,"<a id='1c38904f-e556-4762-8bfa-a5463b29ce92'></a>
+
+INVOICE",0,0.7425883412361145,0.02914281375706196,0.9319116473197937,0.06546010822057724
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,113e504d-8c54-4bf6-a6ba-a661fb85e4df,text,"<a id='113e504d-8c54-4bf6-a6ba-a661fb85e4df'></a>
+
+# 1",0,0.8900976181030273,0.06961585581302643,0.924933671951294,0.09021911025047302
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,89d0dd6b-d9d4-4966-a347-605a1a0e8cef,text,"<a id='89d0dd6b-d9d4-4966-a347-605a1a0e8cef'></a>
+
+Walmart Invoice",0,0.08596646040678024,0.07731985300779343,0.21533679962158203,0.09710293263196945
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,d1541e85-622c-4e62-b3ef-6886c51639a0,text,"<a id='d1541e85-622c-4e62-b3ef-6886c51639a0'></a>
+
+Bill To:
+Mansoer Walizada
+10517 San Vincente
+Ave, South Gate, CA
+90280, USA",0,0.08346673846244812,0.13726027309894562,0.2409939169883728,0.22299142181873322
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,26b13fb7-a3a1-40d8-b90e-93121b4cb841,text,"<a id='26b13fb7-a3a1-40d8-b90e-93121b4cb841'></a>
+
+Ship To:
+Mansoer Walizada
+10517 San Vincente
+Ave, South Gate, CA
+90280, USA",0,0.29656487703323364,0.13848578929901123,0.4537496566772461,0.2224615514278412
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,86325e05-b872-44c0-a97c-850d0e6c5f79,text,"<a id='86325e05-b872-44c0-a97c-850d0e6c5f79'></a>
+
+Date: Mar 20, 2023
+
+Payment Terms: MasterCard 8453
+
+Due Date: Mar 20, 2023
+
+**Balance Due:** 0,00 US$",0,0.5667673349380493,0.13229094445705414,0.9301954507827759,0.24315859377384186
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,09faf306-e48d-472c-964f-0ea8ce614b90,table,"<a id='09faf306-e48d-472c-964f-0ea8ce614b90'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Item</td><td id=""0-3"">Quantity</td><td id=""0-4"">Rate</td><td id=""0-5"">Amount</td></tr>
+<tr><td id=""0-6"">Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180-degree hinge</td><td id=""0-7"">1</td><td id=""0-8"">1 529,94 US$</td><td id=""0-9"">1 529,94 US$</td></tr>
+<tr><td id=""0-a"">design - Intel Core i7 1260P/2.1 GHz - Evo - Win 10 Pro 64-bit</td><td id=""0-b""></td><td id=""0-c""></td><td id=""0-d""></td></tr>
+<tr><td id=""0-e"">(includes Win 11 Pro License) - Intel Iris Xe Graphics - 16 GB RAM -</td><td id=""0-f""></td><td id=""0-g""></td><td id=""0-h""></td></tr>
+<tr><td id=""0-i"">512 GB SSD TCG Opal Encryption 2, NVMe, Performance - 14"" IPS</td><td id=""0-j""></td><td id=""0-k""></td><td id=""0-l""></td></tr>
+<tr><td id=""0-m"">touchscreen 1920 x 1200 - 802.11a/b/g/n/ac/ax (Wi-Fi 6E) - deep</td><td id=""0-n""></td><td id=""0-o""></td><td id=""0-p""></td></tr>
+<tr><td id=""0-q"">black paint - kbd: US - with 3 Years Lenovo Premier Support + 3</td><td id=""0-r""></td><td id=""0-s""></td><td id=""0-t""></td></tr>
+<tr><td id=""0-u"">Years Lenovo Sealed Battery Add On</td><td id=""0-v""></td><td id=""0-w""></td><td id=""0-x""></td></tr>
+<tr><td id=""0-y"">Serial Number: PF4AJSC9</td><td id=""0-z""></td><td id=""0-A""></td><td id=""0-B""></td></tr>
+</table>",0,0.05590417981147766,0.2871524691581726,0.9426224231719971,0.48624157905578613
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,3098a6e9-5bb2-4473-8f39-52e5966ee385,text,"<a id='3098a6e9-5bb2-4473-8f39-52e5966ee385'></a>
+
+Subtotal: 1 529,94 US$
+Tax (7.25%): 110,92 US$
+Total: 1 640,86 US$
+Amount Paid: 1 640,86 US$",0,0.6456890106201172,0.5349776744842529,0.9273192882537842,0.6456047296524048
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,dd2fff85-befb-4923-a342-8666fd9a2f20,text,"<a id='dd2fff85-befb-4923-a342-8666fd9a2f20'></a>
+
+Notes:
+To ensure we are able to help you as best we can, please include your reference number: HEUQ5GZ6R",0,0.0842241644859314,0.6895976662635803,0.80986487865448,0.7329089045524597
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,b3c5f36d-81b4-45dc-8569-4e672079b5ae,text,"<a id='b3c5f36d-81b4-45dc-8569-4e672079b5ae'></a>
+
+Terms:
+© 2023 Walmart. All Rights Reserved.",0,0.08418288826942444,0.7462542057037354,0.3564498722553253,0.7876304388046265
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,4dfa9093-3dae-4da1-be94-840c8643bd24,figure,"<a id='4dfa9093-3dae-4da1-be94-840c8643bd24'></a>
+
+<::An illustration of a green robot with dollar signs on its eyes, a checkmark, and a delivery truck::>",0,0.07170378416776657,0.048859208822250366,0.2521362602710724,0.18318885564804077
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,6446ee0d-cd62-45db-80d2-6502cac50842,text,"<a id='6446ee0d-cd62-45db-80d2-6502cac50842'></a>
+
+DollarFulfillment",0,0.2546345293521881,0.04902224615216255,0.43837323784828186,0.07336647808551788
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,83450e56-c9c3-40fe-bad1-85a63ab5d0dc,text,"<a id='83450e56-c9c3-40fe-bad1-85a63ab5d0dc'></a>
+
+Invoice 2071221",0,0.7084041833877563,0.04761155694723129,0.9238895177841187,0.07539485394954681
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,9cb0ba14-c03f-442d-8234-07b942c2e6c8,text,"<a id='9cb0ba14-c03f-442d-8234-07b942c2e6c8'></a>
+
+West Coast
+10450 N Airport Rd Hayden, ID 83835
+United States
+Support@DollarFulfillment.com",0,0.255232572555542,0.0865427628159523,0.6681016683578491,0.16772565245628357
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404,text,"<a id='b6f1f26e-bf6e-4da3-9fbe-e4c9d482f404'></a>
+
+Bill To
+Souhail Martesse
+4 Rue des Écoles
+28120, Nogent-sur-Eure
+FRANCE",0,0.07276938855648041,0.2264343500137329,0.33575689792633057,0.3089256286621094
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,b9861421-a2d7-4d49-8658-b346d134a808,text,"<a id='b9861421-a2d7-4d49-8658-b346d134a808'></a>
+
+Invoice Number: 2071221
+
+Date: 08/30/2021
+
+Due Date: 08/30/2021",0,0.6989309191703796,0.22612012922763824,0.9255697131156921,0.2882682681083679
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,c5273fa3-f056-44ef-a25b-94626d7bd674,table,"<a id='c5273fa3-f056-44ef-a25b-94626d7bd674'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Description</td><td id=""0-3"">Quantity</td><td id=""0-4"">Unit price</td><td id=""0-5"">Amount</td></tr>
+<tr><td id=""0-6"">Apple iPhone 12 Pro Max 256 GB Excellent Condition</td><td id=""0-7"">3</td><td id=""0-8"">$600.29</td><td id=""0-9"">$1800.87</td></tr>
+<tr><td id=""0-a""></td><td id=""0-b""></td><td id=""0-c"">Total</td><td id=""0-d"">$1800.87</td></tr>
+</table>",0,0.07428693771362305,0.3211835026741028,0.9252506494522095,0.4103684425354004
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,f9360bed-1bb8-47d0-b68a-af3b70f8039e,text,"<a id='f9360bed-1bb8-47d0-b68a-af3b70f8039e'></a>
+
++1 855-441-7447
+Support@DollarFulfillment.com
+10450 N Airport Rd
+Hayden, ID 83835",0,0.07212815433740616,0.4495540261268616,0.29467159509658813,0.526665985584259
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,63de6f08-16f2-41a5-a702-99292aa34f2f,marginalia,"<a id='63de6f08-16f2-41a5-a702-99292aa34f2f'></a>
+
+Tax Invoice",0,0.3944183588027954,0.021210074424743652,0.505725085735321,0.04086274281144142
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,cd3277fc-d0cd-4d05-9e23-c15dd611ec0f,text,"<a id='cd3277fc-d0cd-4d05-9e23-c15dd611ec0f'></a>
+
+(ORIGINAL FOR RECIPIENT)",0,0.6299343705177307,0.017798636108636856,0.8244345784187317,0.03962094336748123
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,6fe21a1a-b296-4ef1-86eb-0a9ee03f788e,text,"<a id='6fe21a1a-b296-4ef1-86eb-0a9ee03f788e'></a>
+
+KANDHAN METAL COMPANY
+OLD NO: 12, NEW NO:33,JANI BATCHA STREET.
+ROYAPETTAH,CHENNAI-600014
+PH:044-28612601/48581793
+Godown No 69/227 Nageswara Rao Road
+Athipet, Chennai-58
+GSTIN/UIN: 33AAJPS6304G1ZS
+State Name: Tamil Nadu, Code: 33
+E-Mail: kandhanmetal@gmail.com
+
+Consignee
+SAGAR ASISAGAR ASIA PRIVATE LIMITEDA PVT LTD
+Sy. No. 379 to 382, Manoharabad Mandal,
+Kallakal Village, Medak, Telangana,
+502336
+GSTIN/UIN : 36AAACZ2890G1Z4
+
+Buyer (if other than consignee)
+SMARTQUIP OVERSEAS COMPANY
+NO 16, 2ND CROSS J C ROAD, SUDHAM
+NAGAR, BANGALORE, Bengaluru (
+Bangalore) Urban, Karnataka, 560002
+GSTIN/UIN : 29AGGPJ0910N1ZA",0,0.06802284717559814,0.04924289882183075,0.49336951971054077,0.402715265750885
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,753080b8-af5f-41ef-8d7c-817da8b32df2,table,"<a id='753080b8-af5f-41ef-8d7c-817da8b32df2'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Invoice No. 812</td><td id=""0-3"">Dated 2-Dec-2021</td></tr>
+<tr><td id=""0-4"">Delivery Note</td><td id=""0-5"">Mode/Terms of Payment</td></tr>
+<tr><td id=""0-6"">Supplier's Ref.</td><td id=""0-7"">Other Reference(s)</td></tr>
+<tr><td id=""0-8"">Despatch Document No.</td><td id=""0-9"">Delivery Note Date</td></tr>
+<tr><td id=""0-a"">Despatched through</td><td id=""0-b"">Destination</td></tr>
+<tr><td id=""0-c"">Bill of Lading/LR-RR No.</td><td id=""0-d"">Motor Vehicle No. AP39TD4595</td></tr>
+<tr><td id=""0-e"" colspan=""2"">Terms of Delivery SAGAR ASIA PRIVATE LIMITED Sy. No. 379 to 382, Manoharabad Mandal, Kallakal Village, Medak, Telangana, 502336 GST:36AAACZ2890G1Z4</td></tr>
+</table>",0,0.4851920008659363,0.04986181855201721,0.8442955613136292,0.4024697244167328
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,f2977086-2b83-4cc2-9de1-3fae73c04e2c,table,"<a id='f2977086-2b83-4cc2-9de1-3fae73c04e2c'></a>
+
+<table id=""0-f"">
+<tr><td id=""0-g"">Description of Goods</td><td id=""0-h"">HSN/SAC</td><td id=""0-i"">Quantity</td><td id=""0-j"">Rate</td><td id=""0-k"">per</td><td id=""0-l"">Amount</td></tr>
+<tr><td id=""0-m"">ALUMINIUM SCRAPS</td><td id=""0-n"">7602</td><td id=""0-o"">26,440.000 Kg</td><td id=""0-p"">193.00</td><td id=""0-q"">Kg</td><td id=""0-r"">51,02,920.00</td></tr>
+<tr><td id=""0-s"">IGST @ 18%</td><td id=""0-t""></td><td id=""0-u""></td><td id=""0-v"">18</td><td id=""0-w"">%</td><td id=""0-x"">9,18,525.60</td></tr>
+<tr><td id=""0-y"">ROUND OFF</td><td id=""0-z""></td><td id=""0-A""></td><td id=""0-B""></td><td id=""0-C""></td><td id=""0-D"">0.40</td></tr>
+<tr><td id=""0-E"">Total</td><td id=""0-F""></td><td id=""0-G"">26,440.000 Kg</td><td id=""0-H""></td><td id=""0-I""></td><td id=""0-J"">60,21,446.00</td></tr>
+</table>",0,0.07013878226280212,0.39703235030174255,0.8427619934082031,0.6210481524467468
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,c0563498-4561-411d-9047-49e24305f629,table,"<a id='c0563498-4561-411d-9047-49e24305f629'></a>
+
+<table id=""0-K"">
+<tr><td id=""0-L"">Amount Chargeable (in words) INR Sixty Lakh Twenty One Thousand Four Hundred Forty Six Only</td><td id=""0-M"">E. & O.E</td></tr>
+<tr><td id=""0-N"">Company's PAN : AAJPS6304G</td><td id=""0-O"" rowspan=""3"">Company's Bank Details Bank Name : Hdfc BANK Ltd A/c No. : 59209444079789 Branch & IFS Code : AnnaNagar & HDFC0000017</td></tr>
+<tr><td id=""0-P"" rowspan=""2"">Declaration We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.</td></tr>
+<tr><td id=""0-Q"">Customer's Seal and Signature</td><td id=""0-R"">for KANDHAN METAL COMPANY Authorised Signatory</td></tr>
+</table>",0,0.06953784823417664,0.61434006690979,0.84192955493927,0.8153880834579468
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,55cba5fc-2beb-48e7-9ac0-559f6b8d3f75,marginalia,"<a id='55cba5fc-2beb-48e7-9ac0-559f6b8d3f75'></a>
+
+This Is a Computer Generated Invoice",0,0.31841030716896057,0.8178292512893677,0.5589956045150757,0.8364787101745605
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,da35e71a-b1f0-49a6-8f42-3800abc9f42e,logo,"<a id='da35e71a-b1f0-49a6-8f42-3800abc9f42e'></a>
+
+<::logo: Thomann
+thomann
+Invoice Nr.: 40458946
+The logo features the word ""thomann"" in a black sans-serif font, with a distinctive teal-colored dot replacing the standard dot above the 'i'.::>",0,0.5042201280593872,0.03097378835082054,0.787319540977478,0.12426373362541199
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,570c3427-dbe6-439e-9044-8bce2928c7a3,text,"<a id='570c3427-dbe6-439e-9044-8bce2928c7a3'></a>
+
+Thomann GmbH, Hans-Thomann-Str. 1, D-96138 Burgebrach",0,0.12448433041572571,0.15616688132286072,0.45787283778190613,0.17269131541252136
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,c9c90a92-8a57-48ab-8466-ed4ecb0b5de6,text,"<a id='c9c90a92-8a57-48ab-8466-ed4ecb0b5de6'></a>
+
+Gnr-Grupo Novo Rock, Lda
+Jorge Romão
+Av. da República, N°. 181, LJ 101",0,0.1250552535057068,0.18140262365341187,0.3419790267944336,0.22577688097953796
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,390ae49f-c33a-48e2-b5de-a6f4973576cc,text,"<a id='390ae49f-c33a-48e2-b5de-a6f4973576cc'></a>
+
+Filipe Louro
+Rua Tullins Fures 223 2&deg;esq",0,0.5062379837036133,0.18179680407047272,0.683320164680481,0.2136254459619522
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,34b78223-7409-4ede-8200-ba479236be06,text,"<a id='34b78223-7409-4ede-8200-ba479236be06'></a>
+
+PT-4450 Leça da Palmeira",0,0.5044407844543457,0.21986253559589386,0.6746176481246948,0.23844294250011444
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,77665d5b-c8a7-497b-a87c-b160263ba8e1,text,"<a id='77665d5b-c8a7-497b-a87c-b160263ba8e1'></a>
+
+PT-4450 Matosinhos",0,0.12568625807762146,0.23452924191951752,0.2688012719154358,0.25011587142944336
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,094fd1f7-0836-43aa-9077-52042fb40756,text,"<a id='094fd1f7-0836-43aa-9077-52042fb40756'></a>
+
+Invoice Nr.: 40458946
+Date: 23.02.2019
+Your customer no.: 10649971",0,0.12397737801074982,0.2770439088344574,0.3172762989997864,0.32545074820518494
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,07ecf620-224f-43fa-9ae6-29e5cfecbf55,text,"<a id='07ecf620-224f-43fa-9ae6-29e5cfecbf55'></a>
+
+Order No.: 201908.660583 / 1233
+
+Sales Person: Eduardo Mourao
+Telephone: 0049 9546 9223 645
+Method of Shipment: UPS
+Your Reference:
+
+Please Include your customer no.: 10649971 with payment by bank transfer!",0,0.5043438673019409,0.2764044404029846,0.8359280824661255,0.3946331739425659
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,af633504-f612-4cc2-a2c4-8ba766833600,text,"<a id='af633504-f612-4cc2-a2c4-8ba766833600'></a>
+
+Your VAT No.: PT502208171
+fornecimento Inter-comunitario Isento de IVA",0,0.1240127831697464,0.3625553548336029,0.41411292552948,0.3931507170200348
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,c0776774-8661-4f99-84c8-0166fbbdd1bc,table,"<a id='c0776774-8661-4f99-84c8-0166fbbdd1bc'></a>
+
+<table><thead><tr><th>Pos.</th><th>Article</th><th>Amount Unit</th><th>Unit Price</th><th>Total Price</th></tr></thead><tbody><tr><td>001.00</td><td>242900<br>Dunlop Nylon Max Grip Jazz III Players Pack - 6-plece plectrum set. Colour: Red, gauge: 1,38mm</td><td>1 plece</td><td>3,66 EUR</td><td>3,66 EUR</td></tr><tr><td>002.00</td><td>151423<br>Dunlop Tortex standard picks - 0.88mm, 12-pack.</td><td>1 plece</td><td>4,80 EUR</td><td>4,80 EUR</td></tr><tr><td>003.00</td><td>119582<br>Fender Vintage Bass Bridge, Incl screws, dimension width 8cm, lenght 4cm, stringspacing 2cm</td><td>1 plece</td><td>47,15 EUR</td><td>47,15 EUR</td></tr><tr><td>004.00</td><td>180181<br>Electro Harmonix 24DC-100 EU AC power supply, Original AC power supply matches Deluxe Memory Man, Bass/<br>Micro Synth, Q-Tron, Q-Tron+, Stereo Polychorus, Worm, Deluxe Electric Mistress, Stereo Memoroy Man, Stereo<br>Polyphase, XO Deluxe Memory Man, XO Q-Tron+</td><td>1 plece</td><td>13,58 EUR</td><td>13,58 EUR</td></tr><tr><td>005.00</td><td>378874<br>the sssnake DD1015, Minijack Mono - Minijack Mono Patchkabel, Length 15cm, 6 pcs. per Set</td><td>1 plece</td><td>8,05 EUR</td><td>8,05 EUR</td></tr></tbody><tfoot><tr><td colspan=""3""></td><td>Amount carried forward:</td><td>77,24 EUR</td></tr></tfoot></table>",0,0.04792746901512146,0.4157465696334839,0.872960090637207,0.7229690551757812
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b,text,"<a id='efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b'></a>
+
+Thomann GmbH
+Hans-Thomann-Str.1
+D-96138 Burgebrach
+
+Bank Sparkasse Bamberg
+IBAN DE97 7705 0000 0000 1030 85
+BIC BYLADEM1SKB",0,0.05477075278759003,0.915152907371521,0.25101959705352783,0.9788023233413696
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,3d93a0b8-def3-418c-b5da-4e45cb2d1783,text,"<a id='3d93a0b8-def3-418c-b5da-4e45cb2d1783'></a>
+
+info@thomann.de
+Tel +49 (0)9546 9223-66
+Fax +49 (0)9546 9223-24",0,0.28308406472206116,0.9144553542137146,0.4223327338695526,0.9455326199531555
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,4dd01bc0-c90a-4499-9965-518406ea2816,text,"<a id='4dd01bc0-c90a-4499-9965-518406ea2816'></a>
+
+Geschäftsführer: Hans Thomann
+Amtsgericht Bamberg: HRB 5862
+Sitz der Gesellschaft: Burgebrach",0,0.4718143939971924,0.9148907661437988,0.6447358131408691,0.9461458921432495
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,460fddbd-4590-4049-8b04-f658b7cd2312,text,"<a id='460fddbd-4590-4049-8b04-f658b7cd2312'></a>
+
+Raiffeisenbank Burgebrach
+DE58 7706 2014 0000 0056 30
+GENODEF1BGB
+-",0,0.280286967754364,0.950162410736084,0.4790946841239929,0.9792436361312866
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,a509601a-79cd-4f82-acdb-3f8fffc72391,text,"<a id='a509601a-79cd-4f82-acdb-3f8fffc72391'></a>
+
+Postbank Nürnberg
+DE41 7601 0085 0283 5648 54
+PBNKDEFF",0,0.4739048182964325,0.9497103691101074,0.6322098970413208,0.9751784801483154
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,26f7ebe9-1f20-4051-ab04-e2c3c67c0643,text,"<a id='26f7ebe9-1f20-4051-ab04-e2c3c67c0643'></a>
+
+Es gelten unsere umseitig abgedruckten Allgemeinen Geschäftsbedingungen.",0,0.28678426146507263,0.9752286672592163,0.6637630462646484,0.9878236055374146
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,4ff46cdc-bc44-4840-8183-24506d9253bf,text,"<a id='4ff46cdc-bc44-4840-8183-24506d9253bf'></a>
+
+USt-IdNr.: DE 257375233
+
+Steuernummer: 207/132/90050
+
+WEEE-Reg.-Nr.: DE 18280160",0,0.674863874912262,0.914077877998352,0.83967524766922,0.9453116655349731
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,bbaf1942-c231-4ef0-81e6-2309b99acdd1,text,"<a id='bbaf1942-c231-4ef0-81e6-2309b99acdd1'></a>
+
+Deutsche Bank 24
+DE19 7607 0024 0811 5008 00
+DEUTDEDB760",0,0.6754372119903564,0.9496707320213318,0.8360387086868286,0.9776199460029602
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b,text,"<a id='9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b'></a>
+
+Delivery address:",0,0.5055079460144043,0.15218043327331543,0.6334344148635864,0.1739887297153473
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,81cc43ce-72b1-420b-8485-9b50bf43025c,text,"<a id='81cc43ce-72b1-420b-8485-9b50bf43025c'></a>
+
+MUSIC IS OUR PASSION",0,0.8600240349769592,0.02367687225341797,0.9776639342308044,0.8671104311943054
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,6a7520cc-51fe-40ca-a316-6a23a56e6f2b,logo,"<a id='6a7520cc-51fe-40ca-a316-6a23a56e6f2b'></a>
+
+<::logo: Condor
+condor
+The logo features the word ""condor"" in a bold, sans-serif font, followed by a circular emblem containing a stylized bird or wing symbol.::>",0,0.6393972039222717,0.04564682021737099,0.9278661608695984,0.09276722371578217
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,9e749e87-9899-43cf-9f24-60e4ad209b3a,text,"<a id='9e749e87-9899-43cf-9f24-60e4ad209b3a'></a>
+
+MRS
+ANDREA KROPP
+227 N 5TH AVE, RIDGEFIELD, WA
+US-98642 RIDGEFIELD",0,0.0731598287820816,0.15338042378425598,0.3429955840110779,0.22376635670661926
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,74c735f0-1941-4c46-aa73-3dee1fcb3d45,text,"<a id='74c735f0-1941-4c46-aa73-3dee1fcb3d45'></a>
+
+Condor Flugdienst GmbH
+An der Gehespitz 50
+63263 Neu-Isenburg
+Tel. +49 (0)6171 - 69889 20",0,0.6370638608932495,0.1526584029197693,0.8436071872711182,0.21678829193115234
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,69852521-28dc-41ed-89d0-cf09d1d8f6bc,text,"<a id='69852521-28dc-41ed-89d0-cf09d1d8f6bc'></a>
+
+booking ref.: 11828454 version: 01
+conf. date: 27.03.2025",0,0.641456663608551,0.2519192099571228,0.8959264159202576,0.2845308184623718
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,d0c6f77f-0310-47ed-b4c7-117897006a15,text,"<a id='d0c6f77f-0310-47ed-b4c7-117897006a15'></a>
+
+Booking - Confirmation / Invoice",0,0.07069417834281921,0.31121325492858887,0.47199562191963196,0.334686279296875
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,82a8c6ef-a199-47ea-8c7a-d2fcedbbc216,text,"<a id='82a8c6ef-a199-47ea-8c7a-d2fcedbbc216'></a>
+
+Page 1 / 4",0,0.8506335616111755,0.3132800757884979,0.9279336333274841,0.32976922392845154
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,fa0b049a-d01e-4c95-8bc9-4172b2ab2783,table,"<a id='fa0b049a-d01e-4c95-8bc9-4172b2ab2783'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">pos</td><td id=""0-3"">name</td><td id=""0-4"">age remark</td><td id=""0-5"">amount</td></tr>
+<tr><td id=""0-6"">1</td><td id=""0-7"" colspan=""2"">KROPP/ANDREA KASTRUP</td><td id=""0-8"">1,001.23</td></tr>
+<tr><td id=""0-9""></td><td id=""0-a""></td><td id=""0-b"">Taxes, fees and other surcharges in total</td><td id=""0-c"">188.75</td></tr>
+<tr><td id=""0-d""></td><td id=""0-e""></td><td id=""0-f"">Seat reservation 34A, 36A FK: ZYIM6E</td><td id=""0-g"">100.00</td></tr>
+<tr><td id=""0-h"">2</td><td id=""0-i"">KROPP/KARL</td><td id=""0-j"">ROBERT</td><td id=""0-k"">1,001.23</td></tr>
+<tr><td id=""0-l""></td><td id=""0-m""></td><td id=""0-n"">Taxes, fees and other surcharges in total</td><td id=""0-o"">188.75</td></tr>
+<tr><td id=""0-p""></td><td id=""0-q""></td><td id=""0-r"">Seat reservation 34C, 36C</td><td id=""0-s"">100.00</td></tr>
+<tr><td id=""0-t""></td><td id=""0-u""></td><td id=""0-v"">total amount USD</td><td id=""0-w"">2,579.96</td></tr>
+</table>",0,0.06963816285133362,0.3455338478088379,0.878506064414978,0.5526019334793091
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9,text,"<a id='f6bd6e4d-47c9-4fe8-80f8-9e0545fe19b9'></a>
+
+Details of Taxes, fees and other surcharges
+Travellers Taxes, fees and other surcharges
+                                 per traveller in detail
+
+1,2             188.75 USD       US USD 22.90 XF USD 4.50 AY USD 5.60 XF
+                                 USD 4.50 DE EUR 11.86 RA EUR 27.11 WP EUR
+                                 19.44 WQ EUR 5.00 DE EUR 11.86 RA EUR 27.
+                                 11 US USD 22.90 XA USD 3.71 XY USD 7.00
+                                 YC USD 7.20",0,0.07048904895782471,0.5597050786018372,0.8652747869491577,0.7042161822319031
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,76fd5dac-895a-4257-b167-9fb974ff99b9,text,"<a id='76fd5dac-895a-4257-b167-9fb974ff99b9'></a>
+
+Passenger Service
+
+all on 26.07.25
+
+PORTLAND - SEATTLE
+AS 2188 14:30 - 15:24 (0:54h)
+SPO = Classic
+Economy Class
+baggage incl.: 1 PC á 23 kg
+Carry-on baggage: 1 piece total 8 kg
+SEATTLE - FRANKFURT INT.
+DE 2033 17:15 - 12:20+1 (10:05h)
+SPO = Classic
+Economy Class
+baggage incl.: 1 PC á 23 kg",0,0.06928521394729614,0.7399429082870483,0.814981997013092,0.949437141418457
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,9de6db54-3e02-418c-b068-35e3cf4ab3f5,logo,"<a id='9de6db54-3e02-418c-b068-35e3cf4ab3f5'></a>
+
+<::logo: Condor
+condor
+The logo features the word ""condor"" in a bold, sans-serif font, accompanied by a circular emblem containing a stylized bird or wing shape.
+::>",1,0.7193335294723511,0.04197786748409271,0.9278554916381836,0.07858683168888092
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,4f1144de-8784-490a-b849-cbfa3dbd5173,marginalia,"<a id='4f1144de-8784-490a-b849-cbfa3dbd5173'></a>
+
+Page 2 / 4",1,0.8494719862937927,0.11352349817752838,0.9293258786201477,0.1317112296819687
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb,text,"<a id='93bb8be9-5c98-4e4f-ac1d-e66ee6b64cfb'></a>
+
+27.07.25
+Carry-on baggage: 1 piece total 8 kg
+FRANKFURT INT. - ATHEN
+GQ 861 14:25 - 18:10 (2:45h)
+SPO = Classic
+Economy Class
+baggage incl.: 1 PC á 23 kg
+Carry-on baggage: 1 piece total 8 kg
+
+all on 10.08.25
+ATHEN - FRANKFURT INT.
+GQ 860 11:15 - 13:25 (3:10h)
+SPO = Classic
+Economy Class
+baggage incl.: 1 PC á 23 kg
+Carry-on baggage: 1 piece total 8 kg
+FRANKFURT INT. - PORTLAND
+DE 2090 14:55 - 16:35 (10:40h)
+SPO = Classic
+Economy Class
+baggage incl.: 1 PC á 23 kg
+Carry-on baggage: 1 piece total 8 kg
+Check-In Referenz: ZYIM6E
+
+Secure Flight details need to be provided
+before departure.",1,0.06685295701026917,0.16148364543914795,0.8216468095779419,0.506264328956604
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,7542ccc8-283d-4936-aa6b-5f7734707f86,text,"<a id='7542ccc8-283d-4936-aa6b-5f7734707f86'></a>
+
+GQ = Sky Express
+DE = Condor
+AS = Alaska Airlines",1,0.068917416036129,0.5193620920181274,0.3046135902404785,0.5702610015869141
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,420e9652-31bf-4621-a491-ad768fc5f2c6,text,"<a id='420e9652-31bf-4621-a491-ad768fc5f2c6'></a>
+
+Classic: Please note the special cancellation and rebooking conditions.
+Schedule and routing subject to change without notice.",1,0.06993019580841064,0.5782097578048706,0.5603693127632141,0.6093670129776001
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,dec22989-f3fa-464d-989e-f440f1ee52b3,text,"<a id='dec22989-f3fa-464d-989e-f440f1ee52b3'></a>
+
+Booked on 27.03.25",1,0.07091575115919113,0.6287153959274292,0.2204158902168274,0.6454052925109863
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,b40676d2-136d-47d9-ad07-9bf2c81e3483,text,"<a id='b40676d2-136d-47d9-ad07-9bf2c81e3483'></a>
+
+Your customer number is: 72630224",1,0.07063861191272736,0.6549202799797058,0.3281862735748291,0.6716477274894714
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,7bac6e3c-c85f-47b6-856c-ad64f5dcd51e,text,"<a id='7bac6e3c-c85f-47b6-856c-ad64f5dcd51e'></a>
+
+Contact:
+ANDREA KROPP
+227 N 5TH AVE, RIDGEFIELD, WA
+98642 RIDGEFIELD
+E-mail: andr3akropp@gmail.com
+
+Phone private: +1 360-624-2355",1,0.06792321801185608,0.683427631855011,0.8032951354980469,0.7659837603569031
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,03332738-7a4f-4038-a0d0-d5d1d8f47c6f,text,"<a id='03332738-7a4f-4038-a0d0-d5d1d8f47c6f'></a>
+
+Payment by Credit Card.",1,0.07012441754341125,0.7851698994636536,0.2471158504486084,0.802471935749054
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,6c5dffb4-eb09-445f-8c6a-325f23b0da38,text,"<a id='6c5dffb4-eb09-445f-8c6a-325f23b0da38'></a>
+
+Before your journey begins, please research the necessary entry requirements and regulations pertaining to your destination airport in order to avoid being denied boarding or receiving fines from the local authorities. Please note that the local applicable regulations may differ from the regulations in your country of residence. Further information: https://www.condor.com/entry-regulations",1,0.0689629316329956,0.8357514142990112,0.9224849939346313,0.8895981311798096
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,d3c9a42b-afae-4d49-a00d-6725abf2e8be,text,"<a id='d3c9a42b-afae-4d49-a00d-6725abf2e8be'></a>
+
+For flights to/from USA and Canada, a free baggage allowance of one item weighing up to 23kg applies in Economy class (except LIGHT tariff), or 32 kg in Premium Economy class. In Business class, 2 baggage items weighing up to 32kg per item will be carried without charge. Infants under age 2 have a free baggage allowance of one item weighing up to 10kg in Economy class (except LIGHT tariff), also in Premium Economy class and Business class. The LIGHT tariff does not normally include any free baggage allowance.",1,0.06937184929847717,0.8886175155639648,0.9223265647888184,0.9560595750808716
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b,logo,"<a id='9f2fed34-cd7f-4aba-a41c-f1e95dd1c67b'></a>
+
+<::logo: Condor
+condor
+The logo features the word ""condor"" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>",2,0.7187888622283936,0.041376546025276184,0.9283391237258911,0.07930270582437515
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,55e02ca0-1b4b-45f1-b886-35649f2ea745,marginalia,"<a id='55e02ca0-1b4b-45f1-b886-35649f2ea745'></a>
+
+Page 3 / 4",2,0.8494004607200623,0.11284811794757843,0.9301230311393738,0.13291284441947937
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,bf6bbb5c-e45e-4814-a4ba-502c048fe568,text,"<a id='bf6bbb5c-e45e-4814-a4ba-502c048fe568'></a>
+
+Important! It is essential to find out about the important entry and transit requirements for the USA (incl. Puerto Rico) and/or Canada, as if you do not register for the ESTA and/or eTA and (TSA) Secure Flight programs, you will be refused entry to the USA / to Canada (and also transit through USA/Canada). For further information please go to condor.com / Flight Preparation / Entry Regulations and Customs.",2,0.06867948174476624,0.17284132540225983,0.9203008413314819,0.2299838811159134
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,8f7f462f-6ad7-4a30-b60a-de84fba865f9,text,"<a id='8f7f462f-6ad7-4a30-b60a-de84fba865f9'></a>
+
+You will be asked for your Secure Flight data (title/gender, first name, surname, date of birth, Redress Number* if available) when you make your booking through condor.com and the data will be automatically be forwarded to the authorities in the USA. In this case, there is then no requirement for the data to be recorded separately.",2,0.06968554854393005,0.23667176067829132,0.911070704460144,0.2816273868083954
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,0dd6a761-6807-41ca-858c-f4e06bb7532e,text,"<a id='0dd6a761-6807-41ca-858c-f4e06bb7532e'></a>
+
+If you did not provide this information when you made your booking, please do so as quickly as possible, and ideally right after you book your flight on condor.com / My booking.",2,0.0694575309753418,0.28855299949645996,0.9024184942245483,0.3199062943458557
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,613ab747-01a9-44e6-b43d-eafae4a2dcca,text,"<a id='613ab747-01a9-44e6-b43d-eafae4a2dcca'></a>
+
+When registering the electronic travel application ESTA and/or eTA with a German passport, it is important to ensure that the letters ""O"" and ""I"" are not used in German Passports. In case of doubt, it is a zero (0) or an one (1).",2,0.06879013776779175,0.3261580467224121,0.92313551902771,0.3594287037849426
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0,text,"<a id='32341bd6-6451-4d7c-adcb-f2f4ee0bf5b0'></a>
+
+Please note the following if a Canadian airport is located on your itinerary:",2,0.06984326243400574,0.36499419808387756,0.5801920890808105,0.3843863904476166
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,8b458b96-cf8e-4b30-88bf-72f29ec00671,text,"<a id='8b458b96-cf8e-4b30-88bf-72f29ec00671'></a>
+
+On the following page you can find the summary of key terms and conditions of carriage as required under Canadian APPR SOR/2019-150: https://www.condor.com/us/info-service/canada-key-terms-conditions-of-carriage.jsp",2,0.06829234957695007,0.389590859413147,0.913371205329895,0.4234427809715271
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,bca3c438-5382-4020-9ac1-6bed0c82e90e,text,"<a id='bca3c438-5382-4020-9ac1-6bed0c82e90e'></a>
+
+Notice according to Canadian Air Passenger Protection Regulations: SOR/2019- 150",2,0.06962957978248596,0.4290603995323181,0.6564081907272339,0.4491207003593445
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,5c7ec4c9-0bb7-412d-8d89-b9df98802cf4,text,"<a id='5c7ec4c9-0bb7-412d-8d89-b9df98802cf4'></a>
+
+If you are denied boarding, your flight is cancelled or delayed for at least two hours, or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the Air Passenger Protection Regulations. For more information about your passenger rights please contact your air carrier or visit the Canadian Transportation Agency's website.",2,0.06949761509895325,0.4557243585586548,0.9240297079086304,0.5116022229194641
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,605e236b-75c0-498e-a34e-acf12e279961,text,"<a id='605e236b-75c0-498e-a34e-acf12e279961'></a>
+
+Si l'embarquement vous est refusé, ou si votre vol est annulé ou retardé d'au moins deux heures ou si vos bagages sont perdus ou endommagés, vous pourriez avoir droit au titre du Règlement sur la protection des passagers aériens, à certains avantages au titre des normes de traitement applicables et à une indemnité. Pour de plus amples renseignements sur vos droits, veuillez communiquer avec votre transporteur aérien ou visiter le site Web de l'Office des transports du Canada.avec votre transporteur aérien ou visiter le site Web de l'Office des transports du Canada.",2,0.06970241665840149,0.5189597606658936,0.919440507888794,0.5900839567184448
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,ec9bdf7b-b6c7-4dfc-895b-99f3756d7209,text,"<a id='ec9bdf7b-b6c7-4dfc-895b-99f3756d7209'></a>
+
+**Important Information concerning your outbward flight**
+CHECK-IN: Alaska AIRLINES
+
+CHECK-IN DEADLINE: please beaware that you have to finalize the check-in procedure and be in possession of your boarding-card at the latest 60 minutes prior to departure. Principally we recommend that you are at check-in 2 hours prior to departure.",2,0.06883779168128967,0.5965996384620667,0.922026515007019,0.678285539150238
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,395414d7-c80c-4747-be88-d97a7f719456,text,"<a id='395414d7-c80c-4747-be88-d97a7f719456'></a>
+
+FLIGHT-RECONFIRMATION: You can check your flight times starting 48 hours before your flight on the internet at www.condor.com. You will find all the important information on your flight under the menu item Flight info - Departures and Arrivals. The General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp",2,0.06913426518440247,0.6847441792488098,0.9174504280090332,0.7440685629844666
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,91fbac33-63b2-42c1-affc-12651ce017cd,text,"<a id='91fbac33-63b2-42c1-affc-12651ce017cd'></a>
+
+Special note for ticketless travel TKNE/NOTIX: At the Check-in, please have at hand this booking itinerary and a valid passport/personal identification card for all passengers, including children and infants. If you have booked a feeder with one of our partner-airlines an electronic-ticket will be issued for this flight. Please check and observe the visa and entry requirements for the country of destination and any transit countries!! Check-in deadline: The passenger strictly needs to observe the dead- line of 120 minutes on all outbound and inbound flights (180 minutes on flights to the U.S. and Canada). If the passenger has not reported to the Check-in within this time, the airline is authorized to alternatively dispose of the seat. Please be aware that more restrictive security measures concerning hand luggage on flights to and from the USA are in place. Please inform yourself by your Travel Agent or on our website WWW.CONDOR.COM.",2,0.06759178638458252,0.775394856929779,0.9264335632324219,0.8972911238670349
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,814bc622-8523-4ae0-ba06-ca84cef8452f,text,"<a id='814bc622-8523-4ae0-ba06-ca84cef8452f'></a>
+
+The published flight times can to a reasonable extent be subject to changes for flight operating reasons. Condor will endeavor to keep changes in flight times to a minimum and inform all passengers of them as early as possible.",2,0.06876024603843689,0.904782772064209,0.8698210716247559,0.9357917308807373
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,c28989a7-3033-4bcf-9056-c344afbbaea6,logo,"<a id='c28989a7-3033-4bcf-9056-c344afbbaea6'></a>
+
+<::logo: Condor
+condor
+The logo features the word ""condor"" in bold, lowercase text, accompanied by a circular emblem containing a stylized 'C' or bird-like symbol.::>",3,0.7186924815177917,0.041664063930511475,0.9285611510276794,0.07927028089761734
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,d2c7f399-8cff-46d5-8df4-bdb1f9b17697,marginalia,"<a id='d2c7f399-8cff-46d5-8df4-bdb1f9b17697'></a>
+
+Page 4 / 4",3,0.8492424488067627,0.11354048550128937,0.9300287961959839,0.13144652545452118
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,0c998a57-8838-4199-8330-2f0de934873b,text,"<a id='0c998a57-8838-4199-8330-2f0de934873b'></a>
+
+Free baggage allowance: The free baggage allowance specified above is per person, not per seat.",3,0.06945914030075073,0.16006465256214142,0.7424303889274597,0.18003036081790924
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,1b792cb7-d55f-4d7e-8c84-3169ff5f7abb,text,"<a id='1b792cb7-d55f-4d7e-8c84-3169ff5f7abb'></a>
+
+**Liability:**
+On a journey with an ultimate destination or a stop in a country other than the country of departure an international treaty, such as the 1999 Montreal Convention or the Warsaw Convention including its amendments or any other treaty, as well as a carrier's own contract of carriage or tariff provisions may apply in respect of liability for the entire journey. The applicable treaty governs and may limit the liability of carriers to passengers for death or personal injury, for loss of or damage to baggage, and for delay. Where the Montreal Convention applies the liability for destruction, loss of, or damage or delay to baggage is limited to a maximum of 1,288 special drawing rights (SDRs)/approx. EUR 1,595 per passenger. For damage occasioned by delay to the journey the limit of liability is a maximum of 5,346 SDRs/approx. EUR 6,621 per passenger. There is no limitation on the liability of EU airlines for death or bodily injury. Where the transportation is governed by the Warsaw Convention, limits of the Montreal Convention do not apply. According to this, in the event a passenger suffers a loss of up to 128,821 SDRs/approx. EUR 159,500 it cannot be proven that the party suffering the loss was partially or completely at fault for causing the damage. Regardless of which Convention applies to the journey, additional protection for loss of, damage or delay to baggage can usually be obtained by purchasing insurance from a private company. If your journey involves carriage by different carriers, their limits of liability shall apply. For further information please consult your airline or insurance company representative.",3,0.06915280222892761,0.18706902861595154,0.9295161962509155,0.38333627581596375
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,6badaa26-5623-49fc-a1d1-88345c1eba1d,text,"<a id='6badaa26-5623-49fc-a1d1-88345c1eba1d'></a>
+
+The general terms and conditions for transportation can be viewed at www.condor.com or by your Travel Agent.",3,0.06841480731964111,0.39156147837638855,0.5852561593055725,0.4232604205608368
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e,text,"<a id='f4f3e7c6-30b8-42c3-9924-6ba8ea3ce97e'></a>
+
+Legal notes regarding taxes:
+service according to Par. 25 UStG (German Sales Tax Code)
+Cross-border passenger transportation according to Par. 26,3 UStG
+(German Sales Tax Code). Tax no.: 035 222 50034",3,0.06973478198051453,0.43083634972572327,0.54369056224823,0.4862264096736908
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,27204094-a9bc-44ec-8aa5-d339d5a15032,text,"<a id='27204094-a9bc-44ec-8aa5-d339d5a15032'></a>
+
+Prices for purely German domestic flights include 19% VAT",3,0.06972160935401917,0.4939626455307007,0.48607680201530457,0.5120456218719482
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,366e4e08-1992-4cd7-9243-17a2317b248e,text,"<a id='366e4e08-1992-4cd7-9243-17a2317b248e'></a>
+
+Taxes/commercial fees include any applicable taxes, fees or other charges as may become due in the applicable currency of any relevant jurisdiction.",3,0.07070320844650269,0.5198274850845337,0.5606322288513184,0.563441276550293
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,825b5fc4-9c81-4cd9-9470-f2ed0f766cc9,text,"<a id='825b5fc4-9c81-4cd9-9470-f2ed0f766cc9'></a>
+
+Please be reminded of the handluggage-rules concerning the carriage of liquids. Info on www.condor.com.",3,0.06908175349235535,0.5700352191925049,0.5725562572479248,0.6035201549530029
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba,text,"<a id='e6255a4a-68eb-4c7b-8cbd-e42b8d3abeba'></a>
+
+Condor Flugdienst GmbH,
+Chairman of the Supervisory Board: Friedrich Andreae,
+Executive Board: Peter Gerber (CEO), Heiko Holm, Christian Schmitt,
+Björn Walther.
+Registered Office: Kelsterbach/Germany, Register Court and Number:
+Amtsgericht Darmstadt HRB 83385.",3,0.06917540729045868,0.6343643665313721,0.5546754002571106,0.7175912857055664
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,37d704d5-db2d-4340-ba86-26a214036da3,text,"<a id='37d704d5-db2d-4340-ba86-26a214036da3'></a>
+
+***
+The General Terms and Conditions apply and can be viewed online at http://www.condor.com/de/hilfe-kontakt/agb.jsp",3,0.0682988166809082,0.7681940793991089,0.8216071724891663,0.8192108869552612
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,d5f0469f-6bee-459a-b00c-2bd0e5eb00f3,text,"<a id='d5f0469f-6bee-459a-b00c-2bd0e5eb00f3'></a>
+
+Sheraton Tucson Hotel & Suites
+5151 East Grant Rd
+Tucson, AZ 85712
+United States
+Tel: 520-323-6262 Fax: 520-325-2989",0,0.06476593762636185,0.0779639258980751,0.29520681500434875,0.15732252597808838
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,b3797668-20ba-444a-81a4-c69c26f79957,logo,"<a id='b3797668-20ba-444a-81a4-c69c26f79957'></a>
+
+<::logo: Sheraton
+SHERATON
+EST. 1937
+An ""S"" is centered within a circular emblem featuring radiating lines and chevron patterns, all in a single muted brown color.::>",0,0.6580945253372192,0.08040902763605118,0.8511085510253906,0.16486477851867676
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,4fabc84a-540c-4bf2-8976-aae9770f8f15,text,"<a id='4fabc84a-540c-4bf2-8976-aae9770f8f15'></a>
+
+ANDREA KROPP",0,0.06679611653089523,0.18566273152828217,0.17727097868919373,0.20093710720539093
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,df4cd962-15ac-4e91-a735-b90c44d84b26,text,"<a id='df4cd962-15ac-4e91-a735-b90c44d84b26'></a>
+
+Page Number: 1
+Invoice Nbr: 1000110140
+
+Guest Number: 1076955
+Folio ID: A
+Arrive Date: 15-MAY-25 13:22
+Depart Date: 18-MAY-25 07:50
+No. Of Guest: 1
+Room Number: 459
+Marriott Bonvoy Number: 2914
+
+Copy Tax Invoice",0,0.45341548323631287,0.18478384613990784,0.9708071947097778,0.33977875113487244
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,37e0723a-22cc-453c-a082-981cf68a5bae,text,"<a id='37e0723a-22cc-453c-a082-981cf68a5bae'></a>
+
+Tax ID : 86-0832296",0,0.06763727962970734,0.3528750240802765,0.22842498123645782,0.36610934138298035
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,ba2b3964-6c6c-403a-82ac-7627340c0237,table,"<a id='ba2b3964-6c6c-403a-82ac-7627340c0237'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Date</td><td id=""0-3"">Reference</td><td id=""0-4"">Description</td><td id=""0-5"">Charges (USD)</td><td id=""0-6"">Credits (USD)</td></tr>
+<tr><td id=""0-7"">15-MAY-25</td><td id=""0-8"">RT459</td><td id=""0-9"">Room Chrg - Premium Retail</td><td id=""0-a"">322.00</td><td id=""0-b""></td></tr>
+<tr><td id=""0-c"">15-MAY-25</td><td id=""0-d"">RT459</td><td id=""0-e"">City/Local Tax</td><td id=""0-f"">4.00</td><td id=""0-g""></td></tr>
+<tr><td id=""0-h"">15-MAY-25</td><td id=""0-i"">RT459</td><td id=""0-j"">Occupancy/Tourism</td><td id=""0-k"">38.80</td><td id=""0-l""></td></tr>
+<tr><td id=""0-m"">16-MAY-25</td><td id=""0-n"">RT459</td><td id=""0-o"">Room Chrg - Premium Retail</td><td id=""0-p"">322.00</td><td id=""0-q""></td></tr>
+<tr><td id=""0-r"">16-MAY-25</td><td id=""0-s"">RT459</td><td id=""0-t"">City/Local Tax</td><td id=""0-u""></td><td id=""0-v"">4.00</td></tr>
+<tr><td id=""0-w"">16-MAY-25</td><td id=""0-x"">RT459</td><td id=""0-y"">Occupancy/Tourism</td><td id=""0-z""></td><td id=""0-A"">38.80</td></tr>
+<tr><td id=""0-B"">17-MAY-25</td><td id=""0-C"">RT459</td><td id=""0-D"">Room Chrg - Premium Retail</td><td id=""0-E""></td><td id=""0-F"">265.00</td></tr>
+<tr><td id=""0-G"">17-MAY-25</td><td id=""0-H"">RT459</td><td id=""0-I"">City/Local Tax</td><td id=""0-J""></td><td id=""0-K"">4.00</td></tr>
+<tr><td id=""0-L"">17-MAY-25</td><td id=""0-M"">RT459</td><td id=""0-N"">Occupancy/Tourism</td><td id=""0-O""></td><td id=""0-P"">31.93</td></tr>
+<tr><td id=""0-Q"">18-MAY-25</td><td id=""0-R"">VI</td><td id=""0-S"">Visa-8366</td><td id=""0-T""></td><td id=""0-U"">-1030.53</td></tr>
+<tr><td id=""0-V""></td><td id=""0-W"" colspan=""2"">***For Authorization Purpose Only***</td><td id=""0-X""></td><td id=""0-Y""></td></tr>
+<tr><td id=""0-Z""></td><td id=""0-10"" colspan=""2"">xxxxxx8366</td><td id=""0-11""></td><td id=""0-12""></td></tr>
+</table>
+<table id=""0-13"">
+<tr><td id=""0-14"">Date</td><td id=""0-15"">Time</td><td id=""0-16"">Code</td><td id=""0-17"">Authorized</td></tr>
+<tr><td id=""0-18"">15-MAY-25</td><td id=""0-19"">13:18</td><td id=""0-1a"">07081D</td><td id=""0-1b"">1181.70</td></tr>
+</table>",0,0.06570836901664734,0.3787754774093628,0.918988823890686,0.612479031085968
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,6ea63e85-b977-4211-9f0f-e2a3648f190e,text,"<a id='6ea63e85-b977-4211-9f0f-e2a3648f190e'></a>
+
+Approve EMV Receipt for VI - 8366: Signature Captured
+Application Label: VISA CREDIT AID: A0000000031010
+ARC: 00 IAD: 0601120360A000 TSI: 6800 TVR: 8000008000",0,0.1459791362285614,0.639474630355835,0.5361500978469849,0.6881366968154907
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,fdecd15e-0875-4a31-8b99-1393d6acb27d,text,"<a id='fdecd15e-0875-4a31-8b99-1393d6acb27d'></a>
+
+** Total                                                              1030.53                                                              -1030.53
+*** Balance                                                              0.00",0,0.29882749915122986,0.7141298055648804,0.8747421503067017,0.74937903881073
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,bfc47d75-48cf-4780-a8bd-6df03902700f,attestation,"<a id='bfc47d75-48cf-4780-a8bd-6df03902700f'></a>
+
+<::attestation: Signature
+Signed
+Signature: legible (Carl K. Kyser)
+A black ink signature is centered within a white rectangular box.::>",0,0.3962794542312622,0.8017979860305786,0.6508580446243286,0.8851253986358643
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,c2e9f3f0-a279-46f4-8e46-7c1a3d261860,marginalia,"<a id='c2e9f3f0-a279-46f4-8e46-7c1a3d261860'></a>
+
+I agreed to pay all room & incidental charges.",0,0.10149498283863068,0.8226883411407471,0.3698810338973999,0.8395318984985352
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,3c1760a3-225a-4cd1-81ab-07750539c755,marginalia,"<a id='3c1760a3-225a-4cd1-81ab-07750539c755'></a>
+
+Continued on the next page",0,0.39645978808403015,0.928440511226654,0.5648729801177979,0.9435483813285828
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,1698b085-d0cc-4ec9-b531-33ed0a14db2d,text,"<a id='1698b085-d0cc-4ec9-b531-33ed0a14db2d'></a>
+
+Sheraton Tucson Hotel & Suites
+5151 East Grant Rd
+Tucson, AZ 85712
+United States
+Tel: 520-323-6262 Fax: 520-325-2989",1,0.06429322063922882,0.07802057266235352,0.29576075077056885,0.15735948085784912
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,a5920ff0-56cd-47f5-9185-5e84ecd6617f,logo,"<a id='a5920ff0-56cd-47f5-9185-5e84ecd6617f'></a>
+
+<::logo: Sheraton
+SHERATON
+EST. 1937
+A stylized 'S' is enclosed within a circular emblem featuring radiating lines and chevron patterns, all in a muted brown/taupe color.::>",1,0.6580696702003479,0.08059805631637573,0.852001965045929,0.1651024967432022
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,260d2b18-7d49-4552-8236-662a6a0a596c,text,"<a id='260d2b18-7d49-4552-8236-662a6a0a596c'></a>
+
+ANDREA KROPP",1,0.06640894711017609,0.18550096452236176,0.17793422937393188,0.2013273984193802
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,cbd06dfe-a2c8-4e03-9b23-17837263093d,text,"<a id='cbd06dfe-a2c8-4e03-9b23-17837263093d'></a>
+
+Page Number: 2
+Invoice Nbr: 1000110140
+
+Guest Number: 1076955
+Folio ID: A
+
+Arrive Date: 15-MAY-25 13:22
+Depart Date: 18-MAY-25 07:50
+
+No. Of Guest: 1
+Room Number: 459
+Marriott Bonvoy Number: 2914",1,0.4526519477367401,0.18476350605487823,0.9708088636398315,0.30845877528190613
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,25c0b640-72a8-444e-94de-862adebfcd66,text,"<a id='25c0b640-72a8-444e-94de-862adebfcd66'></a>
+
+EXPENSE SUMMARY REPORT",1,0.06609426438808441,0.39758574962615967,0.2647281289100647,0.41396963596343994
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,adbaa55f-8a56-4993-b1e6-d9b89bc4dc56,text,"<a id='adbaa55f-8a56-4993-b1e6-d9b89bc4dc56'></a>
+
+Currency: USD",1,0.408160924911499,0.4139038324356079,0.5030255913734436,0.42874985933303833
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,5edfffc3-4255-4a3d-a78d-06d7f22fd803,table,"<a id='5edfffc3-4255-4a3d-a78d-06d7f22fd803'></a>
+
+<table id=""1-1"">
+<tr><td id=""1-2"">Date</td><td id=""1-3"">RM & TX</td><td id=""1-4"">FD & BV</td><td id=""1-5"">TEL</td><td id=""1-6"">Other</td><td id=""1-7"">Total</td><td id=""1-8"">Payment</td></tr>
+<tr><td id=""1-9"">05-15-2025</td><td id=""1-a"">0.00</td><td id=""1-b"">0.00</td><td id=""1-c"">0.00</td><td id=""1-d"">364.80</td><td id=""1-e"">364.80</td><td id=""1-f"">0.00</td></tr>
+<tr><td id=""1-g"">05-16-2025</td><td id=""1-h"">0.00</td><td id=""1-i"">0.00</td><td id=""1-j"">0.00</td><td id=""1-k"">364.80</td><td id=""1-l"">364.80</td><td id=""1-m"">0.00</td></tr>
+<tr><td id=""1-n"">05-17-2025</td><td id=""1-o"">0.00</td><td id=""1-p"">0.00</td><td id=""1-q"">0.00</td><td id=""1-r"">300.93</td><td id=""1-s"">300.93</td><td id=""1-t"">0.00</td></tr>
+<tr><td id=""1-u"">05-18-2025</td><td id=""1-v"">0.00</td><td id=""1-w"">0.00</td><td id=""1-x"">0.00</td><td id=""1-y"">0.00</td><td id=""1-z"">0.00</td><td id=""1-A"">-1030.53</td></tr>
+<tr><td id=""1-B"">Total</td><td id=""1-C"">0.00</td><td id=""1-D"">0.00</td><td id=""1-E"">0.00</td><td id=""1-F"">1030.53</td><td id=""1-G"">1030.53</td><td id=""1-H"">-1030.53</td></tr>
+</table>
+Signature___",1,0.06544271111488342,0.45627737045288086,0.9200810194015503,0.5964640378952026
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,fe876341-80f7-493e-8ef9-95af584a9091,marginalia,"<a id='fe876341-80f7-493e-8ef9-95af584a9091'></a>
+
+Bring the Sheraton sleep experience home with you. Visit SheratonStore.com.",1,0.06626816093921661,0.8685909509658813,0.5286213159561157,0.8839175701141357
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,dfc89375-e0e6-4458-983d-e18c64748754,logo,"<a id='dfc89375-e0e6-4458-983d-e18c64748754'></a>
+
+<::logo: Amazon Advertising
+amazonadvertising
+The logo features the word ""amazon"" in dark grey with an orange arrow underneath, followed by ""advertising"" in orange.::>",0,0.05608872324228287,0.0435946062207222,0.28496766090393066,0.07574494183063507
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,38c9105c-60ce-474e-8603-b9aa81f8bb9a,text,"<a id='38c9105c-60ce-474e-8603-b9aa81f8bb9a'></a>
+
+TAX INVOICE
+
+Billed Amount Due: 103.93 USD
+
+Invoice Number: TRX5FPX4C-20
+Invoice Date: 02-Mar-2025
+Invoice Period: 04-Feb-2025 to 02-Mar-2025
+Invoice Currency: USD
+Payment Method: Credit Card",0,0.6411813497543335,0.03373827785253525,0.9511376619338989,0.2400818169116974
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,f0d78a09-a296-46a6-ac65-554753e27491,text,"<a id='f0d78a09-a296-46a6-ac65-554753e27491'></a>
+
+From
+
+Amazon Advertising LLC
+PO Box 24651
+Seattle WA 98124-0651
+Tax Number 91-2000471",0,0.045964501798152924,0.10732649266719818,0.23195379972457886,0.2094891518354416
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,df3780a7-e9e1-40de-87d2-9ce4cfa7e57e,text,"<a id='df3780a7-e9e1-40de-87d2-9ce4cfa7e57e'></a>
+
+To
+Meridian Venture Services LLC
+Meridian Venture Services LLC
+Sponsored ads - KDP
+227 N 5th Ave
+PO Box 1168
+Ridgefield WA 98642",0,0.2608010768890381,0.10855354368686676,0.4911412000656128,0.24451704323291779
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,3976086a-8f65-474d-a8d2-bf7e831de571,table,"<a id='3976086a-8f65-474d-a8d2-bf7e831de571'></a>
+
+Summary of Portfolio Charges
+Portfolio subtotals exclude advertising charges and adjustments. Tax is calculated on the overall invoice and therefore not reflected in the portfolio subtotal.
+<table id=""0-1"">
+<tr><td id=""0-2"">Portfolio name:</td><td id=""0-3"">Amount (ex. Tax)</td></tr>
+<tr><td id=""0-4"">Tennis</td><td id=""0-5"">64.30 USD</td></tr>
+<tr><td id=""0-6"">Spirograph</td><td id=""0-7"">39.62 USD</td></tr>
+</table>
+Total Amount: 103.92 USD",0,0.046619951725006104,0.26263242959976196,0.9534528851509094,0.3951241374015808
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,63bf1c65-18f8-4438-a563-e26389454ec2,table,"<a id='63bf1c65-18f8-4438-a563-e26389454ec2'></a>
+
+Portfolio name: Tennis
+<table id=""0-8"">
+<tr><td id=""0-9"">Campaign</td><td id=""0-a"">Campaign type</td><td id=""0-b"">Clicks</td><td id=""0-c"">Average CPC</td><td id=""0-d"">Amount (ex. Tax)</td></tr>
+<tr><td id=""0-e"">Tennis Book - High School(2)</td><td id=""0-f"">SPONSORED PRODUCTS</td><td id=""0-g"">68</td><td id=""0-h"">0.95 USD</td><td id=""0-i"">64.30 USD</td></tr>
+</table>",0,0.045277923345565796,0.4040117859840393,0.9544262886047363,0.49410301446914673
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,aea46ac2-c3a6-429a-883a-566ab55778c7,text,"<a id='aea46ac2-c3a6-429a-883a-566ab55778c7'></a>
+
+Portfolio total: 64.30 USD",0,0.7651671171188354,0.5021461844444275,0.9531055688858032,0.520254909992218
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,34a7dacf-9813-400a-8451-20589966fd6e,table,"<a id='34a7dacf-9813-400a-8451-20589966fd6e'></a>
+
+Portfolio name: Spirograph
+<table id=""0-j"">
+<tr><td id=""0-k"">Campaign</td><td id=""0-l"">Campaign type</td><td id=""0-m"">Clicks</td><td id=""0-n"">Average CPC</td><td id=""0-o"">Amount (ex. Tax)</td></tr>
+<tr><td id=""0-p"">Spiro Coloring - Keywords</td><td id=""0-q"">SPONSORED PRODUCTS</td><td id=""0-r"">43</td><td id=""0-s"">0.76 USD</td><td id=""0-t"">32.59 USD</td></tr>
+<tr><td id=""0-u"">Spiro Coloring - Product Targeting</td><td id=""0-v"">SPONSORED PRODUCTS</td><td id=""0-w"">20</td><td id=""0-x"">0.35 USD</td><td id=""0-y"">7.03 USD</td></tr>
+</table>
+Portfolio total: 39.62 USD",0,0.044961243867874146,0.5315048098564148,0.9553689956665039,0.6688215136528015
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,c4e65962-4f3b-48a7-a1bd-8cd42748cd81,table,"<a id='c4e65962-4f3b-48a7-a1bd-8cd42748cd81'></a>
+
+Regulatory fees
+<table id=""0-z"">
+<tr><td id=""0-A"">Jurisdiction</td><td id=""0-B"">Amount (ex. Tax)</td></tr>
+<tr><td id=""0-C"">CA</td><td id=""0-D"">0.01 USD</td></tr>
+</table>",0,0.04582655429840088,0.6778695583343506,0.9539265036582947,0.7545902729034424
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,6140f375-872a-46e3-8e8f-f97037c44982,text,"<a id='6140f375-872a-46e3-8e8f-f97037c44982'></a>
+
+Regulatory fees total: 0.01 USD",0,0.7224115133285522,0.7641174793243408,0.9530030488967896,0.7822599411010742
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,ed8ce3ab-a859-4301-9208-025f76d1dc82,table,"<a id='ed8ce3ab-a859-4301-9208-025f76d1dc82'></a>
+
+<table id=""0-E"">
+<tr><td id=""0-F"">Total Campaign charges</td><td id=""0-G"">103.92 USD</td></tr>
+<tr><td id=""0-H"">Total Regulatory fees</td><td id=""0-I"">0.01 USD</td></tr>
+<tr><td id=""0-J"">Subtotal (excluding tax)</td><td id=""0-K"">103.93 USD</td></tr>
+<tr><td id=""0-L"">Tax Rate - Tax</td><td id=""0-M"">0%</td></tr>
+<tr><td id=""0-N"">Tax Amount - Tax</td><td id=""0-O"">0.00 USD</td></tr>
+<tr><td id=""0-P"">Total Amount (tax included)</td><td id=""0-Q"">103.93 USD</td></tr>
+</table>",0,0.6613131165504456,0.8114059567451477,0.9523125290870667,0.9508392214775085
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,ecbcfa04-4846-466c-b374-c39fb203d92a,text,"<a id='ecbcfa04-4846-466c-b374-c39fb203d92a'></a>
+
+The total amount due will be automatically charged to your credit card. No further action is required for this invoice
+Automatic charge to the credit card on file",1,0.04807901382446289,8.069537580013275e-05,0.9516885876655579,0.04967128485441208
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,72d1c4d0-1532-45b4-bd4a-706a0bdc7f95,text,"<a id='72d1c4d0-1532-45b4-bd4a-706a0bdc7f95'></a>
+
+# Frequently Asked Questions
+
+**Why doesn't my invoice match what I see in Campaign Manager?**
+
+Your invoice is the definitive source for your campaign charges. It includes any adjustments, promotions, taxes and other fees. Please note that it can take up to 72 hours to complete traffic validation, and delayed data can result in charges or corrections being included on a subsequent invoice; this may result in a difference in the amount you see on an invoice and the amount you see in the campaign manager for a particular date range.",1,0.06408926844596863,0.07650044560432434,0.9223754405975342,0.1966334879398346
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,de3a4e1e-56bb-4e7d-98f2-f93ee523274b,text,"<a id='de3a4e1e-56bb-4e7d-98f2-f93ee523274b'></a>
+
+How is my invoice amount calculated?
+
+Invoices are issued based on clicks generated during your billing cycle. Your billing cycle is determined by the payment method you have selected. Your invoice includes all applicable charges, credits, and promotions. Charges for campaigns running in multiple countries will show up on separate invoices.",1,0.06492552161216736,0.20190821588039398,0.9210011959075928,0.27493953704833984
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,d3801cb1-4a14-436e-a2b6-380e1c6ed88c,text,"<a id='d3801cb1-4a14-436e-a2b6-380e1c6ed88c'></a>
+
+**Campaigns are paused but I am still being charged?**
+
+If you have paused your campaigns, please note that spend can accrue for up to 72 hours for clicks generated while the campaign was still active and are within the billable period or clicks that are reported late. For details on how to verify campaign delivery and spends during the Invoice Period, please visit the Help page then navigate to the Billing and Payments section to troubleshoot your invoice.",1,0.06517031788825989,0.2794940173625946,0.9211591482162476,0.3676779568195343
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,1abfa2ed-207e-4c79-9d70-7c1bb54b3d63,text,"<a id='1abfa2ed-207e-4c79-9d70-7c1bb54b3d63'></a>
+
+Where can I find more details regarding my billing and payment status?
+
+Please visit the Billing and Payments section within your Amazon Advertising account to learn more about your invoice and payment history, update your payment method, and learn about promotions. You can also visit billing help page for information regarding your charges.",1,0.06574469804763794,0.37227165699005127,0.9313350915908813,0.44561558961868286
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,2dc46b67-7c6a-4e76-9376-59ec74b0576f,text,"<a id='2dc46b67-7c6a-4e76-9376-59ec74b0576f'></a>
+
+How is my invoice period determined?
+
+Your invoice period is based on the time of the occurrence of the clicks and/or impressions, as well as your chosen payment method. Please note that network delays can sometimes affect the recording of these events, which could result in a slight shift in your invoice period. Your invoice serves as the final and official source of information regarding your invoice period.",1,0.06669417023658752,0.44980955123901367,0.9267785549163818,0.5377235412597656
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,fd5b0e1d-1107-4fc7-b2a5-3362de6475ec,text,"<a id='fd5b0e1d-1107-4fc7-b2a5-3362de6475ec'></a>
+
+CUSTOM ELECTRIC & PLUMBING, INC.
+PO Box 533
+Summerfield, NC 27358
+336.701.5589
+Mat@CustomEandP.com
+www.ElectricianOrPlumber.com",0,0.02234107255935669,0.040314625948667526,0.33442193269729614,0.1374884843826294
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,0d49aa35-b748-4bed-b22b-71899474ce75,logo,"<a id='0d49aa35-b748-4bed-b22b-71899474ce75'></a>
+
+<::logo: Custom Electric & Plumbing, Inc.
+CUSTOM ELECTRIC & PLUMBING, INC.
+The logo features a large stylized 'C' and 'P' with ""CUSTOM ELECTRIC"" above ""PLUMBING, INC."", and a lightbulb replacing the 'O' in ""CUSTOM"" and a pipe with a wrench and faucet handle forming the base for ""PLUMBING, INC.""::>",0,0.6994085907936096,0.038081660866737366,0.9696045517921448,0.18766160309314728
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,7a86bfa3-8d49-4693-8304-0b5e6848c859,text,"<a id='7a86bfa3-8d49-4693-8304-0b5e6848c859'></a>
+
+INVOICE",0,0.023272253572940826,0.21905489265918732,0.12188955396413803,0.24203406274318695
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,33cab779-5375-43f6-bb7f-ed6236366085,text,"<a id='33cab779-5375-43f6-bb7f-ed6236366085'></a>
+
+BILL TO
+Leo Vincent
+1000 Sarah Dr
+Summerfield, NC 27358 USA",0,0.0227242112159729,0.2492464780807495,0.21225789189338684,0.3138732314109802
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,9f8a6493-c658-4b66-9f16-cccf9d1d824c,text,"<a id='9f8a6493-c658-4b66-9f16-cccf9d1d824c'></a>
+
+INVOICE: 52255
+DATE: 10/03/2022
+DUE DATE: 11/01/2022",0,0.6557497978210449,0.24799035489559174,0.8742927312850952,0.3005737066268921
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,e9543de5-c4dd-4f9f-a17c-371fa3404612,text,"<a id='e9543de5-c4dd-4f9f-a17c-371fa3404612'></a>
+
+SALES REP
+Mathew",0,0.023406073451042175,0.3280051648616791,0.10722202062606812,0.36012789607048035
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,002bc825-c31c-4b1f-82e4-462093d29bea,table,"<a id='002bc825-c31c-4b1f-82e4-462093d29bea'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">DESCRIPTION</td><td id=""0-3"">QTY</td><td id=""0-4"">RATE</td><td id=""0-5"">AMOUNT</td></tr>
+<tr><td id=""0-6"">Provide and install new 60 Amp 240Vac breaker and 6/2 Copper SE cable feeding new Tesla Wall connector. Install new customer supplied Tesla wall connector. Note: drywall may need to be cut to facilitate work. No drywall repairs or painting are included in this quote.</td><td id=""0-7"">1</td><td id=""0-8"">1,400.00</td><td id=""0-9"">1,400.00</td></tr>
+<tr><td id=""0-a"">Permit and inspection fees</td><td id=""0-b"">1</td><td id=""0-c"">150.00</td><td id=""0-d"">150.00</td></tr>
+<tr><td id=""0-e"">Payment Terms: by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.</td><td id=""0-f"">1</td><td id=""0-g"">0.00</td><td id=""0-h"">0.00</td></tr>
+</table>",0,0.02458798885345459,0.3710770606994629,0.9765719175338745,0.7787612676620483
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,6cc10536-c31c-4ba4-91e1-fb001cdb8a46,text,"<a id='6cc10536-c31c-4ba4-91e1-fb001cdb8a46'></a>
+
+Thank you for supporting your local veteran owned and operated small business.",0,0.025145575404167175,0.7953325510025024,0.4417579174041748,0.8919872045516968
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,15222186-0643-4f88-bc7b-3993aaf4c05f,table,"<a id='15222186-0643-4f88-bc7b-3993aaf4c05f'></a>
+
+<table id=""0-i"">
+<tr><td id=""0-j"">SUBTOTAL</td><td id=""0-k"">1,550.00</td></tr>
+<tr><td id=""0-l"">TAX</td><td id=""0-m"">0.00</td></tr>
+<tr><td id=""0-n"">TOTAL</td><td id=""0-o"">1,550.00</td></tr>
+<tr><td id=""0-p"">BALANCE DUE</td><td id=""0-q"">$1,550.00</td></tr>
+</table>",0,0.4763370454311371,0.7919626832008362,0.9771872758865356,0.9060559868812561
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,45691d40-ffda-4cbb-845b-3acdd67bed38,marginalia,"<a id='45691d40-ffda-4cbb-845b-3acdd67bed38'></a>
+
+Page 1 of 1",0,0.4656218886375427,0.9667644500732422,0.5357179045677185,0.984345555305481
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,1a2eb346-7461-4377-a379-3f7a0f0ad13b,logo,"<a id='1a2eb346-7461-4377-a379-3f7a0f0ad13b'></a>
+
+<::logo: Howard Custom Transfers, Inc.
+HOWARD CUSTOM TRANSFERS, INC.
+1925 Holmes Rd #400
+Elgin IL 60123
+A stylized green 'h' is centered within two black concentric circles.::>",0,0.08387713134288788,0.067371666431427,0.3913699984550476,0.17650283873081207
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,941f0f93-3e61-468f-9a59-eaa569a436ec,attestation,"<a id='941f0f93-3e61-468f-9a59-eaa569a436ec'></a>
+
+<::attestation: Status indicator
+Status: Paid
+Readable Text: PAID
+The word ""PAID"" is prominently displayed in red, centered on a white background.::>",0,0.4575788676738739,0.08609601110219955,0.5416440367698669,0.12003587931394577
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,715784b0-773d-4bce-a0ce-093f83d62721,text,"<a id='715784b0-773d-4bce-a0ce-093f83d62721'></a>
+
+*116271*
+
+Invoice: 00000116271",0,0.7167072296142578,0.07587598264217377,0.9097530841827393,0.13334384560585022
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,f9900bfd-eaae-4e61-bf19-c8b2b9d2c4e3,text,"<a id='f9900bfd-eaae-4e61-bf19-c8b2b9d2c4e3'></a>
+
+## Customer Information
+
+Sold To: Meridian Venture Services, LLC
+Address: 227 N 5th Avenue
+City, State, ZIP: Ridgefield, WA 98642
+Contact: Andrea Kropp
+Office Phone: 360-624-2355
+Home Phone: [None]
+Cell Phone: [None]
+Terms: Prepay",0,0.08380518853664398,0.1932252049446106,0.4186515808105469,0.3478654623031616
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,3f105563-88af-483f-adcd-013b90c6ecb2,text,"<a id='3f105563-88af-483f-adcd-013b90c6ecb2'></a>
+
+Ship To: Meridian Venture Services, LLC
+Address: 227 N 5th Avenue
+City, State, ZIP: Ridgefield, WA 98642
+Fax: [None]
+Email: pololifeshop@gmail.com
+Ship Date: 2/10/2020
+Shipping: Ground
+UPS Tracking #: 1Z77Y5Y70365096016",0,0.49407392740249634,0.21537694334983826,0.8300791382789612,0.34940293431282043
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,b219ba9d-9f22-4085-a3b4-6dda1382ac72,table,"<a id='b219ba9d-9f22-4085-a3b4-6dda1382ac72'></a>
+
+Order Information
+<table id=""0-1"">
+<tr><td id=""0-2"">Order ID</td><td id=""0-3"">Customer</td><td id=""0-4"">Description</td><td id=""0-5"">Product Line</td><td id=""0-6"">Colors</td><td id=""0-7"">Qty</td><td id=""0-8"">Status</td><td id=""0-9"">Shipping</td><td id=""0-a"">Ship Date</td><td id=""0-b"">Total</td></tr>
+<tr><td id=""0-c"">02102007-DP</td><td id=""0-d"">Meridian Venture Services, LLC</td><td id=""0-e"">Polo Bear Gang **NEW ACCOUNT**</td><td id=""0-f"">Heat Transfers</td><td id=""0-g"">2</td><td id=""0-h"">24</td><td id=""0-i"">Shipped</td><td id=""0-j"">Ground</td><td id=""0-k"">2/10/2020</td><td id=""0-l"">$144.00</td></tr>
+<tr><td id=""0-m"">02102008-DP</td><td id=""0-n"">Meridian Venture Services, LLC</td><td id=""0-o"">Water polo stamps **NEW ACCOUNT**</td><td id=""0-p"">Digital Transfers</td><td id=""0-q"">0</td><td id=""0-r"">24</td><td id=""0-s"">Shipped</td><td id=""0-t"">Ground</td><td id=""0-u"">2/10/2020</td><td id=""0-v"">$126.00</td></tr>
+<tr><td id=""0-w"">Total:</td><td id=""0-x""></td><td id=""0-y""></td><td id=""0-z""></td><td id=""0-A""></td><td id=""0-B""></td><td id=""0-C""></td><td id=""0-D""></td><td id=""0-E""></td><td id=""0-F"">$270.00</td></tr>
+<tr><td id=""0-G"">Discount:</td><td id=""0-H""></td><td id=""0-I""></td><td id=""0-J""></td><td id=""0-K""></td><td id=""0-L""></td><td id=""0-M""></td><td id=""0-N""></td><td id=""0-O""></td><td id=""0-P"">($50.00)</td></tr>
+<tr><td id=""0-Q"">Freight Cost:</td><td id=""0-R""></td><td id=""0-S""></td><td id=""0-T""></td><td id=""0-U""></td><td id=""0-V""></td><td id=""0-W""></td><td id=""0-X""></td><td id=""0-Y""></td><td id=""0-Z"">$24.31</td></tr>
+<tr><td id=""0-10"">Handling Fee:</td><td id=""0-11""></td><td id=""0-12""></td><td id=""0-13""></td><td id=""0-14""></td><td id=""0-15""></td><td id=""0-16""></td><td id=""0-17""></td><td id=""0-18""></td><td id=""0-19"">$3.00</td></tr>
+<tr><td id=""0-1a"">Grand Total:</td><td id=""0-1b""></td><td id=""0-1c""></td><td id=""0-1d""></td><td id=""0-1e""></td><td id=""0-1f""></td><td id=""0-1g""></td><td id=""0-1h""></td><td id=""0-1i""></td><td id=""0-1j"">$247.31</td></tr>
+<tr><td id=""0-1k"">Amount Paid:</td><td id=""0-1l""></td><td id=""0-1m""></td><td id=""0-1n""></td><td id=""0-1o""></td><td id=""0-1p""></td><td id=""0-1q""></td><td id=""0-1r""></td><td id=""0-1s""></td><td id=""0-1t"">($247.31)</td></tr>
+<tr><td id=""0-1u"">Balance Due:</td><td id=""0-1v""></td><td id=""0-1w""></td><td id=""0-1x""></td><td id=""0-1y""></td><td id=""0-1z""></td><td id=""0-1A""></td><td id=""0-1B""></td><td id=""0-1C""></td><td id=""0-1D"">$0.00</td></tr>
+</table>",0,0.08393040299415588,0.3604520857334137,0.9087662696838379,0.590835452079773
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,99baa3fa-fab0-4736-97cc-16cdf6e691bf,text,"<a id='99baa3fa-fab0-4736-97cc-16cdf6e691bf'></a>
+
+Please remit payment per your terms. If you have any questions or concerns please feel free to contact us at (866)695-8195 or send an email to accounting@howardct.com. Thank you for your business!",0,0.09263288974761963,0.5965675115585327,0.9068159461021423,0.6289862394332886
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,70dd27bc-cdc7-43ad-8774-8f6d871895da,text,"<a id='70dd27bc-cdc7-43ad-8774-8f6d871895da'></a>
+
+Three 60 Decks
+15807 NE Lucia Falls Rd
+Battle Ground, WA 98604-8258
+5033104017
+Tanamallory@gmail.com",0,0.09205104410648346,0.06309394538402557,0.33779531717300415,0.1561681628227234
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,82ab24ad-525a-4362-a099-f02f2ca69cc5,logo,"<a id='82ab24ad-525a-4362-a099-f02f2ca69cc5'></a>
+
+<::logo: THREE 60 DECKS
+THREE 60 DECKS
+RAILINGS & COVERS
+The logo displays the company name ""THREE 60 DECKS"" with ""THREE"" in grey, ""60"" in red, and ""DECKS"" in black, accompanied by the tagline ""RAILINGS & COVERS"" below.::>",0,0.5261691808700562,0.059340063482522964,0.8914904594421387,0.12525202333927155
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,eadb6e22-ffaf-497f-8281-42cc59950e6b,text,"<a id='eadb6e22-ffaf-497f-8281-42cc59950e6b'></a>
+
+INVOICE",0,0.09711841493844986,0.16131490468978882,0.24315321445465088,0.1892501711845398
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,7a725794-95a9-440a-92c4-09aa11d89594,text,"<a id='7a725794-95a9-440a-92c4-09aa11d89594'></a>
+
+BILL TO
+Karl & Andrea Kropp
+227 N. 5th Ave.
+Ridgefield, WA 98642",0,0.0961376205086708,0.20290811359882355,0.27310702204704285,0.2782374620437622
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,bf59ca2d-b3b9-4b7b-8f61-1d4dcfd0c3ce,text,"<a id='bf59ca2d-b3b9-4b7b-8f61-1d4dcfd0c3ce'></a>
+
+SHIP TO
+Karl & Andrea Kropp
+227 N. 5th Ave.
+Ridgefield, WA 98642",0,0.3503403663635254,0.20334742963314056,0.5265328884124756,0.2785053551197052
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,4fdbb368-8d33-456c-a350-e60e2d845827,text,"<a id='4fdbb368-8d33-456c-a350-e60e2d845827'></a>
+
+INVOICE # 2990
+
+DATE 08/08/2024
+
+DUE DATE 08/08/2024
+
+TERMS Due on receipt",0,0.6512652039527893,0.20345567166805267,0.8609481453895569,0.27686944603919983
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,7d0dae1d-a061-45b7-831f-bac5e21a0e38,text,"<a id='7d0dae1d-a061-45b7-831f-bac5e21a0e38'></a>
+
+PO NUMBER
+Kropp",0,0.09840589761734009,0.3067415952682495,0.20842579007148743,0.3432459235191345
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,e832cda8-f696-45ea-b4cb-be6e00a06d7d,table,"<a id='e832cda8-f696-45ea-b4cb-be6e00a06d7d'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">ACTIVITY</td><td id=""0-3"">QTY</td><td id=""0-4"">RATE</td><td id=""0-5"">AMOUNT</td></tr>
+<tr><td id=""0-6"">Deck Replace (3) existing deck per sketch (600sf). Price includes: - demo and disposal of existing - new pressure treated framing, footings/piers and brackets - Trex Select Decking with picture framing (Lava Rock) - Trex hidden fastening system - Trex fascia & stair risers - Trex 50 year materials warranty - Trex 5 year labor warranty for Pro Platinur installation</td><td id=""0-7"">0.70</td><td id=""0-8"">29,515.00</td><td id=""0-9"">20,660.50T</td></tr>
+<tr><td id=""0-a"">Railing 118LF of American Structures aluminum picket railing, 36""h, TR200 toprail on deck, Black. This is quoted with a TOP of deck surfact mount posts.</td><td id=""0-b"">0.70</td><td id=""0-c"">12,154.00</td><td id=""0-d"">8,507.80T</td></tr>
+<tr><td id=""0-e"">Deck Add Metal roofing panel under the upper side deck, white. Includes a gutter and downspout, color white</td><td id=""0-f"">0.70</td><td id=""0-g"">2,675.00</td><td id=""0-h"">1,872.50T</td></tr>
+<tr><td id=""0-i"">Lighting Dekor Dot lighting along edge of front entry deck/bridge and upper deck. 28 lights total with all wiring, timers and/or remotes.</td><td id=""0-j"">1</td><td id=""0-k"">2,610.00</td><td id=""0-l"">2,610.00T</td></tr>
+<tr><td id=""0-m"" colspan=""2"">SUBTOTAL</td><td id=""0-n""></td><td id=""0-o"">33,650.80</td></tr>
+<tr><td id=""0-p"" colspan=""2"">TAX</td><td id=""0-q""></td><td id=""0-r"">2,927.62</td></tr>
+<tr><td id=""0-s"" colspan=""2"">Pay invoice TOTAL</td><td id=""0-t""></td><td id=""0-u"">36,578.42</td></tr>
+<tr><td id=""0-v"" colspan=""2"">PAYMENT</td><td id=""0-w""></td><td id=""0-x"">36,578.42</td></tr>
+<tr><td id=""0-y"" colspan=""2"">BALANCE DUE</td><td id=""0-z""></td><td id=""0-A"">$0.00</td></tr>
+</table>",0,0.054755181074142456,0.36383256316185,0.9450470209121704,0.8317298889160156
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,ad28e53b-daee-4036-8e6f-add7d9cd701b,marginalia,"<a id='ad28e53b-daee-4036-8e6f-add7d9cd701b'></a>
+
+OR 205891 | WA THREE6D788BG",0,0.367353230714798,0.9581781625747681,0.6335045099258423,0.9783483743667603
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,822e4eca-7e21-4244-9801-50a65766dcc2,logo,"<a id='822e4eca-7e21-4244-9801-50a65766dcc2'></a>
+
+<::logo: RR Roofing Renovations
+RR
+ROOFING RENOVATIONS
+The logo features large, grey ""RR"" letters with a black outline, overlaid by a stylized house roof outline, and ""ROOFING RENOVATIONS"" text below.::>",0,0.07200773060321808,0.05207393318414688,0.4208279848098755,0.2219770848751068
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,c9d958ec-b2bc-42c8-9370-c4bc7e4e0d44,text,"<a id='c9d958ec-b2bc-42c8-9370-c4bc7e4e0d44'></a>
+
+Roofing Renovations INC
+336-862-5235",0,0.4983729124069214,0.04254310578107834,0.7101038694381714,0.08431334048509598
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,bfbc29a7-495a-4b7e-92ce-900d792b5274,text,"<a id='bfbc29a7-495a-4b7e-92ce-900d792b5274'></a>
+
+4917 Old Randleman Rd
+Greensboro, North Carolina
+27406
+United States",0,0.7225770354270935,0.04463685676455498,0.948281466960907,0.11778980493545532
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,79b3b9e7-5ac8-4ad2-832e-521d34ff5b09,text,"<a id='79b3b9e7-5ac8-4ad2-832e-521d34ff5b09'></a>
+
+Billed To
+
+Real Property Management
+1901 Lendew St Suite 7
+Greensboro, NC
+27408",0,0.053897738456726074,0.2791130840778351,0.27652907371520996,0.3697735369205475
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,265a2801-cd7e-41ab-838b-9ba1af6ca931,text,"<a id='265a2801-cd7e-41ab-838b-9ba1af6ca931'></a>
+
+Date of Issue
+01/29/2020
+
+Due Date
+01/29/2020",0,0.31915000081062317,0.27977097034454346,0.4350220263004303,0.37434762716293335
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,16ad6f34-820e-4209-85ee-cfb8bae161b3,text,"<a id='16ad6f34-820e-4209-85ee-cfb8bae161b3'></a>
+
+Invoice Number
+0001131
+
+Reference
+7783 Newhaven Dr",0,0.4983806610107422,0.27792099118232727,0.6679202318191528,0.37731799483299255
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,717a320d-286f-417c-92fa-35c680d1e266,text,"<a id='717a320d-286f-417c-92fa-35c680d1e266'></a>
+
+Amount Due (USD)
+$2,650.00",0,0.7339104413986206,0.2780686318874359,0.9473931789398193,0.3389115631580353
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,a8d5b48a-495b-4de6-9b27-a33b4d834e3b,table,"<a id='a8d5b48a-495b-4de6-9b27-a33b4d834e3b'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Description</td><td id=""0-3"">Rate</td><td id=""0-4"">Qty Line Total</td></tr>
+<tr><td id=""0-5"">Replace HVAC Unit.</td><td id=""0-6"">$2,650.00</td><td id=""0-7"">1 $2,650.00</td></tr>
+<tr><td id=""0-8""></td><td id=""0-9"">Subtotal</td><td id=""0-a"">2,650.00</td></tr>
+<tr><td id=""0-b""></td><td id=""0-c"">Tax</td><td id=""0-d"">0.00</td></tr>
+<tr><td id=""0-e""></td><td id=""0-f"">Total</td><td id=""0-g"">2,650.00</td></tr>
+<tr><td id=""0-h""></td><td id=""0-i"">Amount Paid</td><td id=""0-j"">0.00</td></tr>
+<tr><td id=""0-k""></td><td id=""0-l"">Amount Due (USD)</td><td id=""0-m"">$2,650.00</td></tr>
+</table>",0,0.05395421385765076,0.436617910861969,0.9484430551528931,0.6818450093269348
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,07782afe-e2f4-44e6-8a18-028e18bc7d12,text,"<a id='07782afe-e2f4-44e6-8a18-028e18bc7d12'></a>
+
+Notes
+T8EW3A3",0,0.053102198988199234,0.720390796661377,0.1496189683675766,0.7661049365997314
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,832a910a-fe9a-4279-8e7a-e421cf225aa6,text,"<a id='832a910a-fe9a-4279-8e7a-e421cf225aa6'></a>
+
+Terms
+Thank you for trusting us with all your home improvement needs.",0,0.053189873695373535,0.8029360771179199,0.557619571685791,0.8537522554397583
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,2dfbfd0b-03c1-4dbc-9a36-ba58b8bbffd7,logo,"<a id='2dfbfd0b-03c1-4dbc-9a36-ba58b8bbffd7'></a>
+
+<::logo: Harvest Hosts
+HARVEST HOSTS
+A purple wine bottle shape, resembling an RV, with a landscape of green fields and a yellow sun on its left.::>",0,0.04936695098876953,0.03653863072395325,0.38628801703453064,0.07924627512693405
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,8dc176eb-4f69-47b4-aed2-d56c39c1da89,logo,"<a id='8dc176eb-4f69-47b4-aed2-d56c39c1da89'></a>
+
+<::logo: Campers Card
+CAMPERS CARD
+The logo features an outline of a camper van or RV with a tent-like structure on top, all in a monochromatic grey color.::>",0,0.05204516649246216,0.08241285383701324,0.13319005072116852,0.109286829829216
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,dd3d27e7-4689-4879-b971-fc719fe075b2,logo,"<a id='dd3d27e7-4689-4879-b971-fc719fe075b2'></a>
+
+<::logo: BOONDOCKERS Welcome
+BW
+A stylized dark grey camper/RV icon with ""BW"" inside, above the text ""BOONDOCKERS Welcome"" in a lighter grey font.::>",0,0.14527423679828644,0.08346956968307495,0.20883627235889435,0.10664746165275574
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,32100fa0-cc35-46db-9489-f01e8aeb5a8e,logo,"<a id='32100fa0-cc35-46db-9489-f01e8aeb5a8e'></a>
+
+<::logo: CampScanner
+CampScanner
+A stylized tent icon with Wi-Fi signal waves emanating from it, above the text.::>",0,0.22208364307880402,0.08356808871030807,0.29736483097076416,0.1076815202832222
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,42bd14ba-736a-47fb-81e7-8e7ce48b5d95,logo,"<a id='42bd14ba-736a-47fb-81e7-8e7ce48b5d95'></a>
+
+<::logo: Brit Stops
+BRIT STOPS
+A stylized grey campervan with a Union Jack flag incorporated into its design.::>",0,0.3051208257675171,0.08458463102579117,0.38373565673828125,0.1081189289689064
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,838089a5-f2fc-4989-8441-820498a14481,text,"<a id='838089a5-f2fc-4989-8441-820498a14481'></a>
+
+INVOICE
+
+Invoice #: 1457274
+Invoice Date: Aug 31, 2024
+Invoice Amount: $172.83 (USD)
+Customer ID: 16Bj5ATG7ptQz8kux",0,0.6054606437683105,0.03983939811587334,0.8690721988677979,0.15478065609931946
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,10ccb440-93b5-4f65-9e91-aec920672ebc,text,"<a id='10ccb440-93b5-4f65-9e91-aec920672ebc'></a>
+
+Harvest Hosts
+1300 N. Frontage Rd, #1594
+Vail, Colorado 81657
+United States",0,0.049865081906318665,0.12652640044689178,0.26117008924484253,0.1860499531030655
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,1b0b8f07-bd0c-4473-8a16-db5b9b29d4b1,attestation,"<a id='1b0b8f07-bd0c-4473-8a16-db5b9b29d4b1'></a>
+
+<::attestation: Status indicator
+Status: paid
+Readable Text: PAID
+Short description of visual elements and positioning: The word ""PAID"" is centrally located in green text.::>",0,0.609686017036438,0.15762859582901,0.6607712507247925,0.17348316311836243
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,bb586e47-3812-4450-9587-82ac5b7fa228,text,"<a id='bb586e47-3812-4450-9587-82ac5b7fa228'></a>
+
+BILLED TO
+Andrea Kropp
+227 N 5th Ave, PO Box 1168
+Ridgefield, Washington 98642
+United States",0,0.0481177493929863,0.21088920533657074,0.2770002484321594,0.28466683626174927
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,b3702b85-522f-4b4d-b737-8ee0a20acfb9,text,"<a id='b3702b85-522f-4b4d-b737-8ee0a20acfb9'></a>
+
+SUBSCRIPTION
+ID 16Bj5ATG7ptQz8kux
+Billing Period Aug 31, 2024 to Aug 31, 2025
+Next Billing Date Aug 31, 2025",0,0.6061282157897949,0.21116694808006287,0.9336230754852295,0.2767300307750702
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,462412e5-9a03-4067-adac-b59a06260178,table,"<a id='462412e5-9a03-4067-adac-b59a06260178'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">DESCRIPTION</td><td id=""0-3""></td><td id=""0-4"">AMOUNT (USD)</td></tr>
+<tr><td id=""0-5"">Harvest Hosts</td><td id=""0-6""></td><td id=""0-7"">$159.00</td></tr>
+<tr><td id=""0-8"">Annual Harvest Hosts + Golf + Boondockers Welcome Subscription (Billed Every 365 Days)</td><td id=""0-9""></td><td id=""0-a""></td></tr>
+<tr><td id=""0-b""></td><td id=""0-c"">Sub Total</td><td id=""0-d"">$159.00</td></tr>
+<tr><td id=""0-e""></td><td id=""0-f"">Tax @ 8.7%</td><td id=""0-g"">$13.83</td></tr>
+<tr><td id=""0-h""></td><td id=""0-i"">Total</td><td id=""0-j"">$172.83</td></tr>
+<tr><td id=""0-k""></td><td id=""0-l"">Payments</td><td id=""0-m"">($172.83)</td></tr>
+<tr><td id=""0-n""></td><td id=""0-o"">Amount Due (USD)</td><td id=""0-p"">$0.00</td></tr>
+</table>",0,0.04722929000854492,0.30446454882621765,0.9495929479598999,0.5761691331863403
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,2ccdfb5a-2de8-4ffe-830a-55cb612d695c,text,"<a id='2ccdfb5a-2de8-4ffe-830a-55cb612d695c'></a>
+
+PAYMENTS
+
+**$172.83** was paid on 31 Aug, 2024 21:19 UTC by Visa card ending 8366.",0,0.047163963317871094,0.5883037447929382,0.564118504524231,0.6369203925132751
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,b4914c55-403e-4f5d-a39d-ce4f12ffe632,logo,"<a id='b4914c55-403e-4f5d-a39d-ce4f12ffe632'></a>
+
+<::logo: Zoom
+zoom
+The logo features the word ""zoom"" in a stylized, lowercase, sans-serif font, rendered in a medium gray color.::>",0,0.08026599884033203,0.019250627607107162,0.22372639179229736,0.05794680491089821
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,7ede7c75-d672-4d39-ab79-472c237b4f26,marginalia,"<a id='7ede7c75-d672-4d39-ab79-472c237b4f26'></a>
+
+",0,0.7920073866844177,0.02749837189912796,0.887368381023407,0.05059296637773514
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,4d9c1e5e-8c52-4073-9c62-052ac1edaa45,text,"<a id='4d9c1e5e-8c52-4073-9c62-052ac1edaa45'></a>
+
+Zoom Video Communications Inc.
+55 Almaden Blvd, 6th Floor
+San Jose, CA 95113
+billing@zoom.us",0,0.08041708916425705,0.11402059346437454,0.29107004404067993,0.17177818715572357
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,c3750b16-035e-466c-8421-a0fd3af66589,text,"<a id='c3750b16-035e-466c-8421-a0fd3af66589'></a>
+
+Invoice Date: 07/29/2020
+Invoice #: INV33543191
+Payment Terms: Due Upon Receipt
+Due Date: 07/29/2020
+Account Number: 3003959185
+Currency: USD
+Account Information: Abaxys Tech LLC
+1061 Midvale Ave,
+Morrisville, North Carolina 27560
+United States
+
+leo.charles@outlook.com",0,0.48799511790275574,0.11438507586717606,0.8308323621749878,0.2614942491054535
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,bf829c21-01e8-4355-91b6-74175f74be9b,text,"<a id='bf829c21-01e8-4355-91b6-74175f74be9b'></a>
+
+Purchase Order Number:
+
+TaxExemptCertificateID:
+
+Zoom W-9",0,0.08024725317955017,0.2439139485359192,0.2426876723766327,0.32542896270751953
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,8629b24b-540c-4175-96d4-2e4b16b55b63,table,"<a id='8629b24b-540c-4175-96d4-2e4b16b55b63'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"" colspan=""5"">CHARGE DETAILS</td></tr>
+<tr><td id=""0-3"">Charge Description</td><td id=""0-4"">Service Period</td><td id=""0-5"">Subtotal</td><td id=""0-6"">Tax</td><td id=""0-7"">TOTAL</td></tr>
+<tr><td id=""0-8"">Charge Name: Standard Pro Annual Quantity: 1 Unit Price: $149.90</td><td id=""0-9"">07/29/2020-07/28/2021</td><td id=""0-a"">$149.90</td><td id=""0-b"">$0.00</td><td id=""0-c"">$149.90</td></tr>
+</table>",0,0.07352882623672485,0.3482363820075989,0.9261178374290466,0.48815441131591797
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,dc878768-5a10-4ef2-b12e-bc62d909426f,table,"<a id='dc878768-5a10-4ef2-b12e-bc62d909426f'></a>
+
+<table id=""0-d"">
+<tr><td id=""0-e"">INVOICE TOTALS</td><td id=""0-f""></td><td id=""0-g""></td></tr>
+<tr><td id=""0-h"" rowspan=""3""></td><td id=""0-i"">Subtotal:</td><td id=""0-j"">$149.90</td></tr>
+<tr><td id=""0-k"">Total (Including Tax):</td><td id=""0-l"">$149.90</td></tr>
+<tr><td id=""0-m"">Invoice Balance:</td><td id=""0-n"">$0.00</td></tr>
+</table>",0,0.07345104217529297,0.5179883241653442,0.9257943630218506,0.644868016242981
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,2ef25aac-3165-4644-93ab-7725916742e7,table,"<a id='2ef25aac-3165-4644-93ab-7725916742e7'></a>
+
+<table id=""0-o"">
+<tr><td id=""0-p"" colspan=""5"">TAX DETAILS</td></tr>
+<tr><td id=""0-q"">Charge Name</td><td id=""0-r"">Tax Name</td><td id=""0-s"">Jurisdiction</td><td id=""0-t"">Charge Amount</td><td id=""0-u"">Tax Amount</td></tr>
+<tr><td id=""0-v"" colspan=""3""></td><td id=""0-w"">Total Tax</td><td id=""0-x"">$0.00</td></tr>
+</table>",0,0.0746067464351654,0.6538018584251404,0.9229556322097778,0.7314551472663879
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,718ed76e-1673-4674-afd1-3392d905a629,table,"<a id='718ed76e-1673-4674-afd1-3392d905a629'></a>
+
+<table id=""0-y"">
+<tr><td id=""0-z"" colspan=""6"">TRANSACTIONS</td></tr>
+<tr><td id=""0-A"" colspan=""5"">Invoice Total</td><td id=""0-B"">$149.90</td></tr>
+<tr><td id=""0-C"">Transaction Date</td><td id=""0-D"">Transaction Number</td><td id=""0-E"">Transaction Type</td><td id=""0-F"" colspan=""2"">Description</td><td id=""0-G"">Applied Amount</td></tr>
+<tr><td id=""0-H"">07/29/2020</td><td id=""0-I"">P-35558908</td><td id=""0-J"">Payment</td><td id=""0-K""></td><td id=""0-L""></td><td id=""0-M"">($149.90)</td></tr>
+<tr><td id=""0-N""></td><td id=""0-O""></td><td id=""0-P""></td><td id=""0-Q""></td><td id=""0-R"">Invoice Balance</td><td id=""0-S"">$0.00</td></tr>
+</table>",0,0.07401517033576965,0.7617839574813843,0.9247109889984131,0.8991341590881348
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,db770f62-34a8-4672-82c1-1e561ab1eff4,logo,"<a id='db770f62-34a8-4672-82c1-1e561ab1eff4'></a>
+
+<::logo: Daraz
+daraz
+The first letter 'd' is a colorful, segmented design, while the remaining letters are a solid dark blue/purple.::>",0,0.022913455963134766,0.017957549542188644,0.2863876223564148,0.08716528117656708
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,3cab88f7-7762-4a33-bde1-6a5876682fba,text,"<a id='3cab88f7-7762-4a33-bde1-6a5876682fba'></a>
+
+Jade E-Services Pakistan Private Limited
+12/B, 12th floor
+Executive Tower, Dolmen City
+Plot # HC-3, Block 4, Scheme #5
+Clifton, Saddar Town, Karachi South
+SNTN/PNTN #: 4012118-6
+STRN #: 1700401211818",0,0.6449650526046753,0.02188776060938835,0.9567375183105469,0.1407920867204666
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,dc908d69-1c28-41d9-ac50-53e513aa72f4,text,"<a id='dc908d69-1c28-41d9-ac50-53e513aa72f4'></a>
+
+SALES INVOICE",0,0.03520745038986206,0.1607861965894699,0.9643518924713135,0.18744777143001556
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,43da17a1-fbed-4293-9fb1-ed63c05cc13f,text,"<a id='43da17a1-fbed-4293-9fb1-ed63c05cc13f'></a>
+
+Billing Address
+Nazish
+R 44 block-D sadat e amroha society karachi, Karachi -
+Cantonment, Sindh
+Pakistan",0,0.03313189744949341,0.19335509836673737,0.4678438901901245,0.2806667983531952
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,a7142ed7-ec54-4a3b-814a-525a8be2f4e3,text,"<a id='a7142ed7-ec54-4a3b-814a-525a8be2f4e3'></a>
+
+Invoice No.: 0000329003
+Invoice Date: 2019-04-04T23:55:50+08:00",0,0.6007700562477112,0.19346383213996887,0.927922785282135,0.2299986183643341
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,2382bc92-60e5-42aa-b6b0-8e180a48d890,text,"<a id='2382bc92-60e5-42aa-b6b0-8e180a48d890'></a>
+
+Order Number: 102618708576448
+Order Date: 2019-03-29T00:16:24+08:00",0,0.6017388105392456,0.24439637362957,0.91569983959198,0.28022393584251404
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,2c5c3781-ff1a-4f9d-890a-463c0e640e5e,text,"<a id='2c5c3781-ff1a-4f9d-890a-463c0e640e5e'></a>
+
+Type of Supply: Cash On Delivery",0,0.033279433846473694,0.30913615226745605,0.2893490195274353,0.3300575613975525
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,56d4f310-b21f-4a5d-9b45-571aebced4c3,table,"<a id='56d4f310-b21f-4a5d-9b45-571aebced4c3'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">S/N</td><td id=""0-3"">Item ID</td><td id=""0-4"">Description</td><td id=""0-5"">Item SKU</td><td id=""0-6"">Qty</td><td id=""0-7"">Unit Price*</td><td id=""0-8"">Discount*</td><td id=""0-9"">Total Price*</td></tr>
+<tr><td id=""0-a"">1</td><td id=""0-b"">102618708776448</td><td id=""0-c"">11% off on Bundle of Knorr Chilli Garlic Ketchup 300gm and Knorr Tomato Ketchup 300gm</td><td id=""0-d"">100858625_PK-1 246231949</td><td id=""0-e"">1</td><td id=""0-f"">Rs 147.00</td><td id=""0-g"">- Rs 0.00</td><td id=""0-h"">Rs 147.00</td></tr>
+<tr><td id=""0-i"" colspan=""7"">TOTAL:</td><td id=""0-j"">Rs 147.00</td></tr>
+</table>
+<table id=""0-k"">
+<tr><td id=""0-l"">Total Unit Price*</td><td id=""0-m"">Rs</td><td id=""0-n"">147.00</td></tr>
+<tr><td id=""0-o"">Total Discount*</td><td id=""0-p"">Rs</td><td id=""0-q"">-0.00</td></tr>
+<tr><td id=""0-r"">Total Shipping*</td><td id=""0-s"">Rs</td><td id=""0-t"">0.00</td></tr>
+<tr><td id=""0-u"">Total</td><td id=""0-v"">Rs</td><td id=""0-w"">147.00</td></tr>
+</table>",0,0.0343799889087677,0.3487485945224762,0.966549277305603,0.6253002882003784
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,908215bb-4773-4460-835e-ef55c8830a89,text,"<a id='908215bb-4773-4460-835e-ef55c8830a89'></a>
+
+*Total charges for this shipment includes prepaid custom duties and other taxes as applicable for the merchandise to be delivered to the address in the country specified by the customer.",0,0.03367406129837036,0.6435793042182922,0.9257170557975769,0.6758351922035217
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,f525e06e-e696-4ef7-a7ac-8f8b5f9e5b68,text,"<a id='f525e06e-e696-4ef7-a7ac-8f8b5f9e5b68'></a>
+
+For return policy and return form, please visit: https://pages.daraz.pk/wow/i/pk/help/returns-refunds?hybrid=1/",0,0.033727794885635376,0.6849076151847839,0.7542737722396851,0.7035892605781555
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,08b61b0b-2cd2-4a07-8fb8-202031d7599c,text,"<a id='08b61b0b-2cd2-4a07-8fb8-202031d7599c'></a>
+
+NEED HELP? Contact us at https://www.daraz.pk/contact-us/",0,0.03432293236255646,0.7106810212135315,0.4433337450027466,0.7281565070152283
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,79d2b523-a12b-4388-890a-5430e8455ddd,text,"<a id='79d2b523-a12b-4388-890a-5430e8455ddd'></a>
+
+LIKE US on FACEBOOK: https://www.facebook.com/darazpk/",0,0.034499138593673706,0.7360616326332092,0.44518211483955383,0.7533319592475891
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,e556768c-e2df-455a-a37c-08ccff8b7ad6,text,"<a id='e556768c-e2df-455a-a37c-08ccff8b7ad6'></a>
+
+FOLLOW US on TWITTER: https://twitter.com/darazpk",0,0.03488381206989288,0.7629371285438538,0.4004225730895996,0.781244695186615
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,8fdd8975-c624-47ea-9778-2786ca428f5b,text,"<a id='8fdd8975-c624-47ea-9778-2786ca428f5b'></a>
+
+Have a great day! Thank. you for shopping on http://www.daraz.pk/",0,0.03393493592739105,0.8020185828208923,0.47926026582717896,0.8211577534675598
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,e444e1de-0ff8-4701-9f7b-b16c3c875e5a,marginalia,"<a id='e444e1de-0ff8-4701-9f7b-b16c3c875e5a'></a>
+
+** This is a computer generated copy. No signature is required**",0,0.2275991439819336,0.9744821190834045,0.7733620405197144,0.9930805563926697
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,9e946a94-f64e-4cfd-a027-cf7436c4fa1e,text,"<a id='9e946a94-f64e-4cfd-a027-cf7436c4fa1e'></a>
+
+Invoice",0,0.04434989392757416,0.03925921022891998,0.15636029839515686,0.06623195111751556
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,5095649e-4770-45c1-b5b8-c74b1bf8c32c,figure,"<a id='5095649e-4770-45c1-b5b8-c74b1bf8c32c'></a>
+
+<::A sailboat on water: figure::>",0,0.8814417719841003,0.03589008376002312,0.953228771686554,0.08971177041530609
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,63e730ac-8802-4d28-af37-82eba84c3946,text,"<a id='63e730ac-8802-4d28-af37-82eba84c3946'></a>
+
+Invoice number: 8E8C6122-0016
+Date of issue: July 1, 2024
+Date due: July 1, 2024",0,0.04303981363773346,0.08415146172046661,0.29223108291625977,0.1384565681219101
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,1cec35db-8330-45cb-90be-8908e3c3d382,text,"<a id='1cec35db-8330-45cb-90be-8908e3c3d382'></a>
+
+Midjourney Inc
+611 Gateway Blvd
+Suite 120
+South San Francisco, California 94080
+United States
+billing@midjourney.com
+US EIN 85-3078202",0,0.04328837990760803,0.15484923124313354,0.32207417488098145,0.28191515803337097
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,87bc9be4-85f9-4a36-8054-d6188dd284f2,text,"<a id='87bc9be4-85f9-4a36-8054-d6188dd284f2'></a>
+
+Bill to
+Andrea Kropp
+227 N 5th Ave
+PO Box 1168
+Ridgefield, Washington 98642
+United States
+andr3akropp@gmail.com",0,0.40306633710861206,0.1545696258544922,0.6238515973091125,0.278887540102005
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,5c115036-bb01-466d-b8a9-cf0901f71c3f,text,"<a id='5c115036-bb01-466d-b8a9-cf0901f71c3f'></a>
+
+$32.61 USD due July 1, 2024",0,0.04495169222354889,0.307283490896225,0.35820311307907104,0.3329565227031708
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,0c992fd9-5c93-4da4-92e1-514468f43af5,text,"<a id='0c992fd9-5c93-4da4-92e1-514468f43af5'></a>
+
+Pay online",0,0.045429527759552,0.34180697798728943,0.12661783397197723,0.35921332240104675
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,84ac24b0-574d-4296-bb65-06faf63289ce,table,"<a id='84ac24b0-574d-4296-bb65-06faf63289ce'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Description</td><td id=""0-3"">Qty</td><td id=""0-4"">Unit price</td><td id=""0-5"">Tax</td><td id=""0-6"">Amount</td></tr>
+<tr><td id=""0-7"">Standard Plan Jul 1 - Aug 1, 2024</td><td id=""0-8"">1</td><td id=""0-9"">$30.00</td><td id=""0-a"">8.7%</td><td id=""0-b"">$30.00</td></tr>
+<tr><td id=""0-c""></td><td id=""0-d"">Subtotal</td><td id=""0-e"" colspan=""2""></td><td id=""0-f"">$30.00</td></tr>
+<tr><td id=""0-g""></td><td id=""0-h"">Total excluding tax</td><td id=""0-i"" colspan=""2""></td><td id=""0-j"">$30.00</td></tr>
+<tr><td id=""0-k""></td><td id=""0-l"" colspan=""3"">Sales Tax - Washington (8.7% on $30.00)</td><td id=""0-m"">$2.61</td></tr>
+<tr><td id=""0-n""></td><td id=""0-o"">Total</td><td id=""0-p""></td><td id=""0-q""></td><td id=""0-r"">$32.61</td></tr>
+<tr><td id=""0-s""></td><td id=""0-t"">Amount due</td><td id=""0-u""></td><td id=""0-v""></td><td id=""0-w"">$32.61 USD</td></tr>
+</table>",0,0.042774498462677,0.3891902565956116,0.9579839110374451,0.6067088842391968
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,3963ea44-6896-48c1-a24c-58d59b42db8c,text,"<a id='3963ea44-6896-48c1-a24c-58d59b42db8c'></a>
+
+You can modify or cancel your subscription from the account page at https://www.midjourney.com/account/
+For any account related issues, please reach out through the support channel on the Midjourney Discord server. For billing
+inquiries please contact billing@midjourney.com.",0,0.04282757639884949,0.6355037689208984,0.9029361009597778,0.6904029846191406
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,48f1970a-5ae5-4cb3-96bc-ee7911d9870a,marginalia,"<a id='48f1970a-5ae5-4cb3-96bc-ee7911d9870a'></a>
+
+8E8C6122-0016 · $32.61 USD due July 1, 2024",0,0.04486533999443054,0.9410064816474915,0.32470792531967163,0.9576647877693176
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,64149bf2-3468-45b4-8a68-c4125257833b,marginalia,"<a id='64149bf2-3468-45b4-8a68-c4125257833b'></a>
+
+Page 1 of 1",0,0.8853471875190735,0.9413951635360718,0.9541265368461609,0.9573606252670288
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,c3587ed9-7466-4529-8475-1ea373070715,logo,"<a id='c3587ed9-7466-4529-8475-1ea373070715'></a>
+
+<::logo: Marriott Frankfurt Airport
+MARRIOTT
+FRANKFURT AIRPORT
+A stylized red 'M' symbol is positioned above the text.::>",0,0.05161783844232559,0.01194053515791893,0.279755175113678,0.07912440598011017
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,531f8cd4-1569-43c9-bc98-db4ab9d48d15,text,"<a id='531f8cd4-1569-43c9-bc98-db4ab9d48d15'></a>
+
+Mrs Andrea Kropp
+227 N 5th Ave
+98642 Ridgefield
+United States",0,0.08755600452423096,0.15646378695964813,0.22112080454826355,0.21719078719615936
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,30a61bac-29fc-42cd-8fa9-652746b897a4,text,"<a id='30a61bac-29fc-42cd-8fa9-652746b897a4'></a>
+
+Room No.: 6213
+Arrival: 10.08.2025
+Departure: 11.08.2025
+Page No.: 1 of 1
+Cashier No.: 20732
+Bonvoy No.: XXXXX2914
+Reservation No.: 30106470",0,0.6801640391349792,0.21000882983207703,0.9108900427818298,0.3048577606678009
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,2bb7974d-6344-4c39-a5af-896c0ed36f47,text,"<a id='2bb7974d-6344-4c39-a5af-896c0ed36f47'></a>
+
+INVOICE F 247120
+A/R No.
+Guest Name Mrs Andrea Kropp",0,0.04121856391429901,0.3006943464279175,0.2801510691642761,0.34832286834716797
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,57fc5e8e-330a-4ca5-9ef6-ab729ea28073,text,"<a id='57fc5e8e-330a-4ca5-9ef6-ab729ea28073'></a>
+
+Invoice Date: 11.08.2025",0,0.6833134889602661,0.33194535970687866,0.9000650644302368,0.3492313623428345
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,90a2a671-125c-4967-90fc-69c57e6fd94c,table,"<a id='90a2a671-125c-4967-90fc-69c57e6fd94c'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Date</td><td id=""0-3"">Description</td><td id=""0-4"">Reference</td><td id=""0-5"">Debit EUR</td><td id=""0-6"">Credit EUR</td></tr>
+<tr><td id=""0-7"">10.08.25</td><td id=""0-8"">The Eatery Dinner Beer Standard VAT</td><td id=""0-9"">CHECK# 1226762</td><td id=""0-a"">15.00</td><td id=""0-b""></td></tr>
+<tr><td id=""0-c"">10.08.25</td><td id=""0-d"">City Tax 0%</td><td id=""0-e""></td><td id=""0-f"">4.00</td><td id=""0-g""></td></tr>
+<tr><td id=""0-h"">10.08.25</td><td id=""0-i"">Accommodation</td><td id=""0-j""></td><td id=""0-k"">162.00</td><td id=""0-l""></td></tr>
+<tr><td id=""0-m"">11.08.25</td><td id=""0-n"">Visa Card - CP XXXXXXXXXXXX3800</td><td id=""0-o""></td><td id=""0-p""></td><td id=""0-q"">181.00</td></tr>
+</table>
+<table id=""0-r"">
+<tr><td id=""0-s"">VAT Detail</td><td id=""0-t"">Net EUR</td><td id=""0-u"">VAT EUR</td><td id=""0-v"">Gross EUR</td></tr>
+<tr><td id=""0-w"">VAT - 19%</td><td id=""0-x"">12.61</td><td id=""0-y"">2.39</td><td id=""0-z"">15.00</td></tr>
+<tr><td id=""0-A"">VAT -7%</td><td id=""0-B"">151.40</td><td id=""0-C"">10.60</td><td id=""0-D"">162.00</td></tr>
+<tr><td id=""0-E"">VAT - 0%</td><td id=""0-F"">4.00</td><td id=""0-G"">0.00</td><td id=""0-H"">4.00</td></tr>
+</table>
+<table id=""0-I"">
+<tr><td id=""0-J"">Total</td><td id=""0-K"">181.00</td><td id=""0-L"">181.00</td></tr>
+<tr><td id=""0-M"">Balance to pay</td><td id=""0-N""></td><td id=""0-O"">0.00 EUR</td></tr>
+<tr><td id=""0-P"">Total net</td><td id=""0-Q""></td><td id=""0-R"">168.01 EUR</td></tr>
+<tr><td id=""0-S"">Total gross</td><td id=""0-T""></td><td id=""0-U"">181.00 EUR</td></tr>
+</table>",0,0.03222489356994629,0.35502928495407104,0.9684387445449829,0.5900002121925354
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,9b5f0db4-1d83-42ca-9a59-cb96584ed69a,table,"<a id='9b5f0db4-1d83-42ca-9a59-cb96584ed69a'></a>
+
+<table id=""0-V"">
+<tr><td id=""0-W"">Händlernummer</td><td id=""0-X""></td><td id=""0-Y"">Kreditkarten #</td><td id=""0-Z"">XXXXXXXXXXXX3800</td><td id=""0-10"">Ich autorisiere den ausgewiesenen Betrag.</td></tr>
+<tr><td id=""0-11"">Transaktionsnummer</td><td id=""0-12"">48079725</td><td id=""0-13"">Ablaufdatum</td><td id=""0-14"">XX/XX</td><td id=""0-15""></td></tr>
+<tr><td id=""0-16"">Genehmigungscode</td><td id=""0-17"">09362D</td><td id=""0-18"">Erfassungsmethode</td><td id=""0-19"">Manual</td><td id=""0-1a""></td></tr>
+<tr><td id=""0-1b"">Genehmigter Betrag</td><td id=""0-1c"">181.00</td><td id=""0-1d"">Transaktionsbetrag</td><td id=""0-1e"">181.00</td><td id=""0-1f"">Unterschrift Karteninhaber/in</td></tr>
+</table>",0,0.051405251026153564,0.6101139187812805,0.9740694165229797,0.681803286075592
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,8b541aa5-9c82-42a8-a640-edb1ab633527,table,"<a id='8b541aa5-9c82-42a8-a640-edb1ab633527'></a>
+
+TSE Signature
+<table id=""0-1g"">
+<tr><td id=""0-1h"">StartD</td><td id=""0-1i"" colspan=""2"">2025-08-11 10:42:56</td></tr>
+<tr><td id=""0-1j"">FinishD</td><td id=""0-1k"" colspan=""2"">2025-08-11 10:42:56</td></tr>
+<tr><td id=""0-1l"">Info</td><td id=""0-1m"" colspan=""2"">Sicherheitsmodul ausgefallen</td></tr>
+<tr><td id=""0-1n"">SQ</td><td id=""0-1o"" colspan=""2"">1933779</td></tr>
+<tr><td id=""0-1p"">TN</td><td id=""0-1q"" colspan=""2"">900643357</td></tr>
+</table>",0,0.04621407389640808,0.6899117231369019,0.970390796661377,0.7743765115737915
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,8d99b267-7972-4d00-8f24-833e20122eb7,text,"<a id='8d99b267-7972-4d00-8f24-833e20122eb7'></a>
+
+Frankfurt Airport Marriott Hotel
+Airport/Terminal 1, Hugo-Eckener-Ring 15, 60549 Frankfurt am Main, Germany
+Tel: +49.(0)69.695977.0 | Fax: +49.(0)69.695977.4999 | FrankfurtAirportMarriott.com",0,0.055121392011642456,0.8741846680641174,0.5702663660049438,0.9189146161079407
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,143183e8-055f-4dcd-8f41-d932693d95ff,text,"<a id='143183e8-055f-4dcd-8f41-d932693d95ff'></a>
+
+UniCredit Bank - HypoVereinsbank, 60003 Frankfurt am Main
+KTO 30002890, BLZ 50320191, IBAN: DE41503201910030002890, BIC: HYVEDEMM430
+Le-Be Hotel Gesellschaft am Flughafen Frankfurt/Main mbH Geschäftsführer: Rahim Lalji, Timothy Gavey
+Sitz der Gesellschaft: Amtsgericht Frankfurt a. M. HRB 91222 Finanzamt Frankfurt am Main III, St. Nr. 014 233 56727, Ust-ID: DE 163670796",0,0.05544230341911316,0.9203720688819885,0.8123070001602173,0.9627590775489807
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,7555d036-d42b-4f43-8483-54bb66d1ad7d,marginalia,"<a id='7555d036-d42b-4f43-8483-54bb66d1ad7d'></a>
+
+MARRIOTTHOTELS.COM",0,0.055767446756362915,0.9681511521339417,0.2051123082637787,0.9825037121772766
+ab51eee8-43ab-4c60-974f-d37043e93f76,71388288-7baf-4fbe-b71a-3abab7120078,invoice_5.pdf,dce2b4a8-ddc7-46cb-8f7f-4e6e8e0143a7,text,"<a id='dce2b4a8-ddc7-46cb-8f7f-4e6e8e0143a7'></a>
+
+The Nussbaum Center for Entrepreneurship
+
+1451 S Elm Eugene Street
+Box 35
+Greensboro, NC 27406 US
+lhazlett@nussbaumcfe.com
+www.nussbaumcfe.com",0,0.02275940775871277,0.04109330475330353,0.36606839299201965,0.13678008317947388
+ab51eee8-43ab-4c60-974f-d37043e93f76,71388288-7baf-4fbe-b71a-3abab7120078,invoice_5.pdf,c750a4a4-a976-4fb5-bab5-1d78acd0c834,text,"<a id='c750a4a4-a976-4fb5-bab5-1d78acd0c834'></a>
+
+INVOICE
+
+BILL TO
+Leo Charles Vincent
+Abaxys Tech, LLC",0,0.022800639271736145,0.1693393886089325,0.15540406107902527,0.24902233481407166
+ab51eee8-43ab-4c60-974f-d37043e93f76,71388288-7baf-4fbe-b71a-3abab7120078,invoice_5.pdf,e273efc0-b0bd-44c1-a1c6-b2ee4fd8530f,text,"<a id='e273efc0-b0bd-44c1-a1c6-b2ee4fd8530f'></a>
+
+SHIP TO
+Leo Charles Vincent
+Abaxys Tech, LLC",0,0.37859871983528137,0.20011787116527557,0.5120386481285095,0.25022071599960327
+ab51eee8-43ab-4c60-974f-d37043e93f76,71388288-7baf-4fbe-b71a-3abab7120078,invoice_5.pdf,4caafe3d-8c5b-4c51-acf4-4d35e767c06e,text,"<a id='4caafe3d-8c5b-4c51-acf4-4d35e767c06e'></a>
+
+INVOICE: 2197
+DATE: 04/01/2023
+TERMS: Due on receipt
+DUE DATE: 04/01/2023",0,0.7354373335838318,0.19988125562667847,0.936872661113739,0.2645018994808197
+ab51eee8-43ab-4c60-974f-d37043e93f76,71388288-7baf-4fbe-b71a-3abab7120078,invoice_5.pdf,5a5581cf-d1ea-44a1-a353-76126bdf3c43,table,"<a id='5a5581cf-d1ea-44a1-a353-76126bdf3c43'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">DATE</td><td id=""0-3"">ACTIVITY</td><td id=""0-4"">DESCRIPTION</td><td id=""0-5"">QTY</td><td id=""0-6"">RATE</td><td id=""0-7"">AMOUNT</td></tr>
+<tr><td id=""0-8""></td><td id=""0-9"">Service Revenue</td><td id=""0-a"">Suite 2009</td><td id=""0-b"">1</td><td id=""0-c"">271.00</td><td id=""0-d"">271.00</td></tr>
+<tr><td id=""0-e""></td><td id=""0-f"">Internet</td><td id=""0-g"">Suite 2009 Internet Fee</td><td id=""0-h"">1</td><td id=""0-i"">75.00</td><td id=""0-j"">75.00</td></tr>
+<tr><td id=""0-k""></td><td id=""0-l""></td><td id=""0-m"">SUBTOTAL</td><td id=""0-n""></td><td id=""0-o""></td><td id=""0-p"">346.00</td></tr>
+<tr><td id=""0-q""></td><td id=""0-r""></td><td id=""0-s"">TAX</td><td id=""0-t""></td><td id=""0-u""></td><td id=""0-v"">0.00</td></tr>
+<tr><td id=""0-w""></td><td id=""0-x""></td><td id=""0-y"">TOTAL</td><td id=""0-z""></td><td id=""0-A""></td><td id=""0-B"">346.00</td></tr>
+<tr><td id=""0-C""></td><td id=""0-D""></td><td id=""0-E"">BALANCE DUE</td><td id=""0-F""></td><td id=""0-G""></td><td id=""0-H"">$346.00</td></tr>
+</table>",0,0.023251652717590332,0.2768852710723877,0.975604772567749,0.48770731687545776
+ab51eee8-43ab-4c60-974f-d37043e93f76,71388288-7baf-4fbe-b71a-3abab7120078,invoice_5.pdf,a721c402-e731-4f9d-9c5c-2fbc33c55473,marginalia,"<a id='a721c402-e731-4f9d-9c5c-2fbc33c55473'></a>
+
+Page 1 of 1",0,0.466875821352005,0.9674914479255676,0.5329713821411133,0.9830970168113708
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,d491bedf-0dd4-4ceb-aa6a-4ba92373e9ec,text,"<a id='d491bedf-0dd4-4ceb-aa6a-4ba92373e9ec'></a>
+
+Invoice",0,0.04296039789915085,0.038896024227142334,0.15790608525276184,0.06656923145055771
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,e8ffb7ce-b92c-4a09-9c12-447d4da80e65,logo,"<a id='e8ffb7ce-b92c-4a09-9c12-447d4da80e65'></a>
+
+<::logo: posit
+posit™
+The logo features an abstract symbol composed of intertwined blue and orange lines, resembling a stylized 'X' or a woven pattern, to the left of the text.::>",0,0.7361644506454468,0.03382917493581772,0.9569026231765747,0.08366673439741135
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,5fc6cd9a-067a-4ee2-9734-001a1151c08b,text,"<a id='5fc6cd9a-067a-4ee2-9734-001a1151c08b'></a>
+
+Invoice number: 6DC1AEAF-0023
+Date of issue: May 26, 2024
+Date due: May 26, 2024",0,0.04283437132835388,0.0846015065908432,0.29709717631340027,0.13862305879592896
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,f66a6675-afbb-4fce-a8ce-fd792fef77f6,text,"<a id='f66a6675-afbb-4fce-a8ce-fd792fef77f6'></a>
+
+Posit Software PBC
+250 Northern Avenue
+Suite #410
+Boston, Massachusetts 02210
+United States
++1 844-448-1212
+support@posit.co
+US EIN 26-4457115",0,0.04275006055831909,0.1550871580839157,0.26332077383995056,0.2981269955635071
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,d94a419b-d896-4910-ae99-b53f59c5f942,text,"<a id='d94a419b-d896-4910-ae99-b53f59c5f942'></a>
+
+Bill to
+Andrea Kropp
+227 N 5TH AVE
+PO BOX 1168
+RIDGEFIELD, Washington 98642
+United States
+andr3akropp@gmail.com",0,0.40291762351989746,0.15467408299446106,0.6379481554031372,0.2786927819252014
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,f0ca5cc9-f68a-4992-a355-04a5c0635283,text,"<a id='f0ca5cc9-f68a-4992-a355-04a5c0635283'></a>
+
+$14.14 USD due May 26, 2024",0,0.043389692902565,0.3239001929759979,0.37425553798675537,0.34974709153175354
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,880ce6a0-274e-4ce8-8f19-c6efbb2d0e5b,table,"<a id='880ce6a0-274e-4ce8-8f19-c6efbb2d0e5b'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Description</td><td id=""0-3""></td><td id=""0-4"">Qty</td><td id=""0-5"">Unit price</td><td id=""0-6"">Amount</td></tr>
+<tr><td id=""0-7"">Starter Plan (Monthly) May 26 – Jun 26, 2024</td><td id=""0-8""></td><td id=""0-9"">1</td><td id=""0-a"">$13.00</td><td id=""0-b"">$13.00</td></tr>
+<tr><td id=""0-c"">Sales Tax</td><td id=""0-d""></td><td id=""0-e"">1</td><td id=""0-f"">$1.14</td><td id=""0-g"">$1.14</td></tr>
+<tr><td id=""0-h""></td><td id=""0-i"">Subtotal</td><td id=""0-j""></td><td id=""0-k""></td><td id=""0-l"">$14.14</td></tr>
+<tr><td id=""0-m""></td><td id=""0-n"">Total</td><td id=""0-o""></td><td id=""0-p""></td><td id=""0-q"">$14.14</td></tr>
+<tr><td id=""0-r""></td><td id=""0-s"">Amount due</td><td id=""0-t""></td><td id=""0-u""></td><td id=""0-v"">$14.14 USD</td></tr>
+</table>",0,0.04192790389060974,0.3747362792491913,0.9593360424041748,0.5793318152427673
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,edb39b92-43b6-4c36-a523-e32e1319e785,text,"<a id='edb39b92-43b6-4c36-a523-e32e1319e785'></a>
+
+VAT/EU Customers: Customer is liable for tax under the reverse charge mechanism.
+Posit VAT#s: Vietnam - 9000001031, South Korea - 833-80-02962, Chile - 592301105, Italy - EU372069547, India -
+9924USA29013OSH, New Zealand - 142117711, Czech Republic - EU372069547, Turkey - 73222206, Poland - EU372069547,
+Malta - EU372069547, Slovakia - EU372069547, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France,
+Germany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Netherlands, Portugal, Romania, Slovakia, Slovenia, Spain,
+Sweden - EU372069547, United Kingdom - GB465212211",0,0.043377429246902466,0.6090852618217468,0.9335174560546875,0.7131953835487366
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,c3e01fee-4c82-4b4b-8028-e947e1d64fa9,marginalia,"<a id='c3e01fee-4c82-4b4b-8028-e947e1d64fa9'></a>
+
+6DC1AEAF-0023  $14.14 USD due May 26, 2024",0,0.04505576193332672,0.9404999017715454,0.336639404296875,0.9569917917251587
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,cd0d58b6-47ad-4f95-9c56-56a1f7cd1302,marginalia,"<a id='cd0d58b6-47ad-4f95-9c56-56a1f7cd1302'></a>
+
+Page 1 of 1",0,0.8854261636734009,0.9414834976196289,0.9540653228759766,0.9569721221923828
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,84fb4757-d601-442f-bfae-8de17ad42f67,logo,"<a id='84fb4757-d601-442f-bfae-8de17ad42f67'></a>
+
+<::logo: Unknown
+BT
+A white stylized 'BT' is set against a dark square, partially encircled by a brown wreath.::>",0,0.11976630985736847,0.05390600115060806,0.19842807948589325,0.10919807106256485
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,90905d8d-919c-41c6-ab66-bbdb2fd2abec,text,"<a id='90905d8d-919c-41c6-ab66-bbdb2fd2abec'></a>
+
+Invoice #: 1009748
+Issued date: 8/21/2018
+Due Date: 9/5/2018
+Subject: RHS Tennis Practice Shirts",0,0.391993910074234,0.04730214178562164,0.6605697870254517,0.10153798758983612
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,c13b5f63-8665-48e4-8b71-bae09f42c597,attestation,"<a id='c13b5f63-8665-48e4-8b71-bae09f42c597'></a>
+
+<::attestation: Status indicator
+Paid
+Readable Text: Paid
+A rectangular box containing the word ""Paid"" centrally located.::>",0,0.8395805358886719,0.04842417314648628,0.9094070196151733,0.08474509418010712
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,860b4c63-df1d-4924-9864-107e9a3bbb28,text,"<a id='860b4c63-df1d-4924-9864-107e9a3bbb28'></a>
+
+FROM
+
+Brainless Tees, Inc.
+12401 NE 60th Way
+Unit A8
+Vancouver, WA 98682
+360-721-6459
+steve@brainlesstees.com
+Stephen Miller
+
+TO
+
+Andrea Kropp
+Ridgefield Tennis
+andrea.kropp@ridgefieldsd.org",0,0.10831734538078308,0.15434280037879944,0.6259841918945312,0.25540125370025635
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,269238de-a8ce-4041-9c52-a0a013ad2252,table,"<a id='269238de-a8ce-4041-9c52-a0a013ad2252'></a>
+
+ITEM OVERVIEW
+<table id=""0-1"">
+<tr><td id=""0-2"">1009748 Ridgefield Tennis Seps</td><td id=""0-3""></td><td id=""0-4""></td><td id=""0-5""></td><td id=""0-6""></td><td id=""0-7""></td></tr>
+<tr><td id=""0-8"">ITEM DESCRIPTION</td><td id=""0-9"">COLOR</td><td id=""0-a"">QTY</td><td id=""0-b"">SIZE</td><td id=""0-c"">UNIT PRICE</td><td id=""0-d"">SUBTOTAL</td></tr>
+<tr><td id=""0-e"">Sport-Tek Competitor Tee, SKU ST350</td><td id=""0-f"">Silver</td><td id=""0-g"">3</td><td id=""0-h"">S</td><td id=""0-i"">$13.95</td><td id=""0-j"">$41.85</td></tr>
+<tr><td id=""0-k"">Sport-Tek Competitor Tee, SKU ST350</td><td id=""0-l"">Silver</td><td id=""0-m"">12</td><td id=""0-n"">M</td><td id=""0-o"">$13.95</td><td id=""0-p"">$167.40</td></tr>
+<tr><td id=""0-q"">Sport-Tek Competitor Tee, SKU ST350</td><td id=""0-r"">Silver</td><td id=""0-s"">4</td><td id=""0-t"">L</td><td id=""0-u"">$13.95</td><td id=""0-v"">$55.80</td></tr>
+<tr><td id=""0-w"">Sport-Tek Competitor Tee, SKU ST350</td><td id=""0-x"">Silver</td><td id=""0-y"">1</td><td id=""0-z"">XL</td><td id=""0-A"">$13.95</td><td id=""0-B"">$13.95</td></tr>
+<tr><td id=""0-C""></td><td id=""0-D""></td><td id=""0-E""></td><td id=""0-F""></td><td id=""0-G""></td><td id=""0-H""></td></tr>
+</table>",0,0.10666084289550781,0.28040170669555664,0.8905749917030334,0.46950286626815796
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,ee1a2d07-33bd-43a5-b64f-69e700c0ce79,table,"<a id='ee1a2d07-33bd-43a5-b64f-69e700c0ce79'></a>
+
+<table id=""0-I"">
+<tr><td id=""0-J""></td><td id=""0-K"">Subtotal</td><td id=""0-L"">$279.00</td></tr>
+<tr><td id=""0-M""></td><td id=""0-N"">Tax</td><td id=""0-O"">$23.44</td></tr>
+<tr><td id=""0-P""></td><td id=""0-Q"">Paid</td><td id=""0-R"">$302.44</td></tr>
+<tr><td id=""0-S""></td><td id=""0-T""></td><td id=""0-U""></td></tr>
+<tr><td id=""0-V""></td><td id=""0-W"">Total</td><td id=""0-X"">$0.00</td></tr>
+</table>",0,0.1069139838218689,0.4915604889392853,0.8892548084259033,0.6041637659072876
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,8006af14-3ef3-4072-ade7-064d42fafe2c,text,"<a id='8006af14-3ef3-4072-ade7-064d42fafe2c'></a>
+
+**TERMS**
+Thanks you for your business! Payment is due upon approval.
+
+**NOTES**",0,0.106853187084198,0.6299408078193665,0.889879047870636,0.6939335465431213
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,145d9c89-a2f9-4fdf-972a-8eb7cb8ca729,text,"<a id='145d9c89-a2f9-4fdf-972a-8eb7cb8ca729'></a>
+
+email andrea.kropp@ridgefieldsd.org when complete",0,0.11965031921863556,0.702870786190033,0.43039560317993164,0.7217987179756165
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,ecb03c73-81d5-4d74-9007-057e481f7f82,logo,"<a id='ecb03c73-81d5-4d74-9007-057e481f7f82'></a>
+
+<::logo: A.E. Blake
+LES VENTES A.E. BLAKE
+A.E. BLAKE SALES
+A black circle contains a stylized white 'B' shape.::>",0,0.05878354609012604,0.013142645359039307,0.5021988749504089,0.09650953114032745
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,ca17b051-69a4-4e01-b317-7c4e858e6c25,text,"<a id='ca17b051-69a4-4e01-b317-7c4e858e6c25'></a>
+
+A.E. Blake Sales Ltd.
+100 Consilium Place
+Suite 200
+Scarborough, ON
+M1H 3E3
+
+Tel. 416 431 0440
+Fax. 416 431 0450
+torontosales@aeblake.ca
+www.aeblake.ca",0,0.5509417057037354,0.016951650381088257,0.8767545223236084,0.08235161751508713
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,466cda8a-3425-4433-9482-8bc84c645cf6,text,"<a id='466cda8a-3425-4433-9482-8bc84c645cf6'></a>
+
+Invoice - Facture",0,0.10290729999542236,0.09697272628545761,0.2706083655357361,0.11690240353345871
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,2d962b2d-4c65-4f51-96fc-71dae8353a37,text,"<a id='2d962b2d-4c65-4f51-96fc-71dae8353a37'></a>
+
+NO: 138277
+DATE: Jan 24 2022",0,0.6350473165512085,0.09403908997774124,0.7999763488769531,0.13068684935569763
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,6d505247-971d-4e63-8f02-526fde5d4846,text,"<a id='6d505247-971d-4e63-8f02-526fde5d4846'></a>
+
+Vendu  - Sold To
+
+NELSON INDUSTRIAL FABRICATORS
+1155 Squires Beach Road
+Invoices: ap@nelsonindust.com
+PICKERING, Ontario, Canada
+L1W 3T9",0,0.13812921941280365,0.13466733694076538,0.41680794954299927,0.2333766520023346
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,4c980799-9318-4653-b53f-6a1d74fb0014,text,"<a id='4c980799-9318-4653-b53f-6a1d74fb0014'></a>
+
+Livré à - Ship To
+NELSON INDUSTRIAL FABRICATORS
+1155 Squires Beach Road
+Invoices: ap@nelsonindust.com
+PICKERING, Ontario, Canada
+L1W 3T9",0,0.5110799074172974,0.1358688771724701,0.7881810665130615,0.23240059614181519
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,50c3a249-babf-4a23-805e-cb56be3ee76c,table,"<a id='50c3a249-babf-4a23-805e-cb56be3ee76c'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">COMPTE CLIENT/ CUSTOMER ACCOUNT</td><td id=""0-3"">BON D'ACHAT CLIENT/ CUSTOMER PO</td><td id=""0-4"">DATE COMMANDÉ/ ORDER DATE</td><td id=""0-5"">COMMANDE AEB/ AEB ORDER</td></tr>
+<tr><td id=""0-6"">10101978</td><td id=""0-7"">P.067967</td><td id=""0-8"">Jan 19 2022</td><td id=""0-9"">50002892</td></tr>
+</table>",0,0.060353100299835205,0.25160765647888184,0.9491824507713318,0.32946836948394775
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,4725ab39-be53-41e9-a3ab-4af6fe011da5,table,"<a id='4725ab39-be53-41e9-a3ab-4af6fe011da5'></a>
+
+<table id=""0-a"">
+<tr><td id=""0-b"">TERMES/ TERMS</td><td id=""0-c"">REPRÉSENTANT/ REPRESENTATIVE</td><td id=""0-d"">CONDITIONS D'EXPÉDITION/ SHIPPING TERMS</td><td id=""0-e"">LIVRÉ PAR/ SHIP VIA</td></tr>
+<tr><td id=""0-f"">Net 30 Days</td><td id=""0-g"">Perry Chan OR Jeff Kang</td><td id=""0-h"">Prepaid on orders over $600</td><td id=""0-i"">UPS 3rd Party 139 2X5</td></tr>
+</table>",0,0.06116980314254761,0.3324648141860962,0.9437374472618103,0.3908047676086426
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,23e5bc60-5401-403c-832b-4bdc0dc5e5e1,table,"<a id='23e5bc60-5401-403c-832b-4bdc0dc5e5e1'></a>
+
+<table id=""0-j"">
+<tr><td id=""0-k"">#</td><td id=""0-l"">ITEM</td><td id=""0-m"">DESCRIPTION</td><td id=""0-n"">QTÉ/QTY</td><td id=""0-o"">PRIX/PRICE</td><td id=""0-p"">U/M</td><td id=""0-q"">EXTENSION</td></tr>
+<tr><td id=""0-r"">30</td><td id=""0-s"">110947</td><td id=""0-t"">HD Graphite Canvas 6""x 50yds 50 yards/roll</td><td id=""0-u"">1</td><td id=""0-v"">$734.27</td><td id=""0-w"">Each</td><td id=""0-x"">$734.27</td></tr>
+<tr><td id=""0-y"">40</td><td id=""0-z"">102044</td><td id=""0-A"">3M 777F RBC Belt 6""x202"" 60YF 10belts/case (+/-10%)</td><td id=""0-B"">20</td><td id=""0-C"">$68.45</td><td id=""0-D"">Each</td><td id=""0-E"">$1,369.00</td></tr>
+<tr><td id=""0-F"">50</td><td id=""0-G"">102046</td><td id=""0-H"">3M 777F RBC Belt 6""x202"" 80YF 10belts/case (+/-10%)</td><td id=""0-I"">10</td><td id=""0-J"">$63.98</td><td id=""0-K"">Each</td><td id=""0-L"">$639.80</td></tr>
+</table>",0,0.06151372194290161,0.3898407220840454,0.9459529519081116,0.5613189339637756
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,5ca3601f-469e-4c01-a48d-b99de20dabaf,text,"<a id='5ca3601f-469e-4c01-a48d-b99de20dabaf'></a>
+
+Courier / Carrier: JD SMITH",0,0.06526479125022888,0.8141883611679077,0.24079859256744385,0.8306714296340942
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,dd0e8ed6-d66d-42a0-99cd-c722fcbc24b3,text,"<a id='dd0e8ed6-d66d-42a0-99cd-c722fcbc24b3'></a>
+
+Bon d'emballage / Packing Slip: 50002892-10659
+Date D'expédition / Shipping Date: Jan 24 2022",0,0.6180179715156555,0.8137614130973816,0.9115516543388367,0.8501620888710022
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,9ca9577b-d1c7-4112-961a-5cc593d87f48,table,"<a id='9ca9577b-d1c7-4112-961a-5cc593d87f48'></a>
+
+<table id=""0-M"">
+<tr><td id=""0-N""></td><td id=""0-O"">S. Total:</td><td id=""0-P"">$ 2,743.07</td></tr>
+<tr><td id=""0-Q"">http://www.aeblake.ca/en/terms.php</td><td id=""0-R"">13% HST:</td><td id=""0-S"">$ 356.60</td></tr>
+<tr><td id=""0-T"">Merci - Thank you Votre contact - Your contact: DRAKE</td><td id=""0-U"">Total:</td><td id=""0-V"">$ 3,099.67 CAD</td></tr>
+</table>",0,0.05981507897377014,0.8506236672401428,0.9294843673706055,0.9282081723213196
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,29648f84-8916-4ab4-b54e-9317241ea80c,marginalia,"<a id='29648f84-8916-4ab4-b54e-9317241ea80c'></a>
+
+No. T.P.S. - G.S.T. No. : R100064716 No. T.V.Q. - Q.S.T. No. : M1000098741TQ0001JT",0,0.06378458440303802,0.9391276836395264,0.50380539894104,0.9556403160095215
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,0f00f728-38cc-4dde-a249-feda8c88ab21,marginalia,"<a id='0f00f728-38cc-4dde-a249-feda8c88ab21'></a>
+
+",0,0.825284481048584,0.9408475756645203,0.8762195110321045,0.9559795260429382
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,cfc523b0-c6b6-4dcd-8c28-66ac6b616b41,marginalia,"<a id='cfc523b0-c6b6-4dcd-8c28-66ac6b616b41'></a>
+
+Montréal - Toronto",0,0.4311559200286865,0.9718036651611328,0.5561078190803528,0.9862309694290161
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,3b7770cc-1ebe-47dd-a765-72a11b51af66,text,"<a id='3b7770cc-1ebe-47dd-a765-72a11b51af66'></a>
+
+Waybill: 1078685",0,0.06466025114059448,0.8335221409797668,0.17183570563793182,0.8518003821372986
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,c15b3621-9da8-4758-8c2e-b8038dc85b78,logo,"<a id='c15b3621-9da8-4758-8c2e-b8038dc85b78'></a>
+
+<::logo: FROMUTH
+FROMUTH
+The logo features the word ""FROMUTH"" in dark text, preceded by a square icon with a stylized white 'F' and a small green circle on a dark background.::>",0,0.023391395807266235,0.024242935702204704,0.3975412845611572,0.0815887600183487
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,effde85b-4723-4272-b96c-a234aedf2a7d,text,"<a id='effde85b-4723-4272-b96c-a234aedf2a7d'></a>
+
+Original",0,0.6010491847991943,0.029393207281827927,0.6666994094848633,0.04756246879696846
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,b4d22395-02c1-48ae-90b1-394c239b50ab,logo,"<a id='b4d22395-02c1-48ae-90b1-394c239b50ab'></a>
+
+<::logo: Invoice
+INVOICE
+A solid blue vertical rectangle is placed to the left of the word ""INVOICE"".::>",0,0.8646701574325562,0.02448013424873352,0.9676785469055176,0.04629149287939072
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,7dc107db-53f8-4bf6-a4c7-9846017fb1a1,text,"<a id='7dc107db-53f8-4bf6-a4c7-9846017fb1a1'></a>
+
+Document Number",0,0.5602267384529114,0.051877882331609726,0.6643800139427185,0.06668597459793091
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,7e244dde-119c-4201-ac0a-8b777471068f,text,"<a id='7e244dde-119c-4201-ac0a-8b777471068f'></a>
+
+Document Date
+04/26/24
+
+Page
+1/1",0,0.7046549320220947,0.05286797136068344,0.9219132661819458,0.08970008045434952
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,82ba0756-c784-4035-b861-bcee3366eba9,text,"<a id='82ba0756-c784-4035-b861-bcee3366eba9'></a>
+
+1100 Rocky Drive, West Lawn PA, 19609
+USA 1-800-523-8414",0,0.04276514798402786,0.08280070126056671,0.26660993695259094,0.11193931102752686
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,e456a312-adfc-4a24-912a-3b90add408ea,text,"<a id='e456a312-adfc-4a24-912a-3b90add408ea'></a>
+
+301236 04/26/24
+
+Customer No. Name - Business Partner
+
+C0440318 RIDGEFIELD HIGH SCHOOL",0,0.5635584592819214,0.06944537162780762,0.8593536615371704,0.130364328622818
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,785214ba-fb28-4d8d-b50c-1e65c8cfa433,text,"<a id='785214ba-fb28-4d8d-b50c-1e65c8cfa433'></a>
+
+ELD HIGH SCHOOL",0,0.754859209060669,0.11463785171508789,0.8613721132278442,0.12855574488639832
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,e3d90fe0-c460-4915-bcef-1e3fc5dd202e,text,"<a id='e3d90fe0-c460-4915-bcef-1e3fc5dd202e'></a>
+
+Your Contact Erik Arndt
+
+610-894-7082
+erika@fromuthtennis.com",0,0.5646184682846069,0.1589164435863495,0.7653841972351074,0.20110002160072327
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,470a501c-6955-40bc-a7f5-f58e357997e4,text,"<a id='470a501c-6955-40bc-a7f5-f58e357997e4'></a>
+
+Bill To.:
+Andrea Kropp
+227 N 5th Avenue
+
+Ridgefield, WA, 98642",0,0.0411529541015625,0.1747223436832428,0.16501207649707794,0.23212310671806335
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,2e9d6738-1c0a-4dbf-bfad-56ab545fcd6a,text,"<a id='2e9d6738-1c0a-4dbf-bfad-56ab545fcd6a'></a>
+
+Ship To.:
+Andrea Kropp
+Andrea Kropp
+227 N 5th Ave
+Ridgefield, WA, 98642",0,0.5640231370925903,0.21210967004299164,0.689979076385498,0.2823933959007263
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,bf1cc3bb-9149-4296-b9c7-92abd20c0192,text,"<a id='bf1cc3bb-9149-4296-b9c7-92abd20c0192'></a>
+
+Terms...: Credit Card
+
+Payment Method...: Credit Card",0,0.041598305106163025,0.29504209756851196,0.2717546224594116,0.3359481692314148
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,26611493-c73f-48ab-9cb7-a1f46d23a373,table,"<a id='26611493-c73f-48ab-9cb7-a1f46d23a373'></a>
+
+Currency: USD
+<table id=""0-1"">
+<tr><td id=""0-2"" colspan=""2"">Description</td><td id=""0-3"">Manufac</td><td id=""0-4"">Quantity</td><td id=""0-5"">Price</td><td id=""0-6"">Total</td></tr>
+<tr><td id=""0-7"">001</td><td id=""0-8"">Nike Air Zoom Vapor Pro 2 (W) (Sundial)</td><td id=""0-9"">DR6192-700</td><td id=""0-a"">1</td><td id=""0-b"">60.00</td><td id=""0-c"">60.00</td></tr>
+<tr><td id=""0-d""></td><td id=""0-e"">Item Code: JIVPY4-YEL-10</td><td id=""0-f""></td><td id=""0-g""></td><td id=""0-h""></td><td id=""0-i""></td></tr>
+<tr><td id=""0-j"">002</td><td id=""0-k"">***2-DAY AIR***</td><td id=""0-l"">XBLUE</td><td id=""0-m"">1</td><td id=""0-n"">0.00</td><td id=""0-o"">0.00</td></tr>
+<tr><td id=""0-p""></td><td id=""0-q"">Item Code: XBLUE</td><td id=""0-r""></td><td id=""0-s""></td><td id=""0-t""></td><td id=""0-u""></td></tr>
+<tr><td id=""0-v"">003</td><td id=""0-w"">/////////////</td><td id=""0-x""></td><td id=""0-y"">1</td><td id=""0-z"">0.00</td><td id=""0-A"">0.00</td></tr>
+<tr><td id=""0-B""></td><td id=""0-C"">Item Code: XPULL</td><td id=""0-D""></td><td id=""0-E""></td><td id=""0-F""></td><td id=""0-G""></td></tr>
+<tr><td id=""0-H""></td><td id=""0-I""></td><td id=""0-J""></td><td id=""0-K"" colspan=""2"">Invoice Subtotal:</td><td id=""0-L"">USD 60.00</td></tr>
+<tr><td id=""0-M""></td><td id=""0-N""></td><td id=""0-O""></td><td id=""0-P"" colspan=""2"">Shipping Expenses:</td><td id=""0-Q"">USD 20.00</td></tr>
+<tr><td id=""0-R""></td><td id=""0-S""></td><td id=""0-T""></td><td id=""0-U"" colspan=""2"">Total Before Tax:</td><td id=""0-V"">USD 80.00</td></tr>
+<tr><td id=""0-W""></td><td id=""0-X""></td><td id=""0-Y""></td><td id=""0-Z"" colspan=""2"">Total Tax Amount:</td><td id=""0-10"">USD 6.96</td></tr>
+<tr><td id=""0-11""></td><td id=""0-12""></td><td id=""0-13""></td><td id=""0-14"" colspan=""2"">Total Amount:</td><td id=""0-15"">USD 86.96</td></tr>
+</table>",0,0.029114842414855957,0.36849498748779297,0.9686559438705444,0.6968668699264526
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,158a0d43-4f3d-4bd8-b88b-b621f42a905f,text,"<a id='158a0d43-4f3d-4bd8-b88b-b621f42a905f'></a>
+
+By AvaTax DGW.",0,0.03634551167488098,0.8247461915016174,0.6539828777313232,0.888532817363739
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,e60c10d7-48ea-4777-991a-8f1a5afae313,marginalia,"<a id='e60c10d7-48ea-4777-991a-8f1a5afae313'></a>
+
+Phone: 1-800-523-8414",0,0.03538781404495239,0.917932391166687,0.16823257505893707,0.9327770471572876
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,6e8648ed-1c20-4c92-8e17-1e6884ebcbc1,text,"<a id='6e8648ed-1c20-4c92-8e17-1e6884ebcbc1'></a>
+
+E-Mail:
+customerservice@fromuthtennis.com",0,0.3282276690006256,0.9195095896720886,0.5699713826179504,0.9355871081352234
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,611e36ef-8632-4fe9-8ea7-f433ddcb113f,marginalia,"<a id='611e36ef-8632-4fe9-8ea7-f433ddcb113f'></a>
+
+Website.: www.fromuthtennis.com",0,0.7605971097946167,0.9206188917160034,0.9430793523788452,0.9346469640731812
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,117501b3-bb2e-4a40-99c8-3a56b1ccae8e,marginalia,"<a id='117501b3-bb2e-4a40-99c8-3a56b1ccae8e'></a>
+
+Page 1 of 1",0,0.46722474694252014,0.9507108330726624,0.5256788730621338,0.9649942517280579
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,32488992-63bc-47f2-ab70-165a10c351a1,text,"<a id='32488992-63bc-47f2-ab70-165a10c351a1'></a>
+
+We will serve people with excellence, humbly, with a servant`s heart.",0,0.1006113588809967,0.016705742105841637,0.8576185703277588,0.03920275717973709
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,53be62c3-d7ee-4566-bd14-5a81589cb0e2,logo,"<a id='53be62c3-d7ee-4566-bd14-5a81589cb0e2'></a>
+
+<::logo: OILSTOP
+OILSTOP
+DRIVE THRU OIL CHANGE
+The logo features the word ""OILSTOP"" in bold red uppercase letters, with ""DRIVE THRU OIL CHANGE"" in white uppercase letters on a dark blue rectangular background directly below it.::>",0,0.03259032964706421,0.05825043469667435,0.4197806417942047,0.12491058558225632
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,67628969-77b9-4054-9b1a-0524aae77a30,text,"<a id='67628969-77b9-4054-9b1a-0524aae77a30'></a>
+
+1316 NE 134TH ST, VANCOUVER, WA 98685,
+(360) 571 9950",0,0.05478683114051819,0.13290788233280182,0.39733490347862244,0.15998153388500214
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,547fbe7a-b723-40b0-baf3-2744f931f594,text,"<a id='547fbe7a-b723-40b0-baf3-2744f931f594'></a>
+
+# Guest Information
+
+Guest: ANDREA KROPP
+Address: 227 N 5TH AVE
+RIDGEFIELD, WA 98642
+
+Phone: (360) 624 2355
+E-Mail: ANDR3AKROPP@GMAIL.COM
+Driver: ANDREA KROPP
+Unique Guest Number: 2899731",0,0.021175503730773926,0.16760343313217163,0.42283669114112854,0.29312556982040405
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,2020f2b3-d734-41e5-891c-3425be96ed79,text,"<a id='2020f2b3-d734-41e5-891c-3425be96ed79'></a>
+
+## Service Notes
+
+1. *PRIVACY POLICY* WE DON'T SHARE YOUR PERSONAL INFORMATION (NAME, ADDRESS, PHONE, EMAIL) WITH ANY THIRD PARTY. WE SHARE YOUR VEHICLE AND SERVICES WITH CARFAX IN ORDER TO OBTAIN TECHNICAL INFORMATION, BASED ON YOUR VIN. MYPERSONALINFO@OILSTOPINC.COM
+2. BASED ON THE VEHICLE MILEAGE THE POWER STEERING SERVICE IS DUE.
+3. RADIATOR DRAIN AND FILL SERVICE RECOMMENDED. OILSTOP RECOMMENDS THAT THIS SERVICE BE PERFORMED FOR MAXIMUM PROTECTION AND SYSTEM LIFE.
+4. AUTOMATIC TRANSMISSION FLUID SERVICE RECOMMENDED. (BASED ON 15,000 MILEAGE INTERVAL)
+5. POWER STEERING FLUID LEAKAGE VISIBLE. EXACT SOURCE UNKNOWN.
+6. SHOULD YOU HAVE ANY QUESTIONS OR CONCERNS REGARDING YOUR SERVICE AT OILSTOP, IMMEDIATELY CALL THE # ON THIS INVOICE AND ASK FOR THE MANAGER.
+7. YOUR VEHICLE'S MANUFACTURER PUBLISHES OIL CHANGE INTERVALS, AND THE CONDITIONS AND FACTORS THAT INFLUENCE THOSE INTERVALS, IN THE OWNER'S MANUAL.ALL PARTS USED ARE NEW UNLESS OTHERWISE SPECIFIED",0,0.02176976203918457,0.2909051179885864,0.42237168550491333,0.6113816499710083
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,99681c60-58e9-4cd6-a962-ea88f247c27e,text,"<a id='99681c60-58e9-4cd6-a962-ea88f247c27e'></a>
+
+OILSTOP® Commitment
+
+**Goals**
+1. To serve you quickly and professionally with high quality products that meet or exceed your manufacturer's specifications.
+2. To maintain a electronic service history to help you maintain vehicle warranties and service contracts.
+
+**Warranty**
+1. Oilstop warrants the parts installed on your vehicle to your satisfaction or we will refund the cost of the parts.
+2. Oilstop warrants the service performed on your vehicle to your satisfaction.",0,0.02184392511844635,0.6132410168647766,0.421955406665802,0.8286008238792419
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,ab6115f7-7360-416a-b3ec-8f5eb3b49a6e,text,"<a id='ab6115f7-7360-416a-b3ec-8f5eb3b49a6e'></a>
+
+Service Information
+
+Work Order #: O-0023-14214
+Service Completed: MAY 27, 2024 11:27 AM
+Service Coordinator: TY WALLACE
+Service Writer: WILLIAM HOLLINGSWORTH
+Lube Technician: MALIQUE TULCHINSKY
+Manager: GRIFFIN HUNT",0,0.4473838806152344,0.05113255977630615,0.9434194564819336,0.1669788807630539
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,339427a7-06e1-4114-a87a-c06e6fbb4c47,text,"<a id='339427a7-06e1-4114-a87a-c06e6fbb4c47'></a>
+
+Guest Auto Information
+
+Lic #: ANX5193
+Last Service: JAN 31, 2023
+
+Year: 2006
+Make: NISSAN
+
+Mileage: 192492
+Model: XTERRA OFF-ROAD
+
+Engine: 4.0L V6 (VQ40DE) GAS FI
+
+OIL: 5W30 SYNTH CHEVRON/HAVOLINE API GF5SN+/DEXOS G
+
+VIN#: 5N1AN08W26C526308
+Tire Pressure: F 35 R 35",0,0.4484177529811859,0.16835156083106995,0.9422575235366821,0.292341947555542
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,8c41413f-61f2-44e1-b355-462efd2dd6f1,table,"<a id='8c41413f-61f2-44e1-b355-462efd2dd6f1'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"" colspan=""3"">Guest Service Detail</td></tr>
+<tr><td id=""0-3"">Service Name</td><td id=""0-4"">Qty</td><td id=""0-5"">Ext. Price</td></tr>
+<tr><td id=""0-6"">SYNTHETIC 33-POINT SERVICE</td><td id=""0-7"">1 ea</td><td id=""0-8"">$105.99</td></tr>
+<tr><td id=""0-9"">WASTE DISPOSAL FEE</td><td id=""0-a"">1 ea</td><td id=""0-b"">$4.50</td></tr>
+<tr><td id=""0-c"">CHARITABLE DONATION- $1</td><td id=""0-d"">1 ea</td><td id=""0-e"">$1.00</td></tr>
+<tr><td id=""0-f"">OTHER</td><td id=""0-g"">1 each</td><td id=""0-h"">$0.00</td></tr>
+<tr><td id=""0-i"">T108 - OIL SYSTEM CLEANER 8 OZ. T111TB - ENGINE MAX TREATMENT</td><td id=""0-j"">1 each</td><td id=""0-k"">$16.99</td></tr>
+<tr><td id=""0-l"">W/PTFE 11OZ (T111) 12449 - 12MM NISSAN COPPER GASKET</td><td id=""0-m"">1 each</td><td id=""0-n"">$19.99</td></tr>
+<tr><td id=""0-o"">(DP6925) (DPG-6925) PL14612 - PUROLATOR ONE PREMIUM</td><td id=""0-p"">1 each</td><td id=""0-q"">$0.00</td></tr>
+<tr><td id=""0-r"">#PL14612 (PG4612EX)(POS4612) PAF4727 - AIR FILTER #PAF4727</td><td id=""0-s"">1 each</td><td id=""0-t"">$14.99</td></tr>
+<tr><td id=""0-u"">(AF7845) (A4727) CHS530 - 5W30 SYNTH</td><td id=""0-v"">1 each</td><td id=""0-w"">$ 28.67</td></tr>
+<tr><td id=""0-x"">CHEVRON/HAVOLINE API GF5SN+/DEXOS G CHS530 - 5W30 SYNTH</td><td id=""0-y"">0.1 quarts</td><td id=""0-z"">$ 1.20</td></tr>
+<tr><td id=""0-A"" colspan=""2"">CHEVRON/HAVOLINE API GF5SN+/DEXOS G5 quarts CHTECHRON - TECHRON FUEL SYSTEM</td><td id=""0-B"">$ 0.00</td></tr>
+<tr><td id=""0-C"">CLEANER 20 OZ.</td><td id=""0-D"">1 each</td><td id=""0-E"">$ 16.99</td></tr>
+</table>
+<table id=""0-F"">
+<tr><td id=""0-G"">Sub Total:</td><td id=""0-H"">$ 210.32</td></tr>
+<tr><td id=""0-I"">Tax:</td><td id=""0-J"">$ 17.87</td></tr>
+<tr><td id=""0-K"">Total:</td><td id=""0-L"">$ 228.19</td></tr>
+<tr><td id=""0-M"">Payment (CC)</td><td id=""0-N"">$ 228.19</td></tr>
+<tr><td id=""0-O"">Change:</td><td id=""0-P"">$ 0.00</td></tr>
+</table>",0,0.4488900601863861,0.29105469584465027,0.9425753355026245,0.6887462139129639
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,6fbb4257-4ae5-4fe9-a833-c45c40a5fd37,attestation,"<a id='6fbb4257-4ae5-4fe9-a833-c45c40a5fd37'></a>
+
+<::attestation: Signature
+signed, acknowledged, authorized
+Signature: legible
+Guest Signature
+By signing below, you acknowledge that you were shown your engine oil dipstick at the completion of your service, with the oil on the ""Full Mark"", and you authorize Oilstop to process your payment.
+аккурзо
+A handwritten signature is centrally located below a paragraph of text, within a bordered box titled ""Guest Signature"".::>",0,0.4485793113708496,0.6877522468566895,0.9427781105041504,0.8259259462356567
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,c18045b3-c873-45ca-b3ad-5e69ae7c7c15,text,"<a id='c18045b3-c873-45ca-b3ad-5e69ae7c7c15'></a>
+
+Thank You!
+
+Thank you for the privilege of servicing your vehicle today. You will receive high quality materials, health, and service. Our goal is that you will be so delighted, you will recommend us to your friends and family. Please take a moment to tell us how we did.
+
+DATE: 10-10-10
+NAME: Jon Marini H.
+
+PLEASE RATE YOUR SERVICE EXCELLENT
+1 2 3 4 5
+Service Advisor: option 1: [ ] option 2: [ ] option 3: [ ] option 4: [ ] option 5: [x]
+Technician: option 1: [ ] option 2: [ ] option 3: [ ] option 4: [ ] option 5: [x]
+Facility: option 1: [ ] option 2: [ ] option 3: [ ] option 4: [ ] option 5: [x]
+Overall: option 1: [ ] option 2: [ ] option 3: [ ] option 4: [ ] option 5: [x]
+
+Did you receive excellent customer service?
+option YES: [x] option NO: [ ]
+Will you return for service?
+option YES: [x] option NO: [ ]
+Did we explain the services performed?
+option YES: [x] option NO: [ ]
+Would you recommend us to your friends?
+option YES: [x] option NO: [ ]
+
+You are awesome! A great job and great service! You people rock!!!
+
+Comments:
+Name A. [illegible]
+Address [illegible]
+City, State, Zip [illegible]
+Phone [illegible]
+Email [illegible]
+
+OILSTOP",0,0.0372031107544899,0.8348686099052429,0.25213563442230225,0.9705730080604553
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,26b4c018-8024-4b2f-b065-3f41e2b63adc,text,"<a id='26b4c018-8024-4b2f-b065-3f41e2b63adc'></a>
+
+CAPTION ERROR",0,0.06326724588871002,0.841505765914917,0.24329359829425812,0.9342026710510254
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,91d1ceeb-84f1-4459-ba6d-343bbe39dd47,text,"<a id='91d1ceeb-84f1-4459-ba6d-343bbe39dd47'></a>
+
+An Oilstop Guest from Half Moon Bay, CA, writes,
+""Same as always. The cars I bring in
+run better and last longer.""",0,0.2518456280231476,0.8350993990898132,0.9101684093475342,0.9440605044364929
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,d0190129-3878-40fd-bbb0-51f5cd66dace,text,"<a id='d0190129-3878-40fd-bbb0-51f5cd66dace'></a>
+
+Please take a moment to complete and mail your Comment Card to us. We would love to hear from you!",0,0.2641145586967468,0.9501039385795593,0.9171872735023499,0.9671686291694641
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,4718e6ad-879c-4bfd-8ed5-2be13c13ddff,table,"<a id='4718e6ad-879c-4bfd-8ed5-2be13c13ddff'></a>
+
+Service Check List
+We will serve people with excellence, humbly, with a servant`s heart.
+<table id=""1-1"">
+<tr><td id=""1-2"" colspan=""2"">Pre-Service Oil level: OVER 1 QUART LOW</td></tr>
+<tr><td id=""1-3"">Check List</td><td id=""1-4"">Status</td></tr>
+</table>",1,0.03503403067588806,0.011158403009176254,0.930317759513855,0.06783390045166016
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,169733b6-7a77-4729-898f-38a35b130982,table,"<a id='169733b6-7a77-4729-898f-38a35b130982'></a>
+
+SECONDARY SEAL
+<table id=""1-5"">
+<tr><td id=""1-6"">1.0</td><td id=""1-7"">NO SECONDARY SEAL/FILTER STUD TIGHT (MALIQUE TULCHINSKY)</td><td id=""1-8"">CONFIRMED</td></tr>
+<tr><td id=""1-9"" colspan=""3"">DOWNSTAIRS CALL</td></tr>
+<tr><td id=""1-a"">1.0</td><td id=""1-b"">CHASSIS LUBE</td><td id=""1-c"">COMPLETE-NO FITTINGS</td></tr>
+<tr><td id=""1-d"">2.0</td><td id=""1-e"">DRIVELINE FITTINGS</td><td id=""1-f"">VEHICLE NOT EQUIPPED- N/A</td></tr>
+<tr><td id=""1-g"">3.0</td><td id=""1-h"">C.V. BOOT INSPECTION</td><td id=""1-i"">GOOD</td></tr>
+</table>",1,0.03470936417579651,0.06681299209594727,0.9295408725738525,0.14173583686351776
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,46c8a793-5eb5-435a-a527-dea6cde8f9cc,table,"<a id='46c8a793-5eb5-435a-a527-dea6cde8f9cc'></a>
+
+ENGINE OIL FILL
+<table id=""1-j"">
+<tr><td id=""1-k"">1.0</td><td id=""1-l"">NEW ENGINE OIL LEVEL CONFIRMED/SHOWN</td><td id=""1-m"">LEVEL CONFIRMED/SHOWN</td></tr>
+<tr><td id=""1-n"" colspan=""3"">EXCELLENCE CHECK</td></tr>
+<tr><td id=""1-o"">1.0</td><td id=""1-p"">OIL FILTER</td><td id=""1-q"">CONFIRMED TIGHT #PL14612</td></tr>
+<tr><td id=""1-r"">2.0</td><td id=""1-s"">AUTO TRANS. CHECK/FILL PLUG</td><td id=""1-t"">1 DIPSTICK</td></tr>
+<tr><td id=""1-u"">2.5</td><td id=""1-v"">AUTO TRANS. CHECK/FILL PLUG TORQ</td><td id=""1-w"">FT / LBS</td></tr>
+<tr><td id=""1-x"">3.0</td><td id=""1-y"">AUTO TRANS. DRAIN PLUG</td><td id=""1-z"">19 MM</td></tr>
+<tr><td id=""1-A"">4.0</td><td id=""1-B"">AUTO TRANS. PLUG TORQ</td><td id=""1-C"">20 FT/LBS</td></tr>
+<tr><td id=""1-D"">6.0</td><td id=""1-E"">OIL PAN DRAIN PLUG(S)</td><td id=""1-F"">14 MM</td></tr>
+<tr><td id=""1-G"">7.0</td><td id=""1-H"">OIL PAN DRAIN PLUG(S) TORQ</td><td id=""1-I"">25 FT/LBS</td></tr>
+<tr><td id=""1-J"">8.0</td><td id=""1-K"">FRONT DIFF CHECK FILL PLUG</td><td id=""1-L"">10 MM HEX</td></tr>
+<tr><td id=""1-M"">9.0</td><td id=""1-N"">FRONT DIFF DRAIN PLUG</td><td id=""1-O"">10 MM HEX</td></tr>
+<tr><td id=""1-P"">14.0</td><td id=""1-Q"">TRANSFER CASE CHECK FILL PLUG</td><td id=""1-R"">10 MM HEX</td></tr>
+<tr><td id=""1-S"">15.0</td><td id=""1-T"">TRANSFER CASE DRAIN PLUG</td><td id=""1-U"">10 MM HEX</td></tr>
+<tr><td id=""1-V"">16.0</td><td id=""1-W"">REAR DIFFERENTIAL CHECK FILL PLUG</td><td id=""1-X"">14 MM HEX</td></tr>
+<tr><td id=""1-Y"">17.0</td><td id=""1-Z"">REAR DIFFERENTIAL DRAIN PLUG</td><td id=""1-10"">10 MM HEX</td></tr>
+</table>",1,0.03536331653594971,0.1376616358757019,0.9306637644767761,0.3295515477657318
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,15524c2f-0850-489e-b9df-1f7810636e56,table,"<a id='15524c2f-0850-489e-b9df-1f7810636e56'></a>
+
+<table><thead><tr><th>Item&nbsp;No.</th><th>Description</th><th>Status</th></tr></thead><tbody><tr><th colspan=""3"">OIL FILTER</th></tr><tr><td>2.0</td><td>OIL FILTER INSPECTION</td><td>CONFIRMED AND LUBRICATED #PL14612</td></tr><tr><th colspan=""3"">PLUG AND SEAL</th></tr><tr><td>1.0</td><td>OIL PAN DRAIN PLUG</td><td>GOOD</td></tr><tr><td>2.0</td><td>OIL PAN PLUG SEAL</td><td>REPLACED</td></tr></tbody></table>",1,0.034857988357543945,0.32785505056381226,0.9299829602241516,0.391292929649353
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,bb194013-704c-402a-bc42-e61e3be7bf99,table,"<a id='bb194013-704c-402a-bc42-e61e3be7bf99'></a>
+
+SAMPLE CARD
+<table id=""1-11"">
+<tr><td id=""1-12"">1.0 FRONT DIFFERENTIAL LUID</td><td id=""1-13"">DUE FOR SERVICE - FULL</td></tr>
+<tr><td id=""1-14"">3.0 TRANSFER CASE FLUID</td><td id=""1-15"">DUE FOR SERVICE-FULL</td></tr>
+<tr><td id=""1-16"">4.0 REAR DIFFERENTIAL FLUID</td><td id=""1-17"">DUE FOR SERVICE-FULL</td></tr>
+</table>",1,0.03505769371986389,0.38725167512893677,0.9293545484542847,0.43765556812286377
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,bc5e9ed8-02d7-4a29-a569-cd3840520975,table,"<a id='bc5e9ed8-02d7-4a29-a569-cd3840520975'></a>
+
+<table id=""1-18"">
+<tr><td id=""1-19"" colspan=""2"">SERVICE COORDINATOR ITEMS</td><td id=""1-1a""></td></tr>
+<tr><td id=""1-1b"" colspan=""2"">1.1 CHEVRON OIL UPCHARGE</td><td id=""1-1c"">NO UPCHARGE REQUIRED</td></tr>
+<tr><td id=""1-1d"" colspan=""2"">3.0 O - AUTO TRANSMISSION FLUID STATUS</td><td id=""1-1e"">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>
+<tr><td id=""1-1f"" colspan=""2"">3.1 O - AUTO TRANSMISSION FLUID LEVEL</td><td id=""1-1g"">CONFIRMED FULL (IN THE FULL RANGE)</td></tr>
+<tr><td id=""1-1h"" colspan=""2"">3.2 O - POWER STEERING FLUID STATUS</td><td id=""1-1i"">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>
+<tr><td id=""1-1j"" colspan=""2"">3.3 O - POWER STEERING FLUID LEVEL</td><td id=""1-1k"">CONFIRMED FULL</td></tr>
+<tr><td id=""1-1l"" colspan=""2"">6.0 O - COOLANT/ANTIFREEZE PROTECTION LEVEL</td><td id=""1-1m"">-15 F</td></tr>
+<tr><td id=""1-1n"" colspan=""2"">7.0 O - COOLANT/ANTIFREEZE STATUS</td><td id=""1-1o"">DUE FOR SERVICE(BASED ON TIME OR MILEAGE)</td></tr>
+<tr><td id=""1-1p"" colspan=""2"">8.0 O - COOLANT/ANTIFREEZE FLUID LEVEL</td><td id=""1-1q"">2 FILLED (TOPPED OFF) # OF UNITS</td></tr>
+<tr><td id=""1-1r"" colspan=""2"">9.0 O - WINDSHIELD WASHER FLUID</td><td id=""1-1s"">FILLED</td></tr>
+<tr><td id=""1-1t"" colspan=""2"">10.0 CLEAN WINDSHIELDS FRONT AND REAR</td><td id=""1-1u"">NOT CLEANED - CAR WASH</td></tr>
+<tr><td id=""1-1v"" colspan=""2"">11.0 CHECK WIPER BLADES</td><td id=""1-1w"">GUEST OK-GOOD</td></tr>
+<tr><td id=""1-1x"" colspan=""2"">12.0 LUBRICATE LATCHES AND HINGES</td><td id=""1-1y"">COMPLETED</td></tr>
+<tr><td id=""1-1z"" colspan=""2"">13.0 FRONT TIRE PRESSURE CHECK</td><td id=""1-1A"">:35, FRONT PRESSURE</td></tr>
+<tr><td id=""1-1B"" colspan=""2"">13.5 REAR TIRE PRESSURE CHECK</td><td id=""1-1C"">:35, REAR PRESSURE</td></tr>
+<tr><td id=""1-1D"" colspan=""2"">14.0 VALVE CAPS</td><td id=""1-1E"">ON AND TIGHT</td></tr>
+</table>",1,0.03558969497680664,0.4349251985549927,0.9302050471305847,0.6264878511428833
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,8fff4a63-76f5-4a15-9d68-868e0d6af167,table,"<a id='8fff4a63-76f5-4a15-9d68-868e0d6af167'></a>
+
+<table id=""1-1F"">
+<tr><td id=""1-1G"">SERVICE WRITER ITEMS</td><td id=""1-1H""></td></tr>
+<tr><td id=""1-1I"">12.0 OIL SEALS</td><td id=""1-1J"">GOOD-NO VISIBLE LEAKAGE</td></tr>
+<tr><td id=""1-1K"">16.0 PT15 ENGINE TREATMENT</td><td id=""1-1L"">ENGINE TREATMENT RECOMMENDED EVERY 12000</td></tr>
+<tr><td id=""1-1M"">18.0 AIR FILTER RECOMMENDATION</td><td id=""1-1N"">REPLACED</td></tr>
+<tr><td id=""1-1O"">23.0 CABIN AIR FILTER INSPECTION</td><td id=""1-1P"">NOT CHECKED - GUEST REQUEST</td></tr>
+<tr><td id=""1-1Q"">24.0 BRAKE FLUID CHECK</td><td id=""1-1R"">GOOD-NOT FILLED</td></tr>
+<tr><td id=""1-1S"">27.0 POWER STEERING LEAKAGE CHECK</td><td id=""1-1T"">LEAKAGE-SOURCE UNKNOWN</td></tr>
+<tr><td id=""1-1U"">28.0 UPPER/LOWER RADIATOR HOSES- VISUAL INSPECTION</td><td id=""1-1V"">GOOD</td></tr>
+<tr><td id=""1-1W"">29.1 DRIVE BELT INSPECTION</td><td id=""1-1X"">GOOD</td></tr>
+<tr><td id=""1-1Y"">31.0 BATTERY TERMINALS CLEANED AND PROTECTED</td><td id=""1-1Z"">COMPLETED</td></tr>
+<tr><td id=""1-20"">32.0 FUEL SYSTEM CLEANER</td><td id=""1-21"">TECHRON RECOMMENDED</td></tr>
+<tr><td id=""1-22"">33.0 SKID PLATE EXCELLENCE CHECK</td><td id=""1-23"">CONFIRMED ON AND TIGHT</td></tr>
+<tr><td id=""1-24"">37.0 CAPS AND DIPSTICKS CHECK (WILLIAM HOLLINGSWORTH)</td><td id=""1-25"">TIGHT</td></tr>
+<tr><td id=""1-26"">38.0 RESET CHANGE OIL LIGHT</td><td id=""1-27"">COMPLETED</td></tr>
+</table>",1,0.03579598665237427,0.6265532970428467,0.9307441711425781,0.7934675216674805
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,0888b901-670a-43e4-a820-af3c986df100,scan_code,"<a id='0888b901-670a-43e4-a820-af3c986df100'></a>
+
+<::scan_code: QR code
+
+A clear, well-defined black and white QR code with no visible quality issues.::>",1,0.03062015026807785,0.8941166996955872,0.16340932250022888,0.9704273343086243
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,fbeedd35-9574-4b52-92c0-17bd70839ce6,text,"<a id='fbeedd35-9574-4b52-92c0-17bd70839ce6'></a>
+
+--- FREE EXT CAR WASH AT HAPPY'S CARWASH. PRESENT THIS BARCODE.",1,0.15776154398918152,0.8918776512145996,0.9034925699234009,0.9178084135055542
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,b342508a-b164-46bd-b75e-f0be040cd37e,text,"<a id='b342508a-b164-46bd-b75e-f0be040cd37e'></a>
+
+Happy's
+DRIVE-THRU
+ESPRESSO
+
+Next Door
+1316 Northeast 134th St.
+Vancouver, WA",1,0.1615269035100937,0.9214077591896057,0.36057376861572266,0.9659795165061951
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,2ba2f4f6-d6f3-4390-8239-2df671860114,text,"<a id='2ba2f4f6-d6f3-4390-8239-2df671860114'></a>
+
+Guest: ANDREA KROPP
+License: ANX5193
+Invoice: O-0023-14214
+
+Make: NISSAN
+Model: XTERRA OFF-ROAD
+
+<::scan_code: 10450065::>",1,0.3673820495605469,0.9125193357467651,0.8814307451248169,0.960869312286377
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,f3fd949f-206b-4814-900c-9c9df2ff8d52,text,"<a id='f3fd949f-206b-4814-900c-9c9df2ff8d52'></a>
+
+Receipt ___
+Service Date: MAY 27, 2024 11:27 AM
+Valid at Happy's carwash. Not valid with any other offer. Not redeemable for cash. Valid for 30 dyas from invoice da",1,0.0758109986782074,0.9579142332077026,0.8788578510284424,0.9883043766021729
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,46827c63-f0e1-4f20-9526-72a00ff3b497,figure,"<a id='46827c63-f0e1-4f20-9526-72a00ff3b497'></a>
+
+<::transcription of the content
+: figure::>",1,0.9292409420013428,0.890640377998352,0.9830200672149658,0.9902832508087158
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,8dbb552e-8627-4117-bb9b-7605cea86790,text,"<a id='8dbb552e-8627-4117-bb9b-7605cea86790'></a>
+
+CC",1,0.052443597465753555,0.9678549766540527,0.08034953474998474,0.9862736463546753
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,5adca170-7206-46fd-8692-4833b6e41908,text,"<a id='5adca170-7206-46fd-8692-4833b6e41908'></a>
+
+RELIANCE RETAIL LIMITED
+Tax Invoice
+Original for Recipient
+Seller/Consignor:
+Reliance Retail Ltd,
+C/O Survey No.461/2C, Redhills-Ambattur Road, Puzhal Village,
+Ambattur Taluk Chennai,
+TN 600062
+State Code : 33
+GSTIN:33AABCR1718E1ZW
+C",0,0.06940925121307373,0.020484324544668198,0.5219409465789795,0.1368197649717331
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,f82a3eff-4664-4917-b6bc-ee8440953eea,logo,"<a id='f82a3eff-4664-4917-b6bc-ee8440953eea'></a>
+
+<::logo: Reliance Digital
+Reliance digital
+The logo features the word ""Reliance"" in a bold, sans-serif font above ""digital"" in a lighter, stylized font, all set against a dark rectangular background. There's a small circular symbol above the 'R' in Reliance.::>",0,0.5101484060287476,0.021704595535993576,0.7249085903167725,0.1212768405675888
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,30cb343d-6a7b-4f36-9124-32491c73aff0,text,"<a id='30cb343d-6a7b-4f36-9124-32491c73aff0'></a>
+
+Tax Invoice No: D33Y350102708514
+Date: 27-03-2023
+
+Recipient Address:
+Manjula Kannan
+52, Mettu street,
+Thenkodipakkam, Vanur taluk,,
+Villupuram TN
+IN Pin: 604102
+State Code: 33
+Place of supply: Tamil Nadu, 33
+
+Mobile: 7708588356
+Customer GSTIN: UNREGISTERED
+EwayBillNo: 501481630466
+EwayBillDate: 27-03-2023
+
+Carrier Name: ECOM
+AWB Number: 2068019154",0,0.07066148519515991,0.13445964455604553,0.9291213750839233,0.26181545853614807
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,835dc84d-f0dd-46e9-9fd4-180d2cde82cb,table,"<a id='835dc84d-f0dd-46e9-9fd4-180d2cde82cb'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"" colspan=""9"">ORDER NUMBER: RDF49344959 SHIPMENT NO: DI102135784 PRE-PAID</td></tr>
+<tr><td id=""0-3"">Article ID</td><td id=""0-4"">Item Details</td><td id=""0-5"">HSN Code</td><td id=""0-6"">Item Qty</td><td id=""0-7"">Unit Price (Rs.)</td><td id=""0-8"">Discount (Rs.)</td><td id=""0-9"">Net Price (Rs.)</td><td id=""0-a"">Tax Amount (Rs.)</td><td id=""0-b"">Total (Rs.)</td></tr>
+<tr><td id=""0-c"">493665043</td><td id=""0-d"">OnePlus 11 5G 128 GB, 8 GB Ram, Eternal Green, Mobile Phone SNo/IMEI: 865111062487193,865111062487193</td><td id=""0-e"">85171300</td><td id=""0-f"">1</td><td id=""0-g"">48304.24</td><td id=""0-h""></td><td id=""0-i"">48304.24</td><td id=""0-j"">8694.76</td><td id=""0-k"">56999.00</td></tr>
+</table>",0,0.07033756375312805,0.2576926052570343,0.92940354347229,0.381592720746994
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,f8c67a68-f02c-447a-8b10-3bed9a31bfb8,table,"<a id='f8c67a68-f02c-447a-8b10-3bed9a31bfb8'></a>
+
+<table id=""0-l"">
+<tr><td id=""0-m"" colspan=""4"">Total :</td><td id=""0-n"">1</td><td id=""0-o"" colspan=""2""></td><td id=""0-p"" colspan=""3"">48304.24</td><td id=""0-q"" colspan=""2"">8694.76</td><td id=""0-r"">56999.00</td></tr>
+<tr><td id=""0-s"" colspan=""13"">Tax Summary</td></tr>
+<tr><td id=""0-t"" rowspan=""2"">HSN Code</td><td id=""0-u"" colspan=""2"">CGST</td><td id=""0-v"" colspan=""3"">SGST/UTGST</td><td id=""0-w"" colspan=""3"">IGST</td><td id=""0-x"" rowspan=""2"" colspan=""2"">Cess</td><td id=""0-y"" rowspan=""2"" colspan=""2"">Total Tax Value</td></tr>
+<tr><td id=""0-z"">Rate %</td><td id=""0-A"">Amount</td><td id=""0-B"" colspan=""3"">Rate %</td><td id=""0-C"">Rate %</td><td id=""0-D"" colspan=""2"">Amount</td></tr>
+<tr><td id=""0-E"">85171300</td><td id=""0-F"">9.00</td><td id=""0-G"">4347.38</td><td id=""0-H"" colspan=""3"">9.00 4347.38</td><td id=""0-I""></td><td id=""0-J"" colspan=""2""></td><td id=""0-K"" colspan=""2""></td><td id=""0-L"" colspan=""2"">8694.76</td></tr>
+<tr><td id=""0-M"" colspan=""2"">Total Tax Amount</td><td id=""0-N"">4347.38</td><td id=""0-O"" colspan=""3"">4347.38</td><td id=""0-P"" colspan=""5""></td><td id=""0-Q"" colspan=""2"">8694.76</td></tr>
+<tr><td id=""0-R"" colspan=""11"">Total Invoice Value</td><td id=""0-S"" colspan=""2"">56999.00</td></tr>
+<tr><td id=""0-T"" colspan=""13"">Total in Words: Fifty Six Thousand Nine Hundred and Ninety Nine Rupees Only</td></tr>
+</table>",0,0.06849294900894165,0.676488995552063,0.9305547475814819,0.7913161516189575
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,817b83b5-6afa-40df-91da-37b9bab35e96,text,"<a id='817b83b5-6afa-40df-91da-37b9bab35e96'></a>
+
+Thank you for shopping with us!
+
+Mode of Payment: EMI
+Payment Date and Time: 2023-03-27 09:36:28
+Payment Reference: 140101657
+
+Tax is not payable under Reverse Charge basis for this supply.
+An Electronic document issued in accordance with the provisions of the Information Technology Act, 2000 (21 of 2000)",0,0.06917351484298706,0.7900398373603821,0.9303354620933533,0.8968703150749207
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,712269ad-0ec1-4fac-b4b1-4101af8b142c,text,"<a id='712269ad-0ec1-4fac-b4b1-4101af8b142c'></a>
+
+Principal Place of Business: 89, 5, A1 Towers, Dr. Radhakrishnan Salai, Mylapore, Chennai, 600004
+Regd Office: 3rd floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai 400002
+CIN: U01100MH1999PLC120563
+WWW.RELIANCEDIGITAL.IN
+
+Page 1 of 1
+E. & O.E.",0,0.06961151957511902,0.8917707800865173,0.9304511547088623,0.9282287955284119
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,b31b0355-9706-4b82-bbc4-0ca37a9f627c,logo,"<a id='b31b0355-9706-4b82-bbc4-0ca37a9f627c'></a>
+
+<::logo: Alamy\nalamy\nThe logo features the word ""alamy"" in a bold, black, sans-serif, lowercase font.::>",0,0.07097623497247696,0.047266192734241486,0.20074144005775452,0.10055144876241684
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,b178bce7-c7e9-4eed-b15e-8c3dcee666cc,text,"<a id='b178bce7-c7e9-4eed-b15e-8c3dcee666cc'></a>
+
+Alamy Inc
+49 Flatbush Ave, 130,
+Brooklyn, NY 11217,
+USA",0,0.4799441695213318,0.048946741968393326,0.5987951159477234,0.1007242202758789
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,8d7f06d7-e954-4da1-a7d1-238fd98b6c24,text,"<a id='8d7f06d7-e954-4da1-a7d1-238fd98b6c24'></a>
+
+Your Alamy invoice",0,0.07152923941612244,0.11230435967445374,0.3121108114719391,0.14101961255073547
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73,text,"<a id='7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73'></a>
+
+Federal Tax ID 46-052-1136",0,0.4786399304866791,0.11915437877178192,0.6550843715667725,0.13886617124080658
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,654d5feb-3c6e-48b5-8d0a-9b68b758fa37,table,"<a id='654d5feb-3c6e-48b5-8d0a-9b68b758fa37'></a>
+
+<table id=""0-1"">
+<tr><td id=""0-2"">Invoice number:</td><td id=""0-3"">Invoice date:</td><td id=""0-4"">06 May 2024</td><td id=""0-5"">Paid</td></tr>
+<tr><td id=""0-6"">IY04370868</td><td id=""0-7""></td><td id=""0-8""></td><td id=""0-9"">Total: $ 49.50</td></tr>
+</table>",0,0.06882745027542114,0.14638900756835938,0.8918877840042114,0.2131284773349762
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8,text,"<a id='d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8'></a>
+
+Invoice to:
+227 N 5th Ave
+Ridgefield
+WA
+98642-3846
+United States",0,0.06740932166576385,0.21760955452919006,0.17181332409381866,0.2924938499927521
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,36f021be-e7ed-41fe-9aeb-02929db30d7f,text,"<a id='36f021be-e7ed-41fe-9aeb-02929db30d7f'></a>
+
+Ordered by: andr3akropp@gmail.com
+Order reference: OY92605918
+Remittance advice to be sent to: customerfinance@alamy.com",0,0.34170836210250854,0.21553745865821838,0.6431772112846375,0.2783699333667755
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,fde4fa46-a924-4bdf-9753-52d39ed5b5d7,figure,"<a id='fde4fa46-a924-4bdf-9753-52d39ed5b5d7'></a>
+
+Your order (1 item)
+
+<::abstract image with white diagonal lines on a black background
+: figure::>",0,0.06932000070810318,0.31421881914138794,0.2737358510494232,0.49662238359451294
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,c39203b6-f21c-44e2-b5ae-c136238d0be8,table,"<a id='c39203b6-f21c-44e2-b5ae-c136238d0be8'></a>
+
+<table id=""0-a"">
+<tr><td id=""0-b"" colspan=""2"">Image ID: GMM2C6</td></tr>
+<tr><td id=""0-c"">Image details</td><td id=""0-d""></td></tr>
+<tr><td id=""0-e"">Image title</td><td id=""0-f"">Vector Seamless Dash Diagonal Parallel Line Halfton Pattern</td></tr>
+<tr><td id=""0-g"">Credit line</td><td id=""0-h"">YAY Media AS / Alamy Stock Vector</td></tr>
+<tr><td id=""0-i"">License details</td><td id=""0-j""></td></tr>
+<tr><td id=""0-k"">Country</td><td id=""0-l"">Worldwide</td></tr>
+<tr><td id=""0-m"">Usage</td><td id=""0-n"">Standard</td></tr>
+<tr><td id=""0-o"">Start date</td><td id=""0-p"">06 May 2024</td></tr>
+<tr><td id=""0-q"">Duration</td><td id=""0-r"">In perpetuity</td></tr>
+<tr><td id=""0-s"">Additional details</td><td id=""0-t"">Standard License for 1 user only. Allowed usage: across websites, social media, short-form video on video sharing sites, digital publishing, digital marketing, and print runs up to 100,000. Restrictions stated prior to or at time of purchase may limit the scope of permissible usage.</td></tr>
+</table>",0,0.34240081906318665,0.3420253098011017,0.8913666009902954,0.5505486130714417
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,3f35e4ce-53a9-4c59-acce-6591bd8434fb,attestation,"<a id='3f35e4ce-53a9-4c59-acce-6591bd8434fb'></a>
+
+<::attestation: Payment Mark
+Paid
+Subtotal: $ 45.00
+Sales tax @ 10%: $ 4.50
+Total: $ 49.50
+The word 'Paid' is prominently displayed in green at the top right, followed by a breakdown of subtotal, sales tax, and total, with the total amount also highlighted in green.::>",0,0.7046985626220703,0.5649719834327698,0.8936110734939575,0.6518445611000061
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,66e3f664-912f-4d9a-a7c9-79a22e545dff,text,"<a id='66e3f664-912f-4d9a-a7c9-79a22e545dff'></a>
+
+Paid by credit card
+
+Card category: VISA
+Card number: *********8366
+Expiry: 02 / 2028",0,0.06302303075790405,0.6495202779769897,0.8982023596763611,0.7250293493270874
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,571d90ff-05b9-486b-8143-527148eefd2c,text,"<a id='571d90ff-05b9-486b-8143-527148eefd2c'></a>
+
+Get in touch
+
+866 671 7305 (toll free)
+sales@alamy.com",0,0.08794297277927399,0.7416233420372009,0.3375685214996338,0.8201691508293152
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,ed70f795-7e21-49af-a692-ff886d30c652,text,"<a id='ed70f795-7e21-49af-a692-ff886d30c652'></a>
+
+License agreement
+
+https://www.alamy.com/terms/default.asp",0,0.487700492143631,0.7415774464607239,0.7053064107894897,0.789444625377655

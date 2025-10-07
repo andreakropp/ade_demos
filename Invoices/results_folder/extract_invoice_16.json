@@ -1,0 +1,258 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "Mar 20, 2023",
+      "invoice_date": "2023-03-20",
+      "invoice_number": "",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Mansoer Walizada",
+      "sold_to_address": "10517 San Vincente Ave, South Gate, CA 90280, USA",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "Walmart",
+      "supplier_address": null,
+      "representative": null,
+      "email": null,
+      "phone": null,
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "MasterCard 8453",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "0,00 US$",
+      "total_due": 0,
+      "subtotal": 1529.94,
+      "tax": 110.92,
+      "shipping": null,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": null,
+        "sku": "PF4AJSC9",
+        "description": "Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180-degree hinge; design - Intel Core i7 1260P/2.1 GHz - Evo - Win 10 Pro 64-bit; (includes Win 11 Pro License) - Intel Iris Xe Graphics - 16 GB RAM - 512 GB SSD TCG Opal Encryption 2, NVMe, Performance - 14\" IPS touchscreen 1920 x 1200 - 802.11a/b/g/n/ac/ax (Wi-Fi 6E) - deep black paint - kbd: US - with 3 Years Lenovo Premier Support + 3 Years Lenovo Sealed Battery Add On",
+        "quantity": 1,
+        "unit_price": 1529.94,
+        "price": null,
+        "amount": 1529.94,
+        "total": null
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "Mar 20, 2023",
+        "references": [
+          "86325e05-b872-44c0-a97c-850d0e6c5f79"
+        ]
+      },
+      "invoice_date": {
+        "value": "2023-03-20",
+        "references": [
+          "86325e05-b872-44c0-a97c-850d0e6c5f79"
+        ]
+      },
+      "invoice_number": {
+        "value": "",
+        "references": []
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Mansoer Walizada",
+        "references": [
+          "d1541e85-622c-4e62-b3ef-6886c51639a0"
+        ]
+      },
+      "sold_to_address": {
+        "value": "10517 San Vincente Ave, South Gate, CA 90280, USA",
+        "references": [
+          "d1541e85-622c-4e62-b3ef-6886c51639a0"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "Walmart",
+        "references": [
+          "7e376974-b72e-4f94-bddc-25b2f9858525"
+        ]
+      },
+      "supplier_address": {
+        "value": null,
+        "references": []
+      },
+      "representative": {
+        "value": null,
+        "references": []
+      },
+      "email": {
+        "value": null,
+        "references": []
+      },
+      "phone": {
+        "value": null,
+        "references": []
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "MasterCard 8453",
+        "references": [
+          "86325e05-b872-44c0-a97c-850d0e6c5f79"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "86325e05-b872-44c0-a97c-850d0e6c5f79",
+          "0-8",
+          "0-9",
+          "3098a6e9-5bb2-4473-8f39-52e5966ee385"
+        ]
+      },
+      "total_due_raw": {
+        "value": "0,00 US$",
+        "references": [
+          "86325e05-b872-44c0-a97c-850d0e6c5f79"
+        ]
+      },
+      "total_due": {
+        "value": 0,
+        "references": [
+          "86325e05-b872-44c0-a97c-850d0e6c5f79"
+        ]
+      },
+      "subtotal": {
+        "value": 1529.94,
+        "references": [
+          "3098a6e9-5bb2-4473-8f39-52e5966ee385"
+        ]
+      },
+      "tax": {
+        "value": 110.92,
+        "references": [
+          "3098a6e9-5bb2-4473-8f39-52e5966ee385"
+        ]
+      },
+      "shipping": {
+        "value": null,
+        "references": []
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": null,
+          "references": []
+        },
+        "sku": {
+          "value": "PF4AJSC9",
+          "references": [
+            "0-y"
+          ]
+        },
+        "description": {
+          "value": "Lenovo ThinkPad X1 Carbon Gen 10 21CB - 180-degree hinge; design - Intel Core i7 1260P/2.1 GHz - Evo - Win 10 Pro 64-bit; (includes Win 11 Pro License) - Intel Iris Xe Graphics - 16 GB RAM - 512 GB SSD TCG Opal Encryption 2, NVMe, Performance - 14\" IPS touchscreen 1920 x 1200 - 802.11a/b/g/n/ac/ax (Wi-Fi 6E) - deep black paint - kbd: US - with 3 Years Lenovo Premier Support + 3 Years Lenovo Sealed Battery Add On",
+          "references": [
+            "0-6",
+            "0-a",
+            "0-e",
+            "0-i",
+            "0-m",
+            "0-q",
+            "0-u"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-7"
+          ]
+        },
+        "unit_price": {
+          "value": 1529.94,
+          "references": [
+            "0-8"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 1529.94,
+          "references": [
+            "0-9"
+          ]
+        },
+        "total": {
+          "value": null,
+          "references": []
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 1.9,
+    "duration_ms": 9416,
+    "filename": "upload",
+    "job_id": "txqho2rhhwcz09g1gkk5y5iln",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

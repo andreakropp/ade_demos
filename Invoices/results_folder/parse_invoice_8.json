@@ -1,0 +1,1155 @@
+{
+  "chunks": [
+    {
+      "id": "a24acd30-2126-4953-854b-b4d9635480ea",
+      "grounding": {
+        "box": {
+          "bottom": 0.0993993878364563,
+          "left": 0.648505687713623,
+          "right": 0.8924366235733032,
+          "top": 0.05987708270549774
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a24acd30-2126-4953-854b-b4d9635480ea'></a>\n\nINVOICE",
+      "type": "text"
+    },
+    {
+      "id": "1d7b248e-2235-43d2-a96f-e80d1b81f195",
+      "grounding": {
+        "box": {
+          "bottom": 0.16577720642089844,
+          "left": 0.11045388877391815,
+          "right": 0.44505274295806885,
+          "top": 0.08873892575502396
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1d7b248e-2235-43d2-a96f-e80d1b81f195'></a>\n\n_East Padden Animal Hospital_\n15721 NE Fourth Plain Blvd.\nVancouver, WA 98682\n360-892-1500",
+      "type": "text"
+    },
+    {
+      "id": "e30625d8-f317-4f36-b401-49e0c5652d4b",
+      "grounding": {
+        "box": {
+          "bottom": 0.21208135783672333,
+          "left": 0.3117828071117401,
+          "right": 0.6903002262115479,
+          "top": 0.18910838663578033
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e30625d8-f317-4f36-b401-49e0c5652d4b'></a>\n\nYour OTHER Family Doctor. We love what we do!",
+      "type": "text"
+    },
+    {
+      "id": "2dbe995f-69d3-4b81-81fd-295e44ab9561",
+      "grounding": {
+        "box": {
+          "bottom": 0.3027985692024231,
+          "left": 0.1118985265493393,
+          "right": 0.34580886363983154,
+          "top": 0.2351713329553604
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2dbe995f-69d3-4b81-81fd-295e44ab9561'></a>\n\nFOR: Andrea Kropp\n227 N 5th Ave\nPO Box 1168\nRidgefield, WA 98642",
+      "type": "text"
+    },
+    {
+      "id": "a5a6334a-ec82-46cc-a892-e1f7ebf6dce0",
+      "grounding": {
+        "box": {
+          "bottom": 0.27267423272132874,
+          "left": 0.664871335029602,
+          "right": 0.8875643014907837,
+          "top": 0.22185461223125458
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a5a6334a-ec82-46cc-a892-e1f7ebf6dce0'></a>\n\nPrinted: 08-18-23 at 3:14p\nDate: 08-18-23\nAccount: 41283",
+      "type": "text"
+    },
+    {
+      "id": "1927aed9-a494-4984-b701-25647d2a975e",
+      "grounding": {
+        "box": {
+          "bottom": 0.3020061254501343,
+          "left": 0.6643661260604858,
+          "right": 0.8162983655929565,
+          "top": 0.28150027990341187
+        },
+        "page": 0
+      },
+      "markdown": "<a id='1927aed9-a494-4984-b701-25647d2a975e'></a>\n\nInvoice: 412824",
+      "type": "text"
+    },
+    {
+      "id": "40966379-6674-4caf-94c1-a6235cddf187",
+      "grounding": {
+        "box": {
+          "bottom": 0.5216607451438904,
+          "left": 0.10764092206954956,
+          "right": 0.8923571705818176,
+          "top": 0.30991435050964355
+        },
+        "page": 0
+      },
+      "markdown": "<a id='40966379-6674-4caf-94c1-a6235cddf187'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">For</td><td id=\"0-4\">Qty Description</td><td id=\"0-5\">Price</td><td id=\"0-6\">Discount</td><td id=\"0-7\">Price</td></tr>\n<tr><td id=\"0-8\">08-18-23</td><td id=\"0-9\" colspan=\"4\">Zazzles 2 Selarid Feline 5-15lb Revolution Ge* Apply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.</td><td id=\"0-a\">42.00</td></tr>\n<tr><td id=\"0-b\">08-18-23</td><td id=\"0-c\" colspan=\"3\">1 HCP Combo Vaccine (1 Year) The HCP vaccine was given under the skin of the right front leg.</td><td id=\"0-d\"></td><td id=\"0-e\">45.00</td></tr>\n<tr><td id=\"0-f\">08-18-23</td><td id=\"0-g\" colspan=\"3\">1 Technician Appointment</td><td id=\"0-h\"></td><td id=\"0-i\">0.00</td></tr>\n<tr><td id=\"0-j\">08-18-23</td><td id=\"0-k\" colspan=\"3\">Visa payment</td><td id=\"0-l\"></td><td id=\"0-m\">-90.53</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "16e0a4ce-ba4f-4980-bace-30618d82186a",
+      "grounding": {
+        "box": {
+          "bottom": 0.5566332340240479,
+          "left": 0.11078664660453796,
+          "right": 0.7374686002731323,
+          "top": 0.5237376689910889
+        },
+        "page": 0
+      },
+      "markdown": "<a id='16e0a4ce-ba4f-4980-bace-30618d82186a'></a>\n\nMerchant ID: 4445060632312\nApproval code: 00301D\nTransaction ID: 753403776\nRef #: 153071494\nAct #: ************3800\nEntry: ContactIcc\nCard: VISA",
+      "type": "text"
+    },
+    {
+      "id": "a4180b9b-4961-466c-aab4-6564ef737bc0",
+      "grounding": {
+        "box": {
+          "bottom": 0.5911219716072083,
+          "left": 0.1110023558139801,
+          "right": 0.8052910566329956,
+          "top": 0.5554140210151672
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a4180b9b-4961-466c-aab4-6564ef737bc0'></a>\n\nYour card balance is not available\nI AGREE TO PAY ABOVE TOTAL AMOUNT ACCORDING TO CARD ISSUER AGREEMENT",
+      "type": "text"
+    },
+    {
+      "id": "19ea1947-1465-4e26-850b-1d5f2562c0e9",
+      "grounding": {
+        "box": {
+          "bottom": 0.6232918500900269,
+          "left": 0.6430811285972595,
+          "right": 0.8892853856086731,
+          "top": 0.5954693555831909
+        },
+        "page": 0
+      },
+      "markdown": "<a id='19ea1947-1465-4e26-850b-1d5f2562c0e9'></a>\n\n<::attestation: Signature mark\nMark made\nSignature: legible\nReadable Text: X\nA prominent 'X' followed by a long horizontal line, centered horizontally in the image.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "e77958b1-73be-40e6-b521-6106c0a2b56b",
+      "grounding": {
+        "box": {
+          "bottom": 0.7013563513755798,
+          "left": 0.11261692643165588,
+          "right": 0.8897533416748047,
+          "top": 0.6369664072990417
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e77958b1-73be-40e6-b521-6106c0a2b56b'></a>\n\n<table id=\"0-n\">\n<tr><td id=\"0-o\">Old balance</td><td id=\"0-p\">Charges</td><td id=\"0-q\">Tax</td><td id=\"0-r\">Payments</td><td id=\"0-s\">New balance</td></tr>\n<tr><td id=\"0-t\">0.00</td><td id=\"0-u\">87.00</td><td id=\"0-v\">*3.53</td><td id=\"0-w\">90.53</td><td id=\"0-x\">0.00</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "538918d4-16bf-49b0-a692-45eeef120446",
+      "grounding": {
+        "box": {
+          "bottom": 0.7442029118537903,
+          "left": 0.10851822793483734,
+          "right": 0.4471859931945801,
+          "top": 0.7024720311164856
+        },
+        "page": 0
+      },
+      "markdown": "<a id='538918d4-16bf-49b0-a692-45eeef120446'></a>\n\n**Patient**\nZazzles\n\n**Total charges**\n90.53",
+      "type": "text"
+    },
+    {
+      "id": "608e352a-2df9-4101-881a-74aab5116be0",
+      "grounding": {
+        "box": {
+          "bottom": 0.8873994946479797,
+          "left": 0.10837957262992859,
+          "right": 0.6389297246932983,
+          "top": 0.7772925496101379
+        },
+        "page": 0
+      },
+      "markdown": "<a id='608e352a-2df9-4101-881a-74aab5116be0'></a>\n\nReminders for: **Zazzles** (Weight: 9.9 lbs - 12y) Last done\n<table id=\"0-D\">\n<tr><td id=\"0-E\">07-28-19</td><td id=\"0-F\">Cardiopet proBNP</td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\">07-28-19</td><td id=\"0-I\">Blood Pressure</td><td id=\"0-J\"></td></tr>\n<tr><td id=\"0-K\">10-17-23</td><td id=\"0-L\">Monthly Topical Parasite Contr</td><td id=\"0-M\">08-18-23</td></tr>\n<tr><td id=\"0-N\">07-26-24</td><td id=\"0-O\">Purevax Rabies Vaccine(1 year)</td><td id=\"0-P\">07-27-23</td></tr>\n<tr><td id=\"0-Q\">07-26-24</td><td id=\"0-R\">Annual Wellness Exam</td><td id=\"0-S\">07-27-23</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "99d8aea3-3c3b-420b-92cc-535410a03e97",
+      "grounding": {
+        "box": {
+          "bottom": 0.14777608215808868,
+          "left": 0.11084091663360596,
+          "right": 0.6324667930603027,
+          "top": 0.0872635543346405
+        },
+        "page": 1
+      },
+      "markdown": "<a id='99d8aea3-3c3b-420b-92cc-535410a03e97'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\" colspan=\"2\">Reminders for: Zazzles (Weight: 9.9 lbs - 12y)</td><td id=\"1-3\">Last done</td></tr>\n<tr><td id=\"1-4\">07-26-24 08-17-24</td><td id=\"1-5\">Annual Labwork HCP Combo Vaccine - 3 year</td><td id=\"1-6\">07-27-23</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "9da7956d-570d-4a64-a91c-2306ef0eb49e",
+      "grounding": {
+        "box": {
+          "bottom": 0.1931646764278412,
+          "left": 0.11036616563796997,
+          "right": 0.30907732248306274,
+          "top": 0.17099395394325256
+        },
+        "page": 1
+      },
+      "markdown": "<a id='9da7956d-570d-4a64-a91c-2306ef0eb49e'></a>\n\n**_Doctor's Instructions_**",
+      "type": "text"
+    },
+    {
+      "id": "ec684082-e03b-441c-abb1-85f9860e827f",
+      "grounding": {
+        "box": {
+          "bottom": 0.26389002799987793,
+          "left": 0.1408413052558899,
+          "right": 0.7300625443458557,
+          "top": 0.20298194885253906
+        },
+        "page": 1
+      },
+      "markdown": "<a id='ec684082-e03b-441c-abb1-85f9860e827f'></a>\n\nSelarid Feline 5-15lb Revolution Generic\nApply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, ticks, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.",
+      "type": "text"
+    },
+    {
+      "id": "ce470258-2a24-4709-8ce8-49326859a7ff",
+      "grounding": {
+        "box": {
+          "bottom": 0.3587850332260132,
+          "left": 0.14142760634422302,
+          "right": 0.7522639036178589,
+          "top": 0.2715039849281311
+        },
+        "page": 1
+      },
+      "markdown": "<a id='ce470258-2a24-4709-8ce8-49326859a7ff'></a>\n\nHCP Combo Vaccine (1 Year)\nHCP 1 year - Zazzles has been vaccinated with an HCP\n(Rhinotracheitis-Calici-Panleukopenia) vaccination today. It was given in the right front\nleg. The site may be slightly tender for a day or two. If you are concerned about your\ncat's comfort, please call us. This vaccine will need a booster in 1 year. Please call us at\n360-892-1500 to schedule an appointment.",
+      "type": "text"
+    },
+    {
+      "id": "eb8a329f-d1c7-4eaa-9baa-01857fcab43f",
+      "grounding": {
+        "box": {
+          "bottom": 0.4096997380256653,
+          "left": 0.1111437976360321,
+          "right": 0.5680332183837891,
+          "top": 0.3664489984512329
+        },
+        "page": 1
+      },
+      "markdown": "<a id='eb8a329f-d1c7-4eaa-9baa-01857fcab43f'></a>\n\nZazzles's weight history (in lbs)\n<table><thead><tr><th>Col&nbsp;1</th><th>Col&nbsp;2</th></tr></thead><tbody><tr><td>07-27-23</td><td>9.90</td></tr></tbody></table>",
+      "type": "table"
+    },
+    {
+      "id": "ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55",
+      "grounding": {
+        "box": {
+          "bottom": 0.4903180003166199,
+          "left": 0.15780320763587952,
+          "right": 0.7299712896347046,
+          "top": 0.4449028968811035
+        },
+        "page": 1
+      },
+      "markdown": "<a id='ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55'></a>\n\n**If Zazzles leaves with a pressure bandage, or \"band-aid\" in place, please be sure to remove this in 15 minutes or when you arrive at home. Failure to do so can result in swelling of the limb, discomfort, and further complications.**",
+      "type": "text"
+    },
+    {
+      "id": "06c591ec-4ae8-4afe-8a27-65641ac8dff4",
+      "grounding": {
+        "box": {
+          "bottom": 0.5187317132949829,
+          "left": 0.1593550145626068,
+          "right": 0.6983004808425903,
+          "top": 0.49839553236961365
+        },
+        "page": 1
+      },
+      "markdown": "<a id='06c591ec-4ae8-4afe-8a27-65641ac8dff4'></a>\n\nVisit our Online Pharmacy: https://eastpaddenah.securevetsource.com/index.pml",
+      "type": "text"
+    },
+    {
+      "id": "e32b8eb7-fe10-439b-bf63-83c6afb1cf38",
+      "grounding": {
+        "box": {
+          "bottom": 0.5602798461914062,
+          "left": 0.15954184532165527,
+          "right": 0.7438620924949646,
+          "top": 0.5253926515579224
+        },
+        "page": 1
+      },
+      "markdown": "<a id='e32b8eb7-fe10-439b-bf63-83c6afb1cf38'></a>\n\nThank you for choosing East Padden Animal Hospital for all of your pet's medical needs.\nWe appreciate your confidence in our care and welcome any feedback you may have!",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='a24acd30-2126-4953-854b-b4d9635480ea'></a>\n\nINVOICE\n\n<a id='1d7b248e-2235-43d2-a96f-e80d1b81f195'></a>\n\n_East Padden Animal Hospital_\n15721 NE Fourth Plain Blvd.\nVancouver, WA 98682\n360-892-1500\n\n<a id='e30625d8-f317-4f36-b401-49e0c5652d4b'></a>\n\nYour OTHER Family Doctor. We love what we do!\n\n<a id='2dbe995f-69d3-4b81-81fd-295e44ab9561'></a>\n\nFOR: Andrea Kropp\n227 N 5th Ave\nPO Box 1168\nRidgefield, WA 98642\n\n<a id='a5a6334a-ec82-46cc-a892-e1f7ebf6dce0'></a>\n\nPrinted: 08-18-23 at 3:14p\nDate: 08-18-23\nAccount: 41283\n\n<a id='1927aed9-a494-4984-b701-25647d2a975e'></a>\n\nInvoice: 412824\n\n<a id='40966379-6674-4caf-94c1-a6235cddf187'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">For</td><td id=\"0-4\">Qty Description</td><td id=\"0-5\">Price</td><td id=\"0-6\">Discount</td><td id=\"0-7\">Price</td></tr>\n<tr><td id=\"0-8\">08-18-23</td><td id=\"0-9\" colspan=\"4\">Zazzles 2 Selarid Feline 5-15lb Revolution Ge* Apply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.</td><td id=\"0-a\">42.00</td></tr>\n<tr><td id=\"0-b\">08-18-23</td><td id=\"0-c\" colspan=\"3\">1 HCP Combo Vaccine (1 Year) The HCP vaccine was given under the skin of the right front leg.</td><td id=\"0-d\"></td><td id=\"0-e\">45.00</td></tr>\n<tr><td id=\"0-f\">08-18-23</td><td id=\"0-g\" colspan=\"3\">1 Technician Appointment</td><td id=\"0-h\"></td><td id=\"0-i\">0.00</td></tr>\n<tr><td id=\"0-j\">08-18-23</td><td id=\"0-k\" colspan=\"3\">Visa payment</td><td id=\"0-l\"></td><td id=\"0-m\">-90.53</td></tr>\n</table>\n\n<a id='16e0a4ce-ba4f-4980-bace-30618d82186a'></a>\n\nMerchant ID: 4445060632312\nApproval code: 00301D\nTransaction ID: 753403776\nRef #: 153071494\nAct #: ************3800\nEntry: ContactIcc\nCard: VISA\n\n<a id='a4180b9b-4961-466c-aab4-6564ef737bc0'></a>\n\nYour card balance is not available\nI AGREE TO PAY ABOVE TOTAL AMOUNT ACCORDING TO CARD ISSUER AGREEMENT\n\n<a id='19ea1947-1465-4e26-850b-1d5f2562c0e9'></a>\n\n<::attestation: Signature mark\nMark made\nSignature: legible\nReadable Text: X\nA prominent 'X' followed by a long horizontal line, centered horizontally in the image.::>\n\n<a id='e77958b1-73be-40e6-b521-6106c0a2b56b'></a>\n\n<table id=\"0-n\">\n<tr><td id=\"0-o\">Old balance</td><td id=\"0-p\">Charges</td><td id=\"0-q\">Tax</td><td id=\"0-r\">Payments</td><td id=\"0-s\">New balance</td></tr>\n<tr><td id=\"0-t\">0.00</td><td id=\"0-u\">87.00</td><td id=\"0-v\">*3.53</td><td id=\"0-w\">90.53</td><td id=\"0-x\">0.00</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td></tr>\n</table>\n\n<a id='538918d4-16bf-49b0-a692-45eeef120446'></a>\n\n**Patient**\nZazzles\n\n**Total charges**\n90.53\n\n<a id='608e352a-2df9-4101-881a-74aab5116be0'></a>\n\nReminders for: **Zazzles** (Weight: 9.9 lbs - 12y) Last done\n<table id=\"0-D\">\n<tr><td id=\"0-E\">07-28-19</td><td id=\"0-F\">Cardiopet proBNP</td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\">07-28-19</td><td id=\"0-I\">Blood Pressure</td><td id=\"0-J\"></td></tr>\n<tr><td id=\"0-K\">10-17-23</td><td id=\"0-L\">Monthly Topical Parasite Contr</td><td id=\"0-M\">08-18-23</td></tr>\n<tr><td id=\"0-N\">07-26-24</td><td id=\"0-O\">Purevax Rabies Vaccine(1 year)</td><td id=\"0-P\">07-27-23</td></tr>\n<tr><td id=\"0-Q\">07-26-24</td><td id=\"0-R\">Annual Wellness Exam</td><td id=\"0-S\">07-27-23</td></tr>\n</table>\n\n<a id='99d8aea3-3c3b-420b-92cc-535410a03e97'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\" colspan=\"2\">Reminders for: Zazzles (Weight: 9.9 lbs - 12y)</td><td id=\"1-3\">Last done</td></tr>\n<tr><td id=\"1-4\">07-26-24 08-17-24</td><td id=\"1-5\">Annual Labwork HCP Combo Vaccine - 3 year</td><td id=\"1-6\">07-27-23</td></tr>\n</table>\n\n<a id='9da7956d-570d-4a64-a91c-2306ef0eb49e'></a>\n\n**_Doctor's Instructions_**\n\n<a id='ec684082-e03b-441c-abb1-85f9860e827f'></a>\n\nSelarid Feline 5-15lb Revolution Generic\nApply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, ticks, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.\n\n<a id='ce470258-2a24-4709-8ce8-49326859a7ff'></a>\n\nHCP Combo Vaccine (1 Year)\nHCP 1 year - Zazzles has been vaccinated with an HCP\n(Rhinotracheitis-Calici-Panleukopenia) vaccination today. It was given in the right front\nleg. The site may be slightly tender for a day or two. If you are concerned about your\ncat's comfort, please call us. This vaccine will need a booster in 1 year. Please call us at\n360-892-1500 to schedule an appointment.\n\n<a id='eb8a329f-d1c7-4eaa-9baa-01857fcab43f'></a>\n\nZazzles's weight history (in lbs)\n<table><thead><tr><th>Col&nbsp;1</th><th>Col&nbsp;2</th></tr></thead><tbody><tr><td>07-27-23</td><td>9.90</td></tr></tbody></table>\n\n<a id='ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55'></a>\n\n**If Zazzles leaves with a pressure bandage, or \"band-aid\" in place, please be sure to remove this in 15 minutes or when you arrive at home. Failure to do so can result in swelling of the limb, discomfort, and further complications.**\n\n<a id='06c591ec-4ae8-4afe-8a27-65641ac8dff4'></a>\n\nVisit our Online Pharmacy: https://eastpaddenah.securevetsource.com/index.pml\n\n<a id='e32b8eb7-fe10-439b-bf63-83c6afb1cf38'></a>\n\nThank you for choosing East Padden Animal Hospital for all of your pet's medical needs.\nWe appreciate your confidence in our care and welcome any feedback you may have!",
+  "metadata": {
+    "credit_usage": 6.0,
+    "duration_ms": 8643,
+    "filename": "invoice_8.PDF",
+    "job_id": "nw1ibe7drxa2nb992oi3p8gmy",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 2,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "a24acd30-2126-4953-854b-b4d9635480ea",
+        "1d7b248e-2235-43d2-a96f-e80d1b81f195",
+        "e30625d8-f317-4f36-b401-49e0c5652d4b",
+        "2dbe995f-69d3-4b81-81fd-295e44ab9561",
+        "a5a6334a-ec82-46cc-a892-e1f7ebf6dce0",
+        "1927aed9-a494-4984-b701-25647d2a975e",
+        "40966379-6674-4caf-94c1-a6235cddf187",
+        "16e0a4ce-ba4f-4980-bace-30618d82186a",
+        "a4180b9b-4961-466c-aab4-6564ef737bc0",
+        "19ea1947-1465-4e26-850b-1d5f2562c0e9",
+        "e77958b1-73be-40e6-b521-6106c0a2b56b",
+        "538918d4-16bf-49b0-a692-45eeef120446",
+        "608e352a-2df9-4101-881a-74aab5116be0",
+        "99d8aea3-3c3b-420b-92cc-535410a03e97",
+        "9da7956d-570d-4a64-a91c-2306ef0eb49e",
+        "ec684082-e03b-441c-abb1-85f9860e827f",
+        "ce470258-2a24-4709-8ce8-49326859a7ff",
+        "eb8a329f-d1c7-4eaa-9baa-01857fcab43f",
+        "ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55",
+        "06c591ec-4ae8-4afe-8a27-65641ac8dff4",
+        "e32b8eb7-fe10-439b-bf63-83c6afb1cf38"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='a24acd30-2126-4953-854b-b4d9635480ea'></a>\n\nINVOICE\n\n<a id='1d7b248e-2235-43d2-a96f-e80d1b81f195'></a>\n\n_East Padden Animal Hospital_\n15721 NE Fourth Plain Blvd.\nVancouver, WA 98682\n360-892-1500\n\n<a id='e30625d8-f317-4f36-b401-49e0c5652d4b'></a>\n\nYour OTHER Family Doctor. We love what we do!\n\n<a id='2dbe995f-69d3-4b81-81fd-295e44ab9561'></a>\n\nFOR: Andrea Kropp\n227 N 5th Ave\nPO Box 1168\nRidgefield, WA 98642\n\n<a id='a5a6334a-ec82-46cc-a892-e1f7ebf6dce0'></a>\n\nPrinted: 08-18-23 at 3:14p\nDate: 08-18-23\nAccount: 41283\n\n<a id='1927aed9-a494-4984-b701-25647d2a975e'></a>\n\nInvoice: 412824\n\n<a id='40966379-6674-4caf-94c1-a6235cddf187'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Date</td><td id=\"0-3\">For</td><td id=\"0-4\">Qty Description</td><td id=\"0-5\">Price</td><td id=\"0-6\">Discount</td><td id=\"0-7\">Price</td></tr>\n<tr><td id=\"0-8\">08-18-23</td><td id=\"0-9\" colspan=\"4\">Zazzles 2 Selarid Feline 5-15lb Revolution Ge* Apply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.</td><td id=\"0-a\">42.00</td></tr>\n<tr><td id=\"0-b\">08-18-23</td><td id=\"0-c\" colspan=\"3\">1 HCP Combo Vaccine (1 Year) The HCP vaccine was given under the skin of the right front leg.</td><td id=\"0-d\"></td><td id=\"0-e\">45.00</td></tr>\n<tr><td id=\"0-f\">08-18-23</td><td id=\"0-g\" colspan=\"3\">1 Technician Appointment</td><td id=\"0-h\"></td><td id=\"0-i\">0.00</td></tr>\n<tr><td id=\"0-j\">08-18-23</td><td id=\"0-k\" colspan=\"3\">Visa payment</td><td id=\"0-l\"></td><td id=\"0-m\">-90.53</td></tr>\n</table>\n\n<a id='16e0a4ce-ba4f-4980-bace-30618d82186a'></a>\n\nMerchant ID: 4445060632312\nApproval code: 00301D\nTransaction ID: 753403776\nRef #: 153071494\nAct #: ************3800\nEntry: ContactIcc\nCard: VISA\n\n<a id='a4180b9b-4961-466c-aab4-6564ef737bc0'></a>\n\nYour card balance is not available\nI AGREE TO PAY ABOVE TOTAL AMOUNT ACCORDING TO CARD ISSUER AGREEMENT\n\n<a id='19ea1947-1465-4e26-850b-1d5f2562c0e9'></a>\n\n<::attestation: Signature mark\nMark made\nSignature: legible\nReadable Text: X\nA prominent 'X' followed by a long horizontal line, centered horizontally in the image.::>\n\n<a id='e77958b1-73be-40e6-b521-6106c0a2b56b'></a>\n\n<table id=\"0-n\">\n<tr><td id=\"0-o\">Old balance</td><td id=\"0-p\">Charges</td><td id=\"0-q\">Tax</td><td id=\"0-r\">Payments</td><td id=\"0-s\">New balance</td></tr>\n<tr><td id=\"0-t\">0.00</td><td id=\"0-u\">87.00</td><td id=\"0-v\">*3.53</td><td id=\"0-w\">90.53</td><td id=\"0-x\">0.00</td></tr>\n<tr><td id=\"0-y\"></td><td id=\"0-z\"></td><td id=\"0-A\"></td><td id=\"0-B\"></td><td id=\"0-C\"></td></tr>\n</table>\n\n<a id='538918d4-16bf-49b0-a692-45eeef120446'></a>\n\n**Patient**\nZazzles\n\n**Total charges**\n90.53\n\n<a id='608e352a-2df9-4101-881a-74aab5116be0'></a>\n\nReminders for: **Zazzles** (Weight: 9.9 lbs - 12y) Last done\n<table id=\"0-D\">\n<tr><td id=\"0-E\">07-28-19</td><td id=\"0-F\">Cardiopet proBNP</td><td id=\"0-G\"></td></tr>\n<tr><td id=\"0-H\">07-28-19</td><td id=\"0-I\">Blood Pressure</td><td id=\"0-J\"></td></tr>\n<tr><td id=\"0-K\">10-17-23</td><td id=\"0-L\">Monthly Topical Parasite Contr</td><td id=\"0-M\">08-18-23</td></tr>\n<tr><td id=\"0-N\">07-26-24</td><td id=\"0-O\">Purevax Rabies Vaccine(1 year)</td><td id=\"0-P\">07-27-23</td></tr>\n<tr><td id=\"0-Q\">07-26-24</td><td id=\"0-R\">Annual Wellness Exam</td><td id=\"0-S\">07-27-23</td></tr>\n</table>\n\n<a id='99d8aea3-3c3b-420b-92cc-535410a03e97'></a>\n\n<table id=\"1-1\">\n<tr><td id=\"1-2\" colspan=\"2\">Reminders for: Zazzles (Weight: 9.9 lbs - 12y)</td><td id=\"1-3\">Last done</td></tr>\n<tr><td id=\"1-4\">07-26-24 08-17-24</td><td id=\"1-5\">Annual Labwork HCP Combo Vaccine - 3 year</td><td id=\"1-6\">07-27-23</td></tr>\n</table>\n\n<a id='9da7956d-570d-4a64-a91c-2306ef0eb49e'></a>\n\n**_Doctor's Instructions_**\n\n<a id='ec684082-e03b-441c-abb1-85f9860e827f'></a>\n\nSelarid Feline 5-15lb Revolution Generic\nApply contents of one tube (follow label directions for administration technique) to skin once monthly to prevent fleas, ticks, roundworms, hookworms, heartworms, and ear mites. Wait at least 2 hours after application for bathing.\n\n<a id='ce470258-2a24-4709-8ce8-49326859a7ff'></a>\n\nHCP Combo Vaccine (1 Year)\nHCP 1 year - Zazzles has been vaccinated with an HCP\n(Rhinotracheitis-Calici-Panleukopenia) vaccination today. It was given in the right front\nleg. The site may be slightly tender for a day or two. If you are concerned about your\ncat's comfort, please call us. This vaccine will need a booster in 1 year. Please call us at\n360-892-1500 to schedule an appointment.\n\n<a id='eb8a329f-d1c7-4eaa-9baa-01857fcab43f'></a>\n\nZazzles's weight history (in lbs)\n<table><thead><tr><th>Col&nbsp;1</th><th>Col&nbsp;2</th></tr></thead><tbody><tr><td>07-27-23</td><td>9.90</td></tr></tbody></table>\n\n<a id='ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55'></a>\n\n**If Zazzles leaves with a pressure bandage, or \"band-aid\" in place, please be sure to remove this in 15 minutes or when you arrive at home. Failure to do so can result in swelling of the limb, discomfort, and further complications.**\n\n<a id='06c591ec-4ae8-4afe-8a27-65641ac8dff4'></a>\n\nVisit our Online Pharmacy: https://eastpaddenah.securevetsource.com/index.pml\n\n<a id='e32b8eb7-fe10-439b-bf63-83c6afb1cf38'></a>\n\nThank you for choosing East Padden Animal Hospital for all of your pet's medical needs.\nWe appreciate your confidence in our care and welcome any feedback you may have!",
+      "pages": [
+        0,
+        1
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "a24acd30-2126-4953-854b-b4d9635480ea": {
+      "box": {
+        "bottom": 0.0993993878364563,
+        "left": 0.648505687713623,
+        "right": 0.8924366235733032,
+        "top": 0.05987708270549774
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1d7b248e-2235-43d2-a96f-e80d1b81f195": {
+      "box": {
+        "bottom": 0.16577720642089844,
+        "left": 0.11045388877391815,
+        "right": 0.44505274295806885,
+        "top": 0.08873892575502396
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e30625d8-f317-4f36-b401-49e0c5652d4b": {
+      "box": {
+        "bottom": 0.21208135783672333,
+        "left": 0.3117828071117401,
+        "right": 0.6903002262115479,
+        "top": 0.18910838663578033
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "2dbe995f-69d3-4b81-81fd-295e44ab9561": {
+      "box": {
+        "bottom": 0.3027985692024231,
+        "left": 0.1118985265493393,
+        "right": 0.34580886363983154,
+        "top": 0.2351713329553604
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a5a6334a-ec82-46cc-a892-e1f7ebf6dce0": {
+      "box": {
+        "bottom": 0.27267423272132874,
+        "left": 0.664871335029602,
+        "right": 0.8875643014907837,
+        "top": 0.22185461223125458
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "1927aed9-a494-4984-b701-25647d2a975e": {
+      "box": {
+        "bottom": 0.3020061254501343,
+        "left": 0.6643661260604858,
+        "right": 0.8162983655929565,
+        "top": 0.28150027990341187
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "40966379-6674-4caf-94c1-a6235cddf187": {
+      "box": {
+        "bottom": 0.5216607451438904,
+        "left": 0.10764092206954956,
+        "right": 0.8923571705818176,
+        "top": 0.30991435050964355
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.5139402607651178,
+        "left": 0.11427048708680598,
+        "right": 0.8864492131005477,
+        "top": 0.31241545091861417
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3373148198814091,
+        "left": 0.11427048708680598,
+        "right": 0.18869426264685618,
+        "top": 0.31241545091861417
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3373148198814091,
+        "left": 0.18869426264685618,
+        "right": 0.29084744970110066,
+        "top": 0.31241545091861417
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3373148198814091,
+        "left": 0.29084744970110066,
+        "right": 0.6656745221062152,
+        "top": 0.31241545091861417
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3373148198814091,
+        "left": 0.6656745221062152,
+        "right": 0.7172467458244327,
+        "top": 0.31241545091861417
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3373148198814091,
+        "left": 0.7172467458244327,
+        "right": 0.8163030225118462,
+        "top": 0.31241545091861417
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3373148198814091,
+        "left": 0.8163030225118462,
+        "right": 0.8863311119491115,
+        "top": 0.31241545091861417
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.40816570972044275,
+        "left": 0.11427048708680598,
+        "right": 0.18869426264685618,
+        "top": 0.3373148198814091
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.45371411149524477,
+        "left": 0.18869426264685618,
+        "right": 0.8863311119491115,
+        "top": 0.3373148198814091
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.40816570972044275,
+        "left": 0.8163030225118462,
+        "right": 0.8863311119491115,
+        "top": 0.3373148198814091
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.45371411149524477,
+        "left": 0.11427048708680598,
+        "right": 0.18869426264685618,
+        "top": 0.40816570972044275
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.4857021468444067,
+        "left": 0.18869426264685618,
+        "right": 0.8163030225118462,
+        "top": 0.40816570972044275
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.45371411149524477,
+        "left": 0.7172467458244327,
+        "right": 0.8163030225118462,
+        "top": 0.40816570972044275
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.45371411149524477,
+        "left": 0.8163030225118462,
+        "right": 0.8863311119491115,
+        "top": 0.40816570972044275
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.4857021468444067,
+        "left": 0.11427048708680598,
+        "right": 0.18869426264685618,
+        "top": 0.45371411149524477
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.5139402607651178,
+        "left": 0.18869426264685618,
+        "right": 0.8163030225118462,
+        "top": 0.45371411149524477
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4857021468444067,
+        "left": 0.7172467458244327,
+        "right": 0.8163030225118462,
+        "top": 0.45371411149524477
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.4857021468444067,
+        "left": 0.8163030225118462,
+        "right": 0.8863311119491115,
+        "top": 0.45371411149524477
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.5139402607651178,
+        "left": 0.11427048708680598,
+        "right": 0.18869426264685618,
+        "top": 0.4857021468444067
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.5139402607651178,
+        "left": 0.18869426264685618,
+        "right": 0.8163030225118462,
+        "top": 0.4857021468444067
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.5139402607651178,
+        "left": 0.7172467458244327,
+        "right": 0.8163030225118462,
+        "top": 0.4857021468444067
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.5139402607651178,
+        "left": 0.8163030225118462,
+        "right": 0.8863311119491115,
+        "top": 0.4857021468444067
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "16e0a4ce-ba4f-4980-bace-30618d82186a": {
+      "box": {
+        "bottom": 0.5566332340240479,
+        "left": 0.11078664660453796,
+        "right": 0.7374686002731323,
+        "top": 0.5237376689910889
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a4180b9b-4961-466c-aab4-6564ef737bc0": {
+      "box": {
+        "bottom": 0.5911219716072083,
+        "left": 0.1110023558139801,
+        "right": 0.8052910566329956,
+        "top": 0.5554140210151672
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "19ea1947-1465-4e26-850b-1d5f2562c0e9": {
+      "box": {
+        "bottom": 0.6232918500900269,
+        "left": 0.6430811285972595,
+        "right": 0.8892853856086731,
+        "top": 0.5954693555831909
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "e77958b1-73be-40e6-b521-6106c0a2b56b": {
+      "box": {
+        "bottom": 0.7013563513755798,
+        "left": 0.11261692643165588,
+        "right": 0.8897533416748047,
+        "top": 0.6369664072990417
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.6970955435928801,
+        "left": 0.1162688888807413,
+        "right": 0.8856814531255743,
+        "top": 0.6388885130075783
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.6626648680294807,
+        "left": 0.1162688888807413,
+        "right": 0.2416973590900291,
+        "top": 0.6388885130075783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.6626648680294807,
+        "left": 0.2416973590900291,
+        "right": 0.3476043287384458,
+        "top": 0.6388885130075783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.6626648680294807,
+        "left": 0.3476043287384458,
+        "right": 0.44102699444780047,
+        "top": 0.6388885130075783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.6626648680294807,
+        "left": 0.44102699444780047,
+        "right": 0.5582090367368249,
+        "top": 0.6388885130075783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.6626648680294807,
+        "left": 0.5582090367368249,
+        "right": 0.8853292750189627,
+        "top": 0.6388885130075783
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.678927596544284,
+        "left": 0.1162688888807413,
+        "right": 0.2416973590900291,
+        "top": 0.6626648680294807
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.678927596544284,
+        "left": 0.2416973590900291,
+        "right": 0.3476043287384458,
+        "top": 0.6626648680294807
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.678927596544284,
+        "left": 0.3476043287384458,
+        "right": 0.44102699444780047,
+        "top": 0.6626648680294807
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.678927596544284,
+        "left": 0.44102699444780047,
+        "right": 0.5582090367368249,
+        "top": 0.6626648680294807
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.678927596544284,
+        "left": 0.5582090367368249,
+        "right": 0.8853292750189627,
+        "top": 0.6626648680294807
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.6970955435928801,
+        "left": 0.1162688888807413,
+        "right": 0.2416973590900291,
+        "top": 0.678927596544284
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.6970955435928801,
+        "left": 0.2416973590900291,
+        "right": 0.3476043287384458,
+        "top": 0.678927596544284
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.6970955435928801,
+        "left": 0.3476043287384458,
+        "right": 0.44102699444780047,
+        "top": 0.678927596544284
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.6970955435928801,
+        "left": 0.44102699444780047,
+        "right": 0.5582090367368249,
+        "top": 0.678927596544284
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.6970955435928801,
+        "left": 0.5582090367368249,
+        "right": 0.8853292750189627,
+        "top": 0.678927596544284
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "538918d4-16bf-49b0-a692-45eeef120446": {
+      "box": {
+        "bottom": 0.7442029118537903,
+        "left": 0.10851822793483734,
+        "right": 0.4471859931945801,
+        "top": 0.7024720311164856
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "608e352a-2df9-4101-881a-74aab5116be0": {
+      "box": {
+        "bottom": 0.8873994946479797,
+        "left": 0.10837957262992859,
+        "right": 0.6389297246932983,
+        "top": 0.7772925496101379
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.8818731711019439,
+        "left": 0.11670183753173508,
+        "right": 0.6291943164102065,
+        "top": 0.800500134531994
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.8208797787210216,
+        "left": 0.11670183753173508,
+        "right": 0.21012732703468728,
+        "top": 0.800500134531994
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.8208797787210216,
+        "left": 0.21012732703468728,
+        "right": 0.4685189062633306,
+        "top": 0.800500134531994
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.8208797787210216,
+        "left": 0.4685189062633306,
+        "right": 0.6213044411925779,
+        "top": 0.800500134531994
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.8354443668639249,
+        "left": 0.11670183753173508,
+        "right": 0.21012732703468728,
+        "top": 0.8208797787210216
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.8354443668639249,
+        "left": 0.21012732703468728,
+        "right": 0.4685189062633306,
+        "top": 0.8208797787210216
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.8354443668639249,
+        "left": 0.4685189062633306,
+        "right": 0.6213044411925779,
+        "top": 0.8208797787210216
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.8513053250307223,
+        "left": 0.11670183753173508,
+        "right": 0.21012732703468728,
+        "top": 0.8354443668639249
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.8513053250307223,
+        "left": 0.21012732703468728,
+        "right": 0.4685189062633306,
+        "top": 0.8354443668639249
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.8513053250307223,
+        "left": 0.4685189062633306,
+        "right": 0.6213044411925779,
+        "top": 0.8354443668639249
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.865884656695556,
+        "left": 0.11670183753173508,
+        "right": 0.21012732703468728,
+        "top": 0.8513053250307223
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.865884656695556,
+        "left": 0.21012732703468728,
+        "right": 0.4685189062633306,
+        "top": 0.8513053250307223
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.865884656695556,
+        "left": 0.4685189062633306,
+        "right": 0.6213044411925779,
+        "top": 0.8513053250307223
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.8818731711019439,
+        "left": 0.11670183753173508,
+        "right": 0.21012732703468728,
+        "top": 0.865884656695556
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.8818731711019439,
+        "left": 0.21012732703468728,
+        "right": 0.4685189062633306,
+        "top": 0.865884656695556
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.8818731711019439,
+        "left": 0.4685189062633306,
+        "right": 0.6213044411925779,
+        "top": 0.865884656695556
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "99d8aea3-3c3b-420b-92cc-535410a03e97": {
+      "box": {
+        "bottom": 0.14777608215808868,
+        "left": 0.11084091663360596,
+        "right": 0.6324667930603027,
+        "top": 0.0872635543346405
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "1-1": {
+      "box": {
+        "bottom": 0.14777571065483297,
+        "left": 0.11637239516630526,
+        "right": 0.6241128338359019,
+        "top": 0.09044621168043149
+      },
+      "page": 1,
+      "type": "table"
+    },
+    "1-2": {
+      "box": {
+        "bottom": 0.14777571065483297,
+        "left": 0.11637239516630526,
+        "right": 0.6241999517287482,
+        "top": 0.09044621168043149
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-3": {
+      "box": {
+        "bottom": 0.10938928013661053,
+        "left": 0.4594571248631212,
+        "right": 0.6241999517287482,
+        "top": 0.09044621168043149
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-4": {
+      "box": {
+        "bottom": 0.14777571065483297,
+        "left": 0.11637239516630526,
+        "right": 0.2198881817425029,
+        "top": 0.10938928013661053
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-5": {
+      "box": {
+        "bottom": 0.14777571065483297,
+        "left": 0.2198881817425029,
+        "right": 0.4594571248631212,
+        "top": 0.10938928013661053
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "1-6": {
+      "box": {
+        "bottom": 0.14777571065483297,
+        "left": 0.4594571248631212,
+        "right": 0.6241999517287482,
+        "top": 0.10938928013661053
+      },
+      "page": 1,
+      "type": "tableCell"
+    },
+    "9da7956d-570d-4a64-a91c-2306ef0eb49e": {
+      "box": {
+        "bottom": 0.1931646764278412,
+        "left": 0.11036616563796997,
+        "right": 0.30907732248306274,
+        "top": 0.17099395394325256
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "ec684082-e03b-441c-abb1-85f9860e827f": {
+      "box": {
+        "bottom": 0.26389002799987793,
+        "left": 0.1408413052558899,
+        "right": 0.7300625443458557,
+        "top": 0.20298194885253906
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "ce470258-2a24-4709-8ce8-49326859a7ff": {
+      "box": {
+        "bottom": 0.3587850332260132,
+        "left": 0.14142760634422302,
+        "right": 0.7522639036178589,
+        "top": 0.2715039849281311
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "eb8a329f-d1c7-4eaa-9baa-01857fcab43f": {
+      "box": {
+        "bottom": 0.4096997380256653,
+        "left": 0.1111437976360321,
+        "right": 0.5680332183837891,
+        "top": 0.3664489984512329
+      },
+      "page": 1,
+      "type": "chunkTable"
+    },
+    "ee61e70b-ecc1-4808-94d8-ce3a0b4b2e55": {
+      "box": {
+        "bottom": 0.4903180003166199,
+        "left": 0.15780320763587952,
+        "right": 0.7299712896347046,
+        "top": 0.4449028968811035
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "06c591ec-4ae8-4afe-8a27-65641ac8dff4": {
+      "box": {
+        "bottom": 0.5187317132949829,
+        "left": 0.1593550145626068,
+        "right": 0.6983004808425903,
+        "top": 0.49839553236961365
+      },
+      "page": 1,
+      "type": "chunkText"
+    },
+    "e32b8eb7-fe10-439b-bf63-83c6afb1cf38": {
+      "box": {
+        "bottom": 0.5602798461914062,
+        "left": 0.15954184532165527,
+        "right": 0.7438620924949646,
+        "top": 0.5253926515579224
+      },
+      "page": 1,
+      "type": "chunkText"
+    }
+  }
+}

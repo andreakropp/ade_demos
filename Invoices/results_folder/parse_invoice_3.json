@@ -1,0 +1,539 @@
+{
+  "chunks": [
+    {
+      "id": "fd5b0e1d-1107-4fc7-b2a5-3362de6475ec",
+      "grounding": {
+        "box": {
+          "bottom": 0.1374884843826294,
+          "left": 0.02234107255935669,
+          "right": 0.33442193269729614,
+          "top": 0.040314625948667526
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fd5b0e1d-1107-4fc7-b2a5-3362de6475ec'></a>\n\nCUSTOM ELECTRIC & PLUMBING, INC.\nPO Box 533\nSummerfield, NC 27358\n336.701.5589\nMat@CustomEandP.com\nwww.ElectricianOrPlumber.com",
+      "type": "text"
+    },
+    {
+      "id": "0d49aa35-b748-4bed-b22b-71899474ce75",
+      "grounding": {
+        "box": {
+          "bottom": 0.18766160309314728,
+          "left": 0.6994085907936096,
+          "right": 0.9696045517921448,
+          "top": 0.038081660866737366
+        },
+        "page": 0
+      },
+      "markdown": "<a id='0d49aa35-b748-4bed-b22b-71899474ce75'></a>\n\n<::logo: Custom Electric & Plumbing, Inc.\nCUSTOM ELECTRIC & PLUMBING, INC.\nThe logo features a large stylized 'C' and 'P' with \"CUSTOM ELECTRIC\" above \"PLUMBING, INC.\", and a lightbulb replacing the 'O' in \"CUSTOM\" and a pipe with a wrench and faucet handle forming the base for \"PLUMBING, INC.\"::>",
+      "type": "logo"
+    },
+    {
+      "id": "7a86bfa3-8d49-4693-8304-0b5e6848c859",
+      "grounding": {
+        "box": {
+          "bottom": 0.24203406274318695,
+          "left": 0.023272253572940826,
+          "right": 0.12188955396413803,
+          "top": 0.21905489265918732
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7a86bfa3-8d49-4693-8304-0b5e6848c859'></a>\n\nINVOICE",
+      "type": "text"
+    },
+    {
+      "id": "33cab779-5375-43f6-bb7f-ed6236366085",
+      "grounding": {
+        "box": {
+          "bottom": 0.3138732314109802,
+          "left": 0.0227242112159729,
+          "right": 0.21225789189338684,
+          "top": 0.2492464780807495
+        },
+        "page": 0
+      },
+      "markdown": "<a id='33cab779-5375-43f6-bb7f-ed6236366085'></a>\n\nBILL TO\nLeo Vincent\n1000 Sarah Dr\nSummerfield, NC 27358 USA",
+      "type": "text"
+    },
+    {
+      "id": "9f8a6493-c658-4b66-9f16-cccf9d1d824c",
+      "grounding": {
+        "box": {
+          "bottom": 0.3005737066268921,
+          "left": 0.6557497978210449,
+          "right": 0.8742927312850952,
+          "top": 0.24799035489559174
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9f8a6493-c658-4b66-9f16-cccf9d1d824c'></a>\n\nINVOICE: 52255\nDATE: 10/03/2022\nDUE DATE: 11/01/2022",
+      "type": "text"
+    },
+    {
+      "id": "e9543de5-c4dd-4f9f-a17c-371fa3404612",
+      "grounding": {
+        "box": {
+          "bottom": 0.36012789607048035,
+          "left": 0.023406073451042175,
+          "right": 0.10722202062606812,
+          "top": 0.3280051648616791
+        },
+        "page": 0
+      },
+      "markdown": "<a id='e9543de5-c4dd-4f9f-a17c-371fa3404612'></a>\n\nSALES REP\nMathew",
+      "type": "text"
+    },
+    {
+      "id": "002bc825-c31c-4b1f-82e4-462093d29bea",
+      "grounding": {
+        "box": {
+          "bottom": 0.7787612676620483,
+          "left": 0.02458798885345459,
+          "right": 0.9765719175338745,
+          "top": 0.3710770606994629
+        },
+        "page": 0
+      },
+      "markdown": "<a id='002bc825-c31c-4b1f-82e4-462093d29bea'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\">QTY</td><td id=\"0-4\">RATE</td><td id=\"0-5\">AMOUNT</td></tr>\n<tr><td id=\"0-6\">Provide and install new 60 Amp 240Vac breaker and 6/2 Copper SE cable feeding new Tesla Wall connector. Install new customer supplied Tesla wall connector. Note: drywall may need to be cut to facilitate work. No drywall repairs or painting are included in this quote.</td><td id=\"0-7\">1</td><td id=\"0-8\">1,400.00</td><td id=\"0-9\">1,400.00</td></tr>\n<tr><td id=\"0-a\">Permit and inspection fees</td><td id=\"0-b\">1</td><td id=\"0-c\">150.00</td><td id=\"0-d\">150.00</td></tr>\n<tr><td id=\"0-e\">Payment Terms: by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.</td><td id=\"0-f\">1</td><td id=\"0-g\">0.00</td><td id=\"0-h\">0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "6cc10536-c31c-4ba4-91e1-fb001cdb8a46",
+      "grounding": {
+        "box": {
+          "bottom": 0.8919872045516968,
+          "left": 0.025145575404167175,
+          "right": 0.4417579174041748,
+          "top": 0.7953325510025024
+        },
+        "page": 0
+      },
+      "markdown": "<a id='6cc10536-c31c-4ba4-91e1-fb001cdb8a46'></a>\n\nThank you for supporting your local veteran owned and operated small business.",
+      "type": "text"
+    },
+    {
+      "id": "15222186-0643-4f88-bc7b-3993aaf4c05f",
+      "grounding": {
+        "box": {
+          "bottom": 0.9060559868812561,
+          "left": 0.4763370454311371,
+          "right": 0.9771872758865356,
+          "top": 0.7919626832008362
+        },
+        "page": 0
+      },
+      "markdown": "<a id='15222186-0643-4f88-bc7b-3993aaf4c05f'></a>\n\n<table id=\"0-i\">\n<tr><td id=\"0-j\">SUBTOTAL</td><td id=\"0-k\">1,550.00</td></tr>\n<tr><td id=\"0-l\">TAX</td><td id=\"0-m\">0.00</td></tr>\n<tr><td id=\"0-n\">TOTAL</td><td id=\"0-o\">1,550.00</td></tr>\n<tr><td id=\"0-p\">BALANCE DUE</td><td id=\"0-q\">$1,550.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "45691d40-ffda-4cbb-845b-3acdd67bed38",
+      "grounding": {
+        "box": {
+          "bottom": 0.984345555305481,
+          "left": 0.4656218886375427,
+          "right": 0.5357179045677185,
+          "top": 0.9667644500732422
+        },
+        "page": 0
+      },
+      "markdown": "<a id='45691d40-ffda-4cbb-845b-3acdd67bed38'></a>\n\nPage 1 of 1",
+      "type": "marginalia"
+    }
+  ],
+  "markdown": "<a id='fd5b0e1d-1107-4fc7-b2a5-3362de6475ec'></a>\n\nCUSTOM ELECTRIC & PLUMBING, INC.\nPO Box 533\nSummerfield, NC 27358\n336.701.5589\nMat@CustomEandP.com\nwww.ElectricianOrPlumber.com\n\n<a id='0d49aa35-b748-4bed-b22b-71899474ce75'></a>\n\n<::logo: Custom Electric & Plumbing, Inc.\nCUSTOM ELECTRIC & PLUMBING, INC.\nThe logo features a large stylized 'C' and 'P' with \"CUSTOM ELECTRIC\" above \"PLUMBING, INC.\", and a lightbulb replacing the 'O' in \"CUSTOM\" and a pipe with a wrench and faucet handle forming the base for \"PLUMBING, INC.\"::>\n\n<a id='7a86bfa3-8d49-4693-8304-0b5e6848c859'></a>\n\nINVOICE\n\n<a id='33cab779-5375-43f6-bb7f-ed6236366085'></a>\n\nBILL TO\nLeo Vincent\n1000 Sarah Dr\nSummerfield, NC 27358 USA\n\n<a id='9f8a6493-c658-4b66-9f16-cccf9d1d824c'></a>\n\nINVOICE: 52255\nDATE: 10/03/2022\nDUE DATE: 11/01/2022\n\n<a id='e9543de5-c4dd-4f9f-a17c-371fa3404612'></a>\n\nSALES REP\nMathew\n\n<a id='002bc825-c31c-4b1f-82e4-462093d29bea'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\">QTY</td><td id=\"0-4\">RATE</td><td id=\"0-5\">AMOUNT</td></tr>\n<tr><td id=\"0-6\">Provide and install new 60 Amp 240Vac breaker and 6/2 Copper SE cable feeding new Tesla Wall connector. Install new customer supplied Tesla wall connector. Note: drywall may need to be cut to facilitate work. No drywall repairs or painting are included in this quote.</td><td id=\"0-7\">1</td><td id=\"0-8\">1,400.00</td><td id=\"0-9\">1,400.00</td></tr>\n<tr><td id=\"0-a\">Permit and inspection fees</td><td id=\"0-b\">1</td><td id=\"0-c\">150.00</td><td id=\"0-d\">150.00</td></tr>\n<tr><td id=\"0-e\">Payment Terms: by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.</td><td id=\"0-f\">1</td><td id=\"0-g\">0.00</td><td id=\"0-h\">0.00</td></tr>\n</table>\n\n<a id='6cc10536-c31c-4ba4-91e1-fb001cdb8a46'></a>\n\nThank you for supporting your local veteran owned and operated small business.\n\n<a id='15222186-0643-4f88-bc7b-3993aaf4c05f'></a>\n\n<table id=\"0-i\">\n<tr><td id=\"0-j\">SUBTOTAL</td><td id=\"0-k\">1,550.00</td></tr>\n<tr><td id=\"0-l\">TAX</td><td id=\"0-m\">0.00</td></tr>\n<tr><td id=\"0-n\">TOTAL</td><td id=\"0-o\">1,550.00</td></tr>\n<tr><td id=\"0-p\">BALANCE DUE</td><td id=\"0-q\">$1,550.00</td></tr>\n</table>\n\n<a id='45691d40-ffda-4cbb-845b-3acdd67bed38'></a>\n\nPage 1 of 1",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 7094,
+    "filename": "invoice_3.pdf",
+    "job_id": "udba054s3vtm5ov15gmk010g1",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "fd5b0e1d-1107-4fc7-b2a5-3362de6475ec",
+        "0d49aa35-b748-4bed-b22b-71899474ce75",
+        "7a86bfa3-8d49-4693-8304-0b5e6848c859",
+        "33cab779-5375-43f6-bb7f-ed6236366085",
+        "9f8a6493-c658-4b66-9f16-cccf9d1d824c",
+        "e9543de5-c4dd-4f9f-a17c-371fa3404612",
+        "002bc825-c31c-4b1f-82e4-462093d29bea",
+        "6cc10536-c31c-4ba4-91e1-fb001cdb8a46",
+        "15222186-0643-4f88-bc7b-3993aaf4c05f",
+        "45691d40-ffda-4cbb-845b-3acdd67bed38"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='fd5b0e1d-1107-4fc7-b2a5-3362de6475ec'></a>\n\nCUSTOM ELECTRIC & PLUMBING, INC.\nPO Box 533\nSummerfield, NC 27358\n336.701.5589\nMat@CustomEandP.com\nwww.ElectricianOrPlumber.com\n\n<a id='0d49aa35-b748-4bed-b22b-71899474ce75'></a>\n\n<::logo: Custom Electric & Plumbing, Inc.\nCUSTOM ELECTRIC & PLUMBING, INC.\nThe logo features a large stylized 'C' and 'P' with \"CUSTOM ELECTRIC\" above \"PLUMBING, INC.\", and a lightbulb replacing the 'O' in \"CUSTOM\" and a pipe with a wrench and faucet handle forming the base for \"PLUMBING, INC.\"::>\n\n<a id='7a86bfa3-8d49-4693-8304-0b5e6848c859'></a>\n\nINVOICE\n\n<a id='33cab779-5375-43f6-bb7f-ed6236366085'></a>\n\nBILL TO\nLeo Vincent\n1000 Sarah Dr\nSummerfield, NC 27358 USA\n\n<a id='9f8a6493-c658-4b66-9f16-cccf9d1d824c'></a>\n\nINVOICE: 52255\nDATE: 10/03/2022\nDUE DATE: 11/01/2022\n\n<a id='e9543de5-c4dd-4f9f-a17c-371fa3404612'></a>\n\nSALES REP\nMathew\n\n<a id='002bc825-c31c-4b1f-82e4-462093d29bea'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">DESCRIPTION</td><td id=\"0-3\">QTY</td><td id=\"0-4\">RATE</td><td id=\"0-5\">AMOUNT</td></tr>\n<tr><td id=\"0-6\">Provide and install new 60 Amp 240Vac breaker and 6/2 Copper SE cable feeding new Tesla Wall connector. Install new customer supplied Tesla wall connector. Note: drywall may need to be cut to facilitate work. No drywall repairs or painting are included in this quote.</td><td id=\"0-7\">1</td><td id=\"0-8\">1,400.00</td><td id=\"0-9\">1,400.00</td></tr>\n<tr><td id=\"0-a\">Permit and inspection fees</td><td id=\"0-b\">1</td><td id=\"0-c\">150.00</td><td id=\"0-d\">150.00</td></tr>\n<tr><td id=\"0-e\">Payment Terms: by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.</td><td id=\"0-f\">1</td><td id=\"0-g\">0.00</td><td id=\"0-h\">0.00</td></tr>\n</table>\n\n<a id='6cc10536-c31c-4ba4-91e1-fb001cdb8a46'></a>\n\nThank you for supporting your local veteran owned and operated small business.\n\n<a id='15222186-0643-4f88-bc7b-3993aaf4c05f'></a>\n\n<table id=\"0-i\">\n<tr><td id=\"0-j\">SUBTOTAL</td><td id=\"0-k\">1,550.00</td></tr>\n<tr><td id=\"0-l\">TAX</td><td id=\"0-m\">0.00</td></tr>\n<tr><td id=\"0-n\">TOTAL</td><td id=\"0-o\">1,550.00</td></tr>\n<tr><td id=\"0-p\">BALANCE DUE</td><td id=\"0-q\">$1,550.00</td></tr>\n</table>\n\n<a id='45691d40-ffda-4cbb-845b-3acdd67bed38'></a>\n\nPage 1 of 1",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "fd5b0e1d-1107-4fc7-b2a5-3362de6475ec": {
+      "box": {
+        "bottom": 0.1374884843826294,
+        "left": 0.02234107255935669,
+        "right": 0.33442193269729614,
+        "top": 0.040314625948667526
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "0d49aa35-b748-4bed-b22b-71899474ce75": {
+      "box": {
+        "bottom": 0.18766160309314728,
+        "left": 0.6994085907936096,
+        "right": 0.9696045517921448,
+        "top": 0.038081660866737366
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "7a86bfa3-8d49-4693-8304-0b5e6848c859": {
+      "box": {
+        "bottom": 0.24203406274318695,
+        "left": 0.023272253572940826,
+        "right": 0.12188955396413803,
+        "top": 0.21905489265918732
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "33cab779-5375-43f6-bb7f-ed6236366085": {
+      "box": {
+        "bottom": 0.3138732314109802,
+        "left": 0.0227242112159729,
+        "right": 0.21225789189338684,
+        "top": 0.2492464780807495
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9f8a6493-c658-4b66-9f16-cccf9d1d824c": {
+      "box": {
+        "bottom": 0.3005737066268921,
+        "left": 0.6557497978210449,
+        "right": 0.8742927312850952,
+        "top": 0.24799035489559174
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "e9543de5-c4dd-4f9f-a17c-371fa3404612": {
+      "box": {
+        "bottom": 0.36012789607048035,
+        "left": 0.023406073451042175,
+        "right": 0.10722202062606812,
+        "top": 0.3280051648616791
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "002bc825-c31c-4b1f-82e4-462093d29bea": {
+      "box": {
+        "bottom": 0.7787612676620483,
+        "left": 0.02458798885345459,
+        "right": 0.9765719175338745,
+        "top": 0.3710770606994629
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.7736805045546902,
+        "left": 0.029740145601095502,
+        "right": 0.9708790962926912,
+        "top": 0.3759696099050094
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.40045731645785754,
+        "left": 0.029740145601095502,
+        "right": 0.6773800504572876,
+        "top": 0.3759696099050094
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.40045731645785754,
+        "left": 0.6773800504572876,
+        "right": 0.7554818446463969,
+        "top": 0.3759696099050094
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.40045731645785754,
+        "left": 0.7554818446463969,
+        "right": 0.8296154541209262,
+        "top": 0.3759696099050094
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.40045731645785754,
+        "left": 0.8296154541209262,
+        "right": 0.9705669548985725,
+        "top": 0.3759696099050094
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.4834549064035869,
+        "left": 0.029740145601095502,
+        "right": 0.6773800504572876,
+        "top": 0.40045731645785754
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.4834549064035869,
+        "left": 0.6773800504572876,
+        "right": 0.7554818446463969,
+        "top": 0.40045731645785754
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.4834549064035869,
+        "left": 0.7554818446463969,
+        "right": 0.8296154541209262,
+        "top": 0.40045731645785754
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4834549064035869,
+        "left": 0.8296154541209262,
+        "right": 0.9705669548985725,
+        "top": 0.40045731645785754
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.5076082869597478,
+        "left": 0.029740145601095502,
+        "right": 0.6773800504572876,
+        "top": 0.4834549064035869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.5076082869597478,
+        "left": 0.6773800504572876,
+        "right": 0.7554818446463969,
+        "top": 0.4834549064035869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.5076082869597478,
+        "left": 0.7554818446463969,
+        "right": 0.8296154541209262,
+        "top": 0.4834549064035869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.5076082869597478,
+        "left": 0.8296154541209262,
+        "right": 0.9705669548985725,
+        "top": 0.4834549064035869
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.7736805045546902,
+        "left": 0.029740145601095502,
+        "right": 0.6773800504572876,
+        "top": 0.5076082869597478
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.7736805045546902,
+        "left": 0.6773800504572876,
+        "right": 0.7554818446463969,
+        "top": 0.5076082869597478
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.7736805045546902,
+        "left": 0.7554818446463969,
+        "right": 0.8296154541209262,
+        "top": 0.5076082869597478
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.7736805045546902,
+        "left": 0.8296154541209262,
+        "right": 0.9705669548985725,
+        "top": 0.5076082869597478
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "6cc10536-c31c-4ba4-91e1-fb001cdb8a46": {
+      "box": {
+        "bottom": 0.8919872045516968,
+        "left": 0.025145575404167175,
+        "right": 0.4417579174041748,
+        "top": 0.7953325510025024
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "15222186-0643-4f88-bc7b-3993aaf4c05f": {
+      "box": {
+        "bottom": 0.9060559868812561,
+        "left": 0.4763370454311371,
+        "right": 0.9771872758865356,
+        "top": 0.7919626832008362
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.9026887374442367,
+        "left": 0.48351623249211584,
+        "right": 0.9695511471451272,
+        "top": 0.797546251704496
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.8151023563465429,
+        "left": 0.48351623249211584,
+        "right": 0.6008895009706454,
+        "top": 0.797546251704496
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.8151023563465429,
+        "left": 0.6008895009706454,
+        "right": 0.9693182340385658,
+        "top": 0.797546251704496
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.838211723104834,
+        "left": 0.48351623249211584,
+        "right": 0.6008895009706454,
+        "top": 0.8151023563465429
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.838211723104834,
+        "left": 0.6008895009706454,
+        "right": 0.9693182340385658,
+        "top": 0.8151023563465429
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.8710059170821864,
+        "left": 0.48351623249211584,
+        "right": 0.6008895009706454,
+        "top": 0.838211723104834
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.8710059170821864,
+        "left": 0.6008895009706454,
+        "right": 0.9693182340385658,
+        "top": 0.838211723104834
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.9026887374442367,
+        "left": 0.48351623249211584,
+        "right": 0.6008895009706454,
+        "top": 0.8710059170821864
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.9026887374442367,
+        "left": 0.6008895009706454,
+        "right": 0.9693182340385658,
+        "top": 0.8710059170821864
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "45691d40-ffda-4cbb-845b-3acdd67bed38": {
+      "box": {
+        "bottom": 0.984345555305481,
+        "left": 0.4656218886375427,
+        "right": 0.5357179045677185,
+        "top": 0.9667644500732422
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    }
+  }
+}

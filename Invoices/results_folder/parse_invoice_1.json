@@ -1,0 +1,794 @@
+{
+  "chunks": [
+    {
+      "id": "b4914c55-403e-4f5d-a39d-ce4f12ffe632",
+      "grounding": {
+        "box": {
+          "bottom": 0.05794680491089821,
+          "left": 0.08026599884033203,
+          "right": 0.22372639179229736,
+          "top": 0.019250627607107162
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b4914c55-403e-4f5d-a39d-ce4f12ffe632'></a>\n\n<::logo: Zoom\nzoom\nThe logo features the word \"zoom\" in a stylized, lowercase, sans-serif font, rendered in a medium gray color.::>",
+      "type": "logo"
+    },
+    {
+      "id": "7ede7c75-d672-4d39-ab79-472c237b4f26",
+      "grounding": {
+        "box": {
+          "bottom": 0.05059296637773514,
+          "left": 0.7920073866844177,
+          "right": 0.887368381023407,
+          "top": 0.02749837189912796
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7ede7c75-d672-4d39-ab79-472c237b4f26'></a>\n\n",
+      "type": "marginalia"
+    },
+    {
+      "id": "4d9c1e5e-8c52-4073-9c62-052ac1edaa45",
+      "grounding": {
+        "box": {
+          "bottom": 0.17177818715572357,
+          "left": 0.08041708916425705,
+          "right": 0.29107004404067993,
+          "top": 0.11402059346437454
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4d9c1e5e-8c52-4073-9c62-052ac1edaa45'></a>\n\nZoom Video Communications Inc.\n55 Almaden Blvd, 6th Floor\nSan Jose, CA 95113\nbilling@zoom.us",
+      "type": "text"
+    },
+    {
+      "id": "c3750b16-035e-466c-8421-a0fd3af66589",
+      "grounding": {
+        "box": {
+          "bottom": 0.2614942491054535,
+          "left": 0.48799511790275574,
+          "right": 0.8308323621749878,
+          "top": 0.11438507586717606
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c3750b16-035e-466c-8421-a0fd3af66589'></a>\n\nInvoice Date: 07/29/2020\nInvoice #: INV33543191\nPayment Terms: Due Upon Receipt\nDue Date: 07/29/2020\nAccount Number: 3003959185\nCurrency: USD\nAccount Information: Abaxys Tech LLC\n1061 Midvale Ave,\nMorrisville, North Carolina 27560\nUnited States\n\nleo.charles@outlook.com",
+      "type": "text"
+    },
+    {
+      "id": "bf829c21-01e8-4355-91b6-74175f74be9b",
+      "grounding": {
+        "box": {
+          "bottom": 0.32542896270751953,
+          "left": 0.08024725317955017,
+          "right": 0.2426876723766327,
+          "top": 0.2439139485359192
+        },
+        "page": 0
+      },
+      "markdown": "<a id='bf829c21-01e8-4355-91b6-74175f74be9b'></a>\n\nPurchase Order Number:\n\nTaxExemptCertificateID:\n\nZoom W-9",
+      "type": "text"
+    },
+    {
+      "id": "8629b24b-540c-4175-96d4-2e4b16b55b63",
+      "grounding": {
+        "box": {
+          "bottom": 0.48815441131591797,
+          "left": 0.07352882623672485,
+          "right": 0.9261178374290466,
+          "top": 0.3482363820075989
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8629b24b-540c-4175-96d4-2e4b16b55b63'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">CHARGE DETAILS</td></tr>\n<tr><td id=\"0-3\">Charge Description</td><td id=\"0-4\">Service Period</td><td id=\"0-5\">Subtotal</td><td id=\"0-6\">Tax</td><td id=\"0-7\">TOTAL</td></tr>\n<tr><td id=\"0-8\">Charge Name: Standard Pro Annual Quantity: 1 Unit Price: $149.90</td><td id=\"0-9\">07/29/2020-07/28/2021</td><td id=\"0-a\">$149.90</td><td id=\"0-b\">$0.00</td><td id=\"0-c\">$149.90</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "dc878768-5a10-4ef2-b12e-bc62d909426f",
+      "grounding": {
+        "box": {
+          "bottom": 0.644868016242981,
+          "left": 0.07345104217529297,
+          "right": 0.9257943630218506,
+          "top": 0.5179883241653442
+        },
+        "page": 0
+      },
+      "markdown": "<a id='dc878768-5a10-4ef2-b12e-bc62d909426f'></a>\n\n<table id=\"0-d\">\n<tr><td id=\"0-e\">INVOICE TOTALS</td><td id=\"0-f\"></td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\" rowspan=\"3\"></td><td id=\"0-i\">Subtotal:</td><td id=\"0-j\">$149.90</td></tr>\n<tr><td id=\"0-k\">Total (Including Tax):</td><td id=\"0-l\">$149.90</td></tr>\n<tr><td id=\"0-m\">Invoice Balance:</td><td id=\"0-n\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "2ef25aac-3165-4644-93ab-7725916742e7",
+      "grounding": {
+        "box": {
+          "bottom": 0.7314551472663879,
+          "left": 0.0746067464351654,
+          "right": 0.9229556322097778,
+          "top": 0.6538018584251404
+        },
+        "page": 0
+      },
+      "markdown": "<a id='2ef25aac-3165-4644-93ab-7725916742e7'></a>\n\n<table id=\"0-o\">\n<tr><td id=\"0-p\" colspan=\"5\">TAX DETAILS</td></tr>\n<tr><td id=\"0-q\">Charge Name</td><td id=\"0-r\">Tax Name</td><td id=\"0-s\">Jurisdiction</td><td id=\"0-t\">Charge Amount</td><td id=\"0-u\">Tax Amount</td></tr>\n<tr><td id=\"0-v\" colspan=\"3\"></td><td id=\"0-w\">Total Tax</td><td id=\"0-x\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "718ed76e-1673-4674-afd1-3392d905a629",
+      "grounding": {
+        "box": {
+          "bottom": 0.8991341590881348,
+          "left": 0.07401517033576965,
+          "right": 0.9247109889984131,
+          "top": 0.7617839574813843
+        },
+        "page": 0
+      },
+      "markdown": "<a id='718ed76e-1673-4674-afd1-3392d905a629'></a>\n\n<table id=\"0-y\">\n<tr><td id=\"0-z\" colspan=\"6\">TRANSACTIONS</td></tr>\n<tr><td id=\"0-A\" colspan=\"5\">Invoice Total</td><td id=\"0-B\">$149.90</td></tr>\n<tr><td id=\"0-C\">Transaction Date</td><td id=\"0-D\">Transaction Number</td><td id=\"0-E\">Transaction Type</td><td id=\"0-F\" colspan=\"2\">Description</td><td id=\"0-G\">Applied Amount</td></tr>\n<tr><td id=\"0-H\">07/29/2020</td><td id=\"0-I\">P-35558908</td><td id=\"0-J\">Payment</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\">($149.90)</td></tr>\n<tr><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td><td id=\"0-Q\"></td><td id=\"0-R\">Invoice Balance</td><td id=\"0-S\">$0.00</td></tr>\n</table>",
+      "type": "table"
+    }
+  ],
+  "markdown": "<a id='b4914c55-403e-4f5d-a39d-ce4f12ffe632'></a>\n\n<::logo: Zoom\nzoom\nThe logo features the word \"zoom\" in a stylized, lowercase, sans-serif font, rendered in a medium gray color.::>\n\n<a id='7ede7c75-d672-4d39-ab79-472c237b4f26'></a>\n\n\n\n<a id='4d9c1e5e-8c52-4073-9c62-052ac1edaa45'></a>\n\nZoom Video Communications Inc.\n55 Almaden Blvd, 6th Floor\nSan Jose, CA 95113\nbilling@zoom.us\n\n<a id='c3750b16-035e-466c-8421-a0fd3af66589'></a>\n\nInvoice Date: 07/29/2020\nInvoice #: INV33543191\nPayment Terms: Due Upon Receipt\nDue Date: 07/29/2020\nAccount Number: 3003959185\nCurrency: USD\nAccount Information: Abaxys Tech LLC\n1061 Midvale Ave,\nMorrisville, North Carolina 27560\nUnited States\n\nleo.charles@outlook.com\n\n<a id='bf829c21-01e8-4355-91b6-74175f74be9b'></a>\n\nPurchase Order Number:\n\nTaxExemptCertificateID:\n\nZoom W-9\n\n<a id='8629b24b-540c-4175-96d4-2e4b16b55b63'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">CHARGE DETAILS</td></tr>\n<tr><td id=\"0-3\">Charge Description</td><td id=\"0-4\">Service Period</td><td id=\"0-5\">Subtotal</td><td id=\"0-6\">Tax</td><td id=\"0-7\">TOTAL</td></tr>\n<tr><td id=\"0-8\">Charge Name: Standard Pro Annual Quantity: 1 Unit Price: $149.90</td><td id=\"0-9\">07/29/2020-07/28/2021</td><td id=\"0-a\">$149.90</td><td id=\"0-b\">$0.00</td><td id=\"0-c\">$149.90</td></tr>\n</table>\n\n<a id='dc878768-5a10-4ef2-b12e-bc62d909426f'></a>\n\n<table id=\"0-d\">\n<tr><td id=\"0-e\">INVOICE TOTALS</td><td id=\"0-f\"></td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\" rowspan=\"3\"></td><td id=\"0-i\">Subtotal:</td><td id=\"0-j\">$149.90</td></tr>\n<tr><td id=\"0-k\">Total (Including Tax):</td><td id=\"0-l\">$149.90</td></tr>\n<tr><td id=\"0-m\">Invoice Balance:</td><td id=\"0-n\">$0.00</td></tr>\n</table>\n\n<a id='2ef25aac-3165-4644-93ab-7725916742e7'></a>\n\n<table id=\"0-o\">\n<tr><td id=\"0-p\" colspan=\"5\">TAX DETAILS</td></tr>\n<tr><td id=\"0-q\">Charge Name</td><td id=\"0-r\">Tax Name</td><td id=\"0-s\">Jurisdiction</td><td id=\"0-t\">Charge Amount</td><td id=\"0-u\">Tax Amount</td></tr>\n<tr><td id=\"0-v\" colspan=\"3\"></td><td id=\"0-w\">Total Tax</td><td id=\"0-x\">$0.00</td></tr>\n</table>\n\n<a id='718ed76e-1673-4674-afd1-3392d905a629'></a>\n\n<table id=\"0-y\">\n<tr><td id=\"0-z\" colspan=\"6\">TRANSACTIONS</td></tr>\n<tr><td id=\"0-A\" colspan=\"5\">Invoice Total</td><td id=\"0-B\">$149.90</td></tr>\n<tr><td id=\"0-C\">Transaction Date</td><td id=\"0-D\">Transaction Number</td><td id=\"0-E\">Transaction Type</td><td id=\"0-F\" colspan=\"2\">Description</td><td id=\"0-G\">Applied Amount</td></tr>\n<tr><td id=\"0-H\">07/29/2020</td><td id=\"0-I\">P-35558908</td><td id=\"0-J\">Payment</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\">($149.90)</td></tr>\n<tr><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td><td id=\"0-Q\"></td><td id=\"0-R\">Invoice Balance</td><td id=\"0-S\">$0.00</td></tr>\n</table>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 7749,
+    "filename": "invoice_1.pdf",
+    "job_id": "j9sfml8dpuc679qg569jhsbgc",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "b4914c55-403e-4f5d-a39d-ce4f12ffe632",
+        "7ede7c75-d672-4d39-ab79-472c237b4f26",
+        "4d9c1e5e-8c52-4073-9c62-052ac1edaa45",
+        "c3750b16-035e-466c-8421-a0fd3af66589",
+        "bf829c21-01e8-4355-91b6-74175f74be9b",
+        "8629b24b-540c-4175-96d4-2e4b16b55b63",
+        "dc878768-5a10-4ef2-b12e-bc62d909426f",
+        "2ef25aac-3165-4644-93ab-7725916742e7",
+        "718ed76e-1673-4674-afd1-3392d905a629"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='b4914c55-403e-4f5d-a39d-ce4f12ffe632'></a>\n\n<::logo: Zoom\nzoom\nThe logo features the word \"zoom\" in a stylized, lowercase, sans-serif font, rendered in a medium gray color.::>\n\n<a id='7ede7c75-d672-4d39-ab79-472c237b4f26'></a>\n\n\n\n<a id='4d9c1e5e-8c52-4073-9c62-052ac1edaa45'></a>\n\nZoom Video Communications Inc.\n55 Almaden Blvd, 6th Floor\nSan Jose, CA 95113\nbilling@zoom.us\n\n<a id='c3750b16-035e-466c-8421-a0fd3af66589'></a>\n\nInvoice Date: 07/29/2020\nInvoice #: INV33543191\nPayment Terms: Due Upon Receipt\nDue Date: 07/29/2020\nAccount Number: 3003959185\nCurrency: USD\nAccount Information: Abaxys Tech LLC\n1061 Midvale Ave,\nMorrisville, North Carolina 27560\nUnited States\n\nleo.charles@outlook.com\n\n<a id='bf829c21-01e8-4355-91b6-74175f74be9b'></a>\n\nPurchase Order Number:\n\nTaxExemptCertificateID:\n\nZoom W-9\n\n<a id='8629b24b-540c-4175-96d4-2e4b16b55b63'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\" colspan=\"5\">CHARGE DETAILS</td></tr>\n<tr><td id=\"0-3\">Charge Description</td><td id=\"0-4\">Service Period</td><td id=\"0-5\">Subtotal</td><td id=\"0-6\">Tax</td><td id=\"0-7\">TOTAL</td></tr>\n<tr><td id=\"0-8\">Charge Name: Standard Pro Annual Quantity: 1 Unit Price: $149.90</td><td id=\"0-9\">07/29/2020-07/28/2021</td><td id=\"0-a\">$149.90</td><td id=\"0-b\">$0.00</td><td id=\"0-c\">$149.90</td></tr>\n</table>\n\n<a id='dc878768-5a10-4ef2-b12e-bc62d909426f'></a>\n\n<table id=\"0-d\">\n<tr><td id=\"0-e\">INVOICE TOTALS</td><td id=\"0-f\"></td><td id=\"0-g\"></td></tr>\n<tr><td id=\"0-h\" rowspan=\"3\"></td><td id=\"0-i\">Subtotal:</td><td id=\"0-j\">$149.90</td></tr>\n<tr><td id=\"0-k\">Total (Including Tax):</td><td id=\"0-l\">$149.90</td></tr>\n<tr><td id=\"0-m\">Invoice Balance:</td><td id=\"0-n\">$0.00</td></tr>\n</table>\n\n<a id='2ef25aac-3165-4644-93ab-7725916742e7'></a>\n\n<table id=\"0-o\">\n<tr><td id=\"0-p\" colspan=\"5\">TAX DETAILS</td></tr>\n<tr><td id=\"0-q\">Charge Name</td><td id=\"0-r\">Tax Name</td><td id=\"0-s\">Jurisdiction</td><td id=\"0-t\">Charge Amount</td><td id=\"0-u\">Tax Amount</td></tr>\n<tr><td id=\"0-v\" colspan=\"3\"></td><td id=\"0-w\">Total Tax</td><td id=\"0-x\">$0.00</td></tr>\n</table>\n\n<a id='718ed76e-1673-4674-afd1-3392d905a629'></a>\n\n<table id=\"0-y\">\n<tr><td id=\"0-z\" colspan=\"6\">TRANSACTIONS</td></tr>\n<tr><td id=\"0-A\" colspan=\"5\">Invoice Total</td><td id=\"0-B\">$149.90</td></tr>\n<tr><td id=\"0-C\">Transaction Date</td><td id=\"0-D\">Transaction Number</td><td id=\"0-E\">Transaction Type</td><td id=\"0-F\" colspan=\"2\">Description</td><td id=\"0-G\">Applied Amount</td></tr>\n<tr><td id=\"0-H\">07/29/2020</td><td id=\"0-I\">P-35558908</td><td id=\"0-J\">Payment</td><td id=\"0-K\"></td><td id=\"0-L\"></td><td id=\"0-M\">($149.90)</td></tr>\n<tr><td id=\"0-N\"></td><td id=\"0-O\"></td><td id=\"0-P\"></td><td id=\"0-Q\"></td><td id=\"0-R\">Invoice Balance</td><td id=\"0-S\">$0.00</td></tr>\n</table>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "b4914c55-403e-4f5d-a39d-ce4f12ffe632": {
+      "box": {
+        "bottom": 0.05794680491089821,
+        "left": 0.08026599884033203,
+        "right": 0.22372639179229736,
+        "top": 0.019250627607107162
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "7ede7c75-d672-4d39-ab79-472c237b4f26": {
+      "box": {
+        "bottom": 0.05059296637773514,
+        "left": 0.7920073866844177,
+        "right": 0.887368381023407,
+        "top": 0.02749837189912796
+      },
+      "page": 0,
+      "type": "chunkMarginalia"
+    },
+    "4d9c1e5e-8c52-4073-9c62-052ac1edaa45": {
+      "box": {
+        "bottom": 0.17177818715572357,
+        "left": 0.08041708916425705,
+        "right": 0.29107004404067993,
+        "top": 0.11402059346437454
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c3750b16-035e-466c-8421-a0fd3af66589": {
+      "box": {
+        "bottom": 0.2614942491054535,
+        "left": 0.48799511790275574,
+        "right": 0.8308323621749878,
+        "top": 0.11438507586717606
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "bf829c21-01e8-4355-91b6-74175f74be9b": {
+      "box": {
+        "bottom": 0.32542896270751953,
+        "left": 0.08024725317955017,
+        "right": 0.2426876723766327,
+        "top": 0.2439139485359192
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8629b24b-540c-4175-96d4-2e4b16b55b63": {
+      "box": {
+        "bottom": 0.48815441131591797,
+        "left": 0.07352882623672485,
+        "right": 0.9261178374290466,
+        "top": 0.3482363820075989
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.4835471918516703,
+        "left": 0.07957999170577496,
+        "right": 0.9204596301505461,
+        "top": 0.35299159111297373
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3974618749418539,
+        "left": 0.07957999170577496,
+        "right": 0.9203011279815385,
+        "top": 0.35299159111297373
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3974618749418539,
+        "left": 0.07957999170577496,
+        "right": 0.45625170047370744,
+        "top": 0.3799429237630285
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3974618749418539,
+        "left": 0.45625170047370744,
+        "right": 0.6181039111566164,
+        "top": 0.3799429237630285
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.3974618749418539,
+        "left": 0.6181039111566164,
+        "right": 0.7286653992768919,
+        "top": 0.3799429237630285
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.3974618749418539,
+        "left": 0.7286653992768919,
+        "right": 0.8094551592129449,
+        "top": 0.3799429237630285
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3974618749418539,
+        "left": 0.8094551592129449,
+        "right": 0.9203011279815385,
+        "top": 0.3799429237630285
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.4835471918516703,
+        "left": 0.07957999170577496,
+        "right": 0.45625170047370744,
+        "top": 0.3974618749418539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.4835471918516703,
+        "left": 0.45625170047370744,
+        "right": 0.6181039111566164,
+        "top": 0.3974618749418539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.4835471918516703,
+        "left": 0.6181039111566164,
+        "right": 0.7286653992768919,
+        "top": 0.3974618749418539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.4835471918516703,
+        "left": 0.7286653992768919,
+        "right": 0.8094551592129449,
+        "top": 0.3974618749418539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.4835471918516703,
+        "left": 0.8094551592129449,
+        "right": 0.9203011279815385,
+        "top": 0.3974618749418539
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "dc878768-5a10-4ef2-b12e-bc62d909426f": {
+      "box": {
+        "bottom": 0.644868016242981,
+        "left": 0.07345104217529297,
+        "right": 0.9257943630218506,
+        "top": 0.5179883241653442
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.639686835732391,
+        "left": 0.07954926234707405,
+        "right": 0.919895910228476,
+        "top": 0.5231137634474479
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.5470794430157753,
+        "left": 0.07954926234707405,
+        "right": 0.5740438091251292,
+        "top": 0.5231137634474479
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.5470794430157753,
+        "left": 0.5740438091251292,
+        "right": 0.768741827604245,
+        "top": 0.5231137634474479
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.5470794430157753,
+        "left": 0.768741827604245,
+        "right": 0.9199336065151584,
+        "top": 0.5231137634474479
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.639686835732391,
+        "left": 0.07954926234707405,
+        "right": 0.768741827604245,
+        "top": 0.5470794430157753
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.578024934945546,
+        "left": 0.5740438091251292,
+        "right": 0.768741827604245,
+        "top": 0.5470794430157753
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.578024934945546,
+        "left": 0.768741827604245,
+        "right": 0.9199336065151584,
+        "top": 0.5470794430157753
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.6096526431704774,
+        "left": 0.5740438091251292,
+        "right": 0.768741827604245,
+        "top": 0.578024934945546
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.6096526431704774,
+        "left": 0.768741827604245,
+        "right": 0.9199336065151584,
+        "top": 0.578024934945546
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.639686835732391,
+        "left": 0.5740438091251292,
+        "right": 0.768741827604245,
+        "top": 0.6096526431704774
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.639686835732391,
+        "left": 0.768741827604245,
+        "right": 0.9199336065151584,
+        "top": 0.6096526431704774
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "2ef25aac-3165-4644-93ab-7725916742e7": {
+      "box": {
+        "bottom": 0.7314551472663879,
+        "left": 0.0746067464351654,
+        "right": 0.9229556322097778,
+        "top": 0.6538018584251404
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.7267272119463257,
+        "left": 0.08173432346990411,
+        "right": 0.9165025598940382,
+        "top": 0.6593628126453082
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.6998433664691106,
+        "left": 0.08173432346990411,
+        "right": 0.9167332398600649,
+        "top": 0.6593628126453082
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.6998433664691106,
+        "left": 0.08173432346990411,
+        "right": 0.36809016754403423,
+        "top": 0.6730638322648321
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.6998433664691106,
+        "left": 0.36809016754403423,
+        "right": 0.6330263613534495,
+        "top": 0.6730638322648321
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.6998433664691106,
+        "left": 0.6330263613534495,
+        "right": 0.7358543075072124,
+        "top": 0.6730638322648321
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.6998433664691106,
+        "left": 0.7358543075072124,
+        "right": 0.8166335065267774,
+        "top": 0.6730638322648321
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.6998433664691106,
+        "left": 0.8166335065267774,
+        "right": 0.9167332398600649,
+        "top": 0.6730638322648321
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.7267272119463257,
+        "left": 0.08173432346990411,
+        "right": 0.8166335065267774,
+        "top": 0.6998433664691106
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.7267272119463257,
+        "left": 0.7358543075072124,
+        "right": 0.8166335065267774,
+        "top": 0.6998433664691106
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.7267272119463257,
+        "left": 0.8166335065267774,
+        "right": 0.9167332398600649,
+        "top": 0.6998433664691106
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "718ed76e-1673-4674-afd1-3392d905a629": {
+      "box": {
+        "bottom": 0.8991341590881348,
+        "left": 0.07401517033576965,
+        "right": 0.9247109889984131,
+        "top": 0.7617839574813843
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.8952160651870145,
+        "left": 0.07966666595625763,
+        "right": 0.9202633629003767,
+        "top": 0.766782430519672
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.8198337648207215,
+        "left": 0.07966666595625763,
+        "right": 0.9201768087448805,
+        "top": 0.766782430519672
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.8472695093766376,
+        "left": 0.07966666595625763,
+        "right": 0.9201768087448805,
+        "top": 0.789897467476198
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.8198337648207215,
+        "left": 0.8164075032809262,
+        "right": 0.9201768087448805,
+        "top": 0.789897467476198
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.8472695093766376,
+        "left": 0.07966666595625763,
+        "right": 0.20724336262709997,
+        "top": 0.8198337648207215
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.8472695093766376,
+        "left": 0.20724336262709997,
+        "right": 0.36127472196365495,
+        "top": 0.8198337648207215
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.8472695093766376,
+        "left": 0.36127472196365495,
+        "right": 0.47934234799003406,
+        "top": 0.8198337648207215
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.8709517702089329,
+        "left": 0.47934234799003406,
+        "right": 0.9201768087448805,
+        "top": 0.8198337648207215
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.8472695093766376,
+        "left": 0.8164075032809262,
+        "right": 0.9201768087448805,
+        "top": 0.8198337648207215
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.8709517702089329,
+        "left": 0.07966666595625763,
+        "right": 0.20724336262709997,
+        "top": 0.8472695093766376
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.8709517702089329,
+        "left": 0.20724336262709997,
+        "right": 0.36127472196365495,
+        "top": 0.8472695093766376
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.8709517702089329,
+        "left": 0.36127472196365495,
+        "right": 0.47934234799003406,
+        "top": 0.8472695093766376
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.8709517702089329,
+        "left": 0.47934234799003406,
+        "right": 0.6553052221294333,
+        "top": 0.8472695093766376
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.8709517702089329,
+        "left": 0.6553052221294333,
+        "right": 0.8164075032809262,
+        "top": 0.8472695093766376
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.8709517702089329,
+        "left": 0.8164075032809262,
+        "right": 0.9201768087448805,
+        "top": 0.8472695093766376
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.8952160651870145,
+        "left": 0.07966666595625763,
+        "right": 0.20724336262709997,
+        "top": 0.8709517702089329
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.8952160651870145,
+        "left": 0.20724336262709997,
+        "right": 0.36127472196365495,
+        "top": 0.8709517702089329
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.8952160651870145,
+        "left": 0.36127472196365495,
+        "right": 0.47934234799003406,
+        "top": 0.8709517702089329
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.8952160651870145,
+        "left": 0.47934234799003406,
+        "right": 0.6553052221294333,
+        "top": 0.8709517702089329
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.8952160651870145,
+        "left": 0.6553052221294333,
+        "right": 0.8164075032809262,
+        "top": 0.8709517702089329
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.8952160651870145,
+        "left": 0.8164075032809262,
+        "right": 0.9201768087448805,
+        "top": 0.8709517702089329
+      },
+      "page": 0,
+      "type": "tableCell"
+    }
+  }
+}

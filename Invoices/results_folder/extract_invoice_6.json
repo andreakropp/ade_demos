@@ -1,0 +1,380 @@
+{
+  "extraction": {
+    "invoice_info": {
+      "invoice_date_raw": "04/26/24",
+      "invoice_date": "2024-04-26",
+      "invoice_number": "301236",
+      "order_date": null,
+      "po_number": null,
+      "status": null
+    },
+    "customer_info": {
+      "sold_to_name": "Andrea Kropp",
+      "sold_to_address": "227 N 5th Avenue\nRidgefield, WA, 98642",
+      "customer_email": null
+    },
+    "company_info": {
+      "supplier_name": "FROMUTH",
+      "supplier_address": "1100 Rocky Drive, West Lawn PA, 19609\nUSA",
+      "representative": "Erik Arndt",
+      "email": "customerservice@fromuthtennis.com",
+      "phone": "1-800-523-8414",
+      "gstin": null,
+      "pan": null
+    },
+    "order_details": {
+      "payment_terms": "Credit Card",
+      "ship_via": null,
+      "ship_date": null,
+      "tracking_number": null
+    },
+    "totals_summary": {
+      "currency": "USD",
+      "total_due_raw": "USD 86.96",
+      "total_due": 86.96,
+      "subtotal": 60,
+      "tax": 6.96,
+      "shipping": 20,
+      "handling_fee": null
+    },
+    "line_items": [
+      {
+        "line_number": "001",
+        "sku": "DR6192-700",
+        "description": "Nike Air Zoom Vapor Pro 2 (W) (Sundial)",
+        "quantity": 1,
+        "unit_price": 60,
+        "price": null,
+        "amount": 60,
+        "total": 60
+      },
+      {
+        "line_number": "002",
+        "sku": "XBLUE",
+        "description": "***2-DAY AIR***",
+        "quantity": 1,
+        "unit_price": 0,
+        "price": null,
+        "amount": 0,
+        "total": 0
+      },
+      {
+        "line_number": "003",
+        "sku": null,
+        "description": "/////////////",
+        "quantity": 1,
+        "unit_price": 0,
+        "price": null,
+        "amount": 0,
+        "total": 0
+      }
+    ]
+  },
+  "extraction_metadata": {
+    "invoice_info": {
+      "invoice_date_raw": {
+        "value": "04/26/24",
+        "references": [
+          "7e244dde-119c-4201-ac0a-8b777471068f"
+        ]
+      },
+      "invoice_date": {
+        "value": "2024-04-26",
+        "references": [
+          "7e244dde-119c-4201-ac0a-8b777471068f"
+        ]
+      },
+      "invoice_number": {
+        "value": "301236",
+        "references": [
+          "e456a312-adfc-4a24-912a-3b90add408ea"
+        ]
+      },
+      "order_date": {
+        "value": null,
+        "references": []
+      },
+      "po_number": {
+        "value": null,
+        "references": []
+      },
+      "status": {
+        "value": null,
+        "references": []
+      }
+    },
+    "customer_info": {
+      "sold_to_name": {
+        "value": "Andrea Kropp",
+        "references": [
+          "470a501c-6955-40bc-a7f5-f58e357997e4"
+        ]
+      },
+      "sold_to_address": {
+        "value": "227 N 5th Avenue\nRidgefield, WA, 98642",
+        "references": [
+          "470a501c-6955-40bc-a7f5-f58e357997e4"
+        ]
+      },
+      "customer_email": {
+        "value": null,
+        "references": []
+      }
+    },
+    "company_info": {
+      "supplier_name": {
+        "value": "FROMUTH",
+        "references": [
+          "c15b3621-9da8-4758-8c2e-b8038dc85b78"
+        ]
+      },
+      "supplier_address": {
+        "value": "1100 Rocky Drive, West Lawn PA, 19609\nUSA",
+        "references": [
+          "82ba0756-c784-4035-b861-bcee3366eba9"
+        ]
+      },
+      "representative": {
+        "value": "Erik Arndt",
+        "references": [
+          "e3d90fe0-c460-4915-bcef-1e3fc5dd202e"
+        ]
+      },
+      "email": {
+        "value": "customerservice@fromuthtennis.com",
+        "references": [
+          "6e8648ed-1c20-4c92-8e17-1e6884ebcbc1"
+        ]
+      },
+      "phone": {
+        "value": "1-800-523-8414",
+        "references": [
+          "82ba0756-c784-4035-b861-bcee3366eba9",
+          "e60c10d7-48ea-4777-991a-8f1a5afae313"
+        ]
+      },
+      "gstin": {
+        "value": null,
+        "references": []
+      },
+      "pan": {
+        "value": null,
+        "references": []
+      }
+    },
+    "order_details": {
+      "payment_terms": {
+        "value": "Credit Card",
+        "references": [
+          "bf1cc3bb-9149-4296-b9c7-92abd20c0192"
+        ]
+      },
+      "ship_via": {
+        "value": null,
+        "references": []
+      },
+      "ship_date": {
+        "value": null,
+        "references": []
+      },
+      "tracking_number": {
+        "value": null,
+        "references": []
+      }
+    },
+    "totals_summary": {
+      "currency": {
+        "value": "USD",
+        "references": [
+          "26611493-c73f-48ab-9cb7-a1f46d23a373"
+        ]
+      },
+      "total_due_raw": {
+        "value": "USD 86.96",
+        "references": [
+          "0-15"
+        ]
+      },
+      "total_due": {
+        "value": 86.96,
+        "references": [
+          "0-15"
+        ]
+      },
+      "subtotal": {
+        "value": 60,
+        "references": [
+          "0-L"
+        ]
+      },
+      "tax": {
+        "value": 6.96,
+        "references": [
+          "0-10"
+        ]
+      },
+      "shipping": {
+        "value": 20,
+        "references": [
+          "0-Q"
+        ]
+      },
+      "handling_fee": {
+        "value": null,
+        "references": []
+      }
+    },
+    "line_items": [
+      {
+        "line_number": {
+          "value": "001",
+          "references": [
+            "0-7"
+          ]
+        },
+        "sku": {
+          "value": "DR6192-700",
+          "references": [
+            "0-9"
+          ]
+        },
+        "description": {
+          "value": "Nike Air Zoom Vapor Pro 2 (W) (Sundial)",
+          "references": [
+            "0-8"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-a"
+          ]
+        },
+        "unit_price": {
+          "value": 60,
+          "references": [
+            "0-b"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 60,
+          "references": [
+            "0-c"
+          ]
+        },
+        "total": {
+          "value": 60,
+          "references": [
+            "0-c"
+          ]
+        }
+      },
+      {
+        "line_number": {
+          "value": "002",
+          "references": [
+            "0-j"
+          ]
+        },
+        "sku": {
+          "value": "XBLUE",
+          "references": [
+            "0-l"
+          ]
+        },
+        "description": {
+          "value": "***2-DAY AIR***",
+          "references": [
+            "0-k"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-m"
+          ]
+        },
+        "unit_price": {
+          "value": 0,
+          "references": [
+            "0-n"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 0,
+          "references": [
+            "0-o"
+          ]
+        },
+        "total": {
+          "value": 0,
+          "references": [
+            "0-o"
+          ]
+        }
+      },
+      {
+        "line_number": {
+          "value": "003",
+          "references": [
+            "0-v"
+          ]
+        },
+        "sku": {
+          "value": null,
+          "references": []
+        },
+        "description": {
+          "value": "/////////////",
+          "references": [
+            "0-w"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "references": [
+            "0-y"
+          ]
+        },
+        "unit_price": {
+          "value": 0,
+          "references": [
+            "0-z"
+          ]
+        },
+        "price": {
+          "value": null,
+          "references": []
+        },
+        "amount": {
+          "value": 0,
+          "references": [
+            "0-A"
+          ]
+        },
+        "total": {
+          "value": 0,
+          "references": [
+            "0-A"
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "credit_usage": 2.1,
+    "duration_ms": 7073,
+    "filename": "upload",
+    "job_id": "juonmu0zirjz0m52sudjgxe5t",
+    "org_id": "u3z0u1hn4acl",
+    "version": "extract-20250930"
+  }
+}

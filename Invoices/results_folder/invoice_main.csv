@@ -1,0 +1,82 @@
+RUN_ID,INVOICE_UUID,DOCUMENT_NAME,AGENTIC_DOC_VERSION,INVOICE_DATE_RAW,INVOICE_DATE,INVOICE_NUMBER,ORDER_DATE,PO_NUMBER,STATUS,SOLD_TO_NAME,SOLD_TO_ADDRESS,CUSTOMER_EMAIL,SUPPLIER_NAME,SUPPLIER_ADDRESS,REPRESENTATIVE,EMAIL,PHONE,GSTIN,PAN,PAYMENT_TERMS,SHIP_VIA,SHIP_DATE,TRACKING_NUMBER,CURRENCY,TOTAL_DUE_RAW,TOTAL_DUE,SUBTOTAL,TAX,SHIPPING,HANDLING_FEE
+ab51eee8-43ab-4c60-974f-d37043e93f76,8a016234-4c23-4927-aa41-f7841f70c611,invoice_9.pdf,dpt-2-20250919,"May 26, 2021",2021-05-26,FCL233308,,,PAID,Leo Charles Vincent,"abaxystech
+1061 Midvale Ave
+Morrsiville, North Carolina 27560
+United States",,"Freshworks Inc., (formerly known as Freshdesk Inc.)","2950 S. Delaware St,
+Suite 201, San Mateo, CA 94403,
+U.S.A.",,billing@freshworks.com,+1 (866) 832 3090,,,Due Upon Receipt,,,,USD,$0.00,0.0,,,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,83aa2614-39b8-418b-90b7-e726ebd3c90a,invoice_17.pdf,dpt-2-20250919,Dated 10-Dec-14,2014-12-10,2014/00355,,,,Sandip Patil,"Ambegaon Bk, Pune",,Variant Technologies,"Sgar Complex, Off No. 19 A Tower, Near Nashik Phata Kasarwadi. Pune - 411034",,sales@vtechpune.co.in,+91 20 46700005,,,100% Against receipt of Material,By Road,,,,2800.00,2800.0,2800.0,,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,74954e69-8064-4966-a0cc-d4111458af17,invoice_8.PDF,dpt-2-20250919,08-18-23,2023-08-18,412824,,,,Andrea Kropp,"227 N 5th Ave
+PO Box 1168
+Ridgefield, WA 98642",,East Padden Animal Hospital,"15721 NE Fourth Plain Blvd.
+Vancouver, WA 98682",,,360-892-1500,,,,,,,,90.53,90.53,87.0,3.53,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,116fc387-7366-4838-9ff5-de97eff28186,invoice_16.pdf,dpt-2-20250919,"Mar 20, 2023",2023-03-20,,,,,Mansoer Walizada,"10517 San Vincente Ave, South Gate, CA 90280, USA",,Walmart,,,,,,,MasterCard 8453,,,,USD,"0,00 US$",0.0,1529.94,110.92,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,fcfa7140-e234-4eb5-be2e-d356993b6f3f,invoice_11.pdf,dpt-2-20250919,08/30/2021,2021-08-30,2071221,,,,Souhail Martesse,"4 Rue des Écoles
+28120, Nogent-sur-Eure
+FRANCE",,DollarFulfillment,"10450 N Airport Rd Hayden, ID 83835
+United States",,Support@DollarFulfillment.com,+1 855-441-7447,,,,,,,,$1800.87,1800.87,,,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,47b62e70-4187-418c-8cf1-3c1635ee1dc7,invoice_13.pdf,dpt-2-20250919,2-Dec-2021,2021-12-02,812,,,,SMARTQUIP OVERSEAS COMPANY,"NO 16, 2ND CROSS J C ROAD, SUDHAM NAGAR, BANGALORE, Bengaluru ( Bangalore) Urban, Karnataka, 560002",,KANDHAN METAL COMPANY,"OLD NO: 12, NEW NO:33,JANI BATCHA STREET. ROYAPETTAH,CHENNAI-600014 PH:044-28612601/48581793 Godown No 69/227 Nageswara Rao Road Athipet, Chennai-58",,kandhanmetal@gmail.com,044-28612601/48581793,33AAJPS6304G1ZS,AAJPS6304G,,,,AP39TD4595,INR,"60,21,446.00",6021446.0,5102920.0,918525.6,,0.4
+ab51eee8-43ab-4c60-974f-d37043e93f76,dfb98d68-9dd7-474e-a03a-b77cc8465db9,invoice_14.pdf,dpt-2-20250919,23.02.2019,2019-02-23,40458946,,,,"Gnr-Grupo Novo Rock, Lda","Av. da República, N°. 181, LJ 101, PT-4450 Leça da Palmeira",,Thomann GmbH,"Hans-Thomann-Str. 1, D-96138 Burgebrach",Eduardo Mourao,info@thomann.de,+49 (0)9546 9223-66,,,,UPS,,,EUR,"77,24 EUR",77.24,,,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,e396238d-7846-4950-aa90-8af0c316f2d4,invoice_12.pdf,dpt-2-20250919,27.03.2025,2025-03-27,11828454,2025-03-27,,,ANDREA KROPP,"227 N 5TH AVE, RIDGEFIELD, WA
+US-98642 RIDGEFIELD",andr3akropp@gmail.com,Condor Flugdienst GmbH,"An der Gehespitz 50
+63263 Neu-Isenburg","Peter Gerber (CEO), Heiko Holm, Christian Schmitt, Björn Walther",,+49 (0)6171 - 69889 20,,,,,,,USD,"2,579.96",2579.96,,,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,371b2d4a-63e9-468b-8275-f878220c0a8f,invoice_10.pdf,dpt-2-20250919,15-MAY-25,2025-05-15,1000110140,,,,ANDREA KROPP,,,Sheraton Tucson Hotel & Suites,"5151 East Grant Rd
+Tucson, AZ 85712
+United States",,,520-323-6262,,,,,,,USD,0.00,0.0,,,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,4b1db45a-6de2-4bda-94d3-c606276bb1ce,invoice_27.pdf,dpt-2-20250919,02-Mar-2025,2025-03-02,TRX5FPX4C-20,,,,Meridian Venture Services LLC,"Sponsored ads - KDP
+227 N 5th Ave
+PO Box 1168
+Ridgefield WA 98642",,Amazon Advertising LLC,"PO Box 24651
+Seattle WA 98124-0651",,,,,,,,,,USD,103.93 USD,103.93,103.93,0.0,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,0326bf0d-a1ea-4f1b-925f-a13a0094877e,invoice_3.pdf,dpt-2-20250919,10/03/2022,2022-10-03,52255,,,,Leo Vincent,"1000 Sarah Dr
+Summerfield, NC 27358 USA",,"CUSTOM ELECTRIC & PLUMBING, INC.","PO Box 533
+Summerfield, NC 27358",Mathew,Mat@CustomEandP.com,336.701.5589,,,"by Cash or Check, All sales final. $750.00 deposit at acceptance of contract balance due upon substantial completion of work. Agreement to include conditions of agreement addendum Clarifications: It is agreed that during the performance of the work drywall will/may be cut at the discretion of the contractor, this quotation does not include any drywall or painting repair or touchup. Parking to be provided onsite for all working personnel. Work will be completed during normal hours from 8:00 AM to 5:00 PM Monday thru Friday, unless approved otherwise. No additional components will be installed outside the scope of work enclosed. All fixtures and lamps are to be furnished on-site by others. Excluded from Bid: Repairs or corrections to existing plumbing, gas, or electrical system deficiencies or code violations. Repairs to any underground utilities (such as sprinkler lines, electrical lines, cable, etc.) not located and clearly marked prior to arrival on-site. Engineered drawings Utility power consumption.",,,,,"$1,550.00",1550.0,1550.0,0.0,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,276837d7-936e-436c-96a1-1889b88f300d,invoice_18.pdf,dpt-2-20250919,,,00000116271,,,PAID,"Meridian Venture Services, LLC","227 N 5th Avenue, Ridgefield, WA 98642",pololifeshop@gmail.com,"Howard Custom Transfers, Inc.","1925 Holmes Rd #400, Elgin IL 60123",,accounting@howardct.com,(866)695-8195,,,Prepay,Ground,2020-02-10,1Z77Y5Y70365096016,,$0.00,0.0,270.0,,24.31,3.0
+ab51eee8-43ab-4c60-974f-d37043e93f76,f1bd7175-d14b-494b-853b-d6b634bd1628,invoice_26.pdf,dpt-2-20250919,DATE 08/08/2024,2024-08-08,2990,,Kropp,,Karl & Andrea Kropp,"227 N. 5th Ave.
+Ridgefield, WA 98642",,Three 60 Decks,"15807 NE Lucia Falls Rd
+Battle Ground, WA 98604-8258",,Tanamallory@gmail.com,5033104017,,,Due on receipt,,,,,"36,578.42",36578.42,33650.8,2927.62,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,3d8bb67d-d96e-4564-b9f0-9438500cee6d,invoice_2.pdf,dpt-2-20250919,01/29/2020,2020-01-29,0001131,,7783 Newhaven Dr,,Real Property Management,"1901 Lendew St Suite 7
+Greensboro, NC
+27408",,Roofing Renovations INC,"4917 Old Randleman Rd
+Greensboro, North Carolina
+27406
+United States",,,336-862-5235,,,Thank you for trusting us with all your home improvement needs.,,,,USD,"$2,650.00",2650.0,2650.0,0.0,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,6f42c961-66c2-4bda-ad61-66c8fc8e1787,invoice_19.pdf,dpt-2-20250919,"Aug 31, 2024",2024-08-31,1457274,,,PAID,Andrea Kropp,"227 N 5th Ave, PO Box 1168
+Ridgefield, Washington 98642
+United States",,Harvest Hosts,"1300 N. Frontage Rd, #1594
+Vail, Colorado 81657
+United States",,,,,,,,,,USD,$172.83,172.83,159.0,13.83,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,7538ac9c-61de-49dc-971a-65286550dd0a,invoice_1.pdf,dpt-2-20250919,07/29/2020,2020-07-29,INV33543191,,,,Abaxys Tech LLC,"1061 Midvale Ave, Morrisville, North Carolina 27560 United States",leo.charles@outlook.com,Zoom Video Communications Inc.,"55 Almaden Blvd, 6th Floor San Jose, CA 95113",,billing@zoom.us,,,,Due Upon Receipt,,,,USD,$149.90,149.9,149.9,0.0,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,895c7287-1af3-4901-96d8-122189a4a5a4,invoice_15.pdf,dpt-2-20250919,2019-04-04T23:55:50+08:00,2019-04-04,0000329003,2019-03-29,,,Nazish,"R 44 block-D sadat e amroha society karachi, Karachi - Cantonment, Sindh Pakistan",,Jade E-Services Pakistan Private Limited,"12/B, 12th floor Executive Tower, Dolmen City Plot # HC-3, Block 4, Scheme #5 Clifton, Saddar Town, Karachi South",,,,,,Cash On Delivery,,,,PKR,Rs 147.00,147.0,147.0,0.0,0.0,
+ab51eee8-43ab-4c60-974f-d37043e93f76,253bd0e1-79c7-4394-a62c-a2c0d14fef9c,invoice_21.pdf,dpt-2-20250919,"July 1, 2024",2024-07-01,8E8C6122-0016,,,,Andrea Kropp,"227 N 5th Ave
+PO Box 1168
+Ridgefield, Washington 98642
+United States",andr3akropp@gmail.com,Midjourney Inc,"611 Gateway Blvd
+Suite 120
+South San Francisco, California 94080
+United States",,billing@midjourney.com,,,,,,,,USD,$32.61 USD,32.61,30.0,2.61,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,9fad760d-417b-47a4-b4e8-f1e896479edc,invoice_24.pdf,dpt-2-20250919,11.08.2025,2025-08-11,F 247120,,,,Mrs Andrea Kropp,"227 N 5th Ave
+98642 Ridgefield
+United States",,Frankfurt Airport Marriott Hotel,"Airport/Terminal 1, Hugo-Eckener-Ring 15, 60549 Frankfurt am Main, Germany","Rahim Lalji, Timothy Gavey",,+49.(0)69.695977.0,DE 163670796,,,,,,EUR,0.00 EUR,0.0,168.01,13.0,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,71388288-7baf-4fbe-b71a-3abab7120078,invoice_5.pdf,dpt-2-20250919,04/01/2023,2023-04-01,2197,,,,"Leo Charles Vincent Abaxys Tech, LLC",,,The Nussbaum Center for Entrepreneurship,"1451 S Elm Eugene Street Box 35 Greensboro, NC 27406 US",,lhazlett@nussbaumcfe.com,,,,Due on receipt,,,,,$346.00,346.0,346.0,0.0,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,c5616247-36e6-4215-8ca5-ec0fde10c3ef,invoice_20.pdf,dpt-2-20250919,"May 26, 2024",2024-05-26,6DC1AEAF-0023,,,,Andrea Kropp,"227 N 5TH AVE
+PO BOX 1168
+RIDGEFIELD, Washington 98642
+United States",andr3akropp@gmail.com,Posit Software PBC,"250 Northern Avenue
+Suite #410
+Boston, Massachusetts 02210
+United States",,support@posit.co,+1 844-448-1212,,,,,,,USD,$14.14 USD,14.14,14.14,1.14,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,dd0786b6-3fae-480c-ad0c-07dd2173ba13,invoice_22.pdf,dpt-2-20250919,8/21/2018,2018-08-21,1009748,,,Paid,Andrea Kropp Ridgefield Tennis,,andrea.kropp@ridgefieldsd.org,"Brainless Tees, Inc.","12401 NE 60th Way Unit A8 Vancouver, WA 98682",Stephen Miller,steve@brainlesstees.com,360-721-6459,,,Payment is due upon approval.,,,,,$0.00,0.0,279.0,23.44,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,6cd15ad5-4204-425c-b928-5c59bb62b3c4,invoice_4.pdf,dpt-2-20250919,Jan 24 2022,2022-01-24,138277,2022-01-19,P.067967,,NELSON INDUSTRIAL FABRICATORS,"1155 Squires Beach Road, PICKERING, Ontario, Canada, L1W 3T9",ap@nelsonindust.com,A.E. Blake Sales Ltd.,"100 Consilium Place, Suite 200, Scarborough, ON, M1H 3E3",Perry Chan OR Jeff Kang,torontosales@aeblake.ca,416 431 0440,R100064716,,Net 30 Days,UPS 3rd Party 139 2X5,2022-01-24,1078685,CAD,"$ 3,099.67 CAD",3099.67,2743.07,356.6,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,b807d00a-d175-4e39-a5ac-48da2c8a3614,invoice_6.pdf,dpt-2-20250919,04/26/24,2024-04-26,301236,,,,Andrea Kropp,"227 N 5th Avenue
+Ridgefield, WA, 98642",,FROMUTH,"1100 Rocky Drive, West Lawn PA, 19609
+USA",Erik Arndt,customerservice@fromuthtennis.com,1-800-523-8414,,,Credit Card,,,,USD,USD 86.96,86.96,60.0,6.96,20.0,
+ab51eee8-43ab-4c60-974f-d37043e93f76,4855d0b8-bb5e-43bb-8083-9eac7b5e8417,invoice_25.pdf,dpt-2-20250919,"MAY 27, 2024 11:27 AM",2024-05-27,O-0023-14214,,,,ANDREA KROPP,"227 N 5TH AVE RIDGEFIELD, WA 98642",ANDR3AKROPP@GMAIL.COM,OILSTOP,"1316 NE 134TH ST, VANCOUVER, WA 98685","TY WALLACE, WILLIAM HOLLINGSWORTH, MALIQUE TULCHINSKY, GRIFFIN HUNT",,(360) 571 9950,,,,,,,USD,$ 228.19,228.19,210.32,17.87,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,7b41284f-b4a4-4d94-8a36-064d8f6b0c1a,invoice_7.pdf,dpt-2-20250919,27-03-2023,2023-03-27,D33Y350102708514,2023-03-27,RDF49344959,,Manjula Kannan,"52, Mettu street, Thenkodipakkam, Vanur taluk,, Villupuram TN IN Pin: 604102",,Reliance Retail Ltd,"C/O Survey No.461/2C, Redhills-Ambattur Road, Puzhal Village, Ambattur Taluk Chennai, TN 600062",,,,33AABCR1718E1ZW,,,ECOM,2023-03-27,2068019154,INR,56999.00,56999.0,48304.24,8694.76,,
+ab51eee8-43ab-4c60-974f-d37043e93f76,b29bd092-49ea-4410-9eff-d52c0f184640,invoice_23.pdf,dpt-2-20250919,06 May 2024,2024-05-06,IY04370868,,OY92605918,Paid,,"227 N 5th Ave
+Ridgefield
+WA
+98642-3846
+United States",andr3akropp@gmail.com,Alamy Inc,"49 Flatbush Ave, 130,
+Brooklyn, NY 11217,
+USA",,sales@alamy.com,866 671 7305,,,,,,,USD,$ 49.50,49.5,45.0,4.5,,

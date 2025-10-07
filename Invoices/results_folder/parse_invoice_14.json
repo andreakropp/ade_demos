@@ -1,0 +1,529 @@
+{
+  "chunks": [
+    {
+      "id": "da35e71a-b1f0-49a6-8f42-3800abc9f42e",
+      "grounding": {
+        "box": {
+          "bottom": 0.12426373362541199,
+          "left": 0.5042201280593872,
+          "right": 0.787319540977478,
+          "top": 0.03097378835082054
+        },
+        "page": 0
+      },
+      "markdown": "<a id='da35e71a-b1f0-49a6-8f42-3800abc9f42e'></a>\n\n<::logo: Thomann\nthomann\nInvoice Nr.: 40458946\nThe logo features the word \"thomann\" in a black sans-serif font, with a distinctive teal-colored dot replacing the standard dot above the 'i'.::>",
+      "type": "logo"
+    },
+    {
+      "id": "570c3427-dbe6-439e-9044-8bce2928c7a3",
+      "grounding": {
+        "box": {
+          "bottom": 0.17269131541252136,
+          "left": 0.12448433041572571,
+          "right": 0.45787283778190613,
+          "top": 0.15616688132286072
+        },
+        "page": 0
+      },
+      "markdown": "<a id='570c3427-dbe6-439e-9044-8bce2928c7a3'></a>\n\nThomann GmbH, Hans-Thomann-Str. 1, D-96138 Burgebrach",
+      "type": "text"
+    },
+    {
+      "id": "c9c90a92-8a57-48ab-8466-ed4ecb0b5de6",
+      "grounding": {
+        "box": {
+          "bottom": 0.22577688097953796,
+          "left": 0.1250552535057068,
+          "right": 0.3419790267944336,
+          "top": 0.18140262365341187
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c9c90a92-8a57-48ab-8466-ed4ecb0b5de6'></a>\n\nGnr-Grupo Novo Rock, Lda\nJorge Rom\u00e3o\nAv. da Rep\u00fablica, N\u00b0. 181, LJ 101",
+      "type": "text"
+    },
+    {
+      "id": "390ae49f-c33a-48e2-b5de-a6f4973576cc",
+      "grounding": {
+        "box": {
+          "bottom": 0.2136254459619522,
+          "left": 0.5062379837036133,
+          "right": 0.683320164680481,
+          "top": 0.18179680407047272
+        },
+        "page": 0
+      },
+      "markdown": "<a id='390ae49f-c33a-48e2-b5de-a6f4973576cc'></a>\n\nFilipe Louro\nRua Tullins Fures 223 2&deg;esq",
+      "type": "text"
+    },
+    {
+      "id": "34b78223-7409-4ede-8200-ba479236be06",
+      "grounding": {
+        "box": {
+          "bottom": 0.23844294250011444,
+          "left": 0.5044407844543457,
+          "right": 0.6746176481246948,
+          "top": 0.21986253559589386
+        },
+        "page": 0
+      },
+      "markdown": "<a id='34b78223-7409-4ede-8200-ba479236be06'></a>\n\nPT-4450 Le\u00e7a da Palmeira",
+      "type": "text"
+    },
+    {
+      "id": "77665d5b-c8a7-497b-a87c-b160263ba8e1",
+      "grounding": {
+        "box": {
+          "bottom": 0.25011587142944336,
+          "left": 0.12568625807762146,
+          "right": 0.2688012719154358,
+          "top": 0.23452924191951752
+        },
+        "page": 0
+      },
+      "markdown": "<a id='77665d5b-c8a7-497b-a87c-b160263ba8e1'></a>\n\nPT-4450 Matosinhos",
+      "type": "text"
+    },
+    {
+      "id": "094fd1f7-0836-43aa-9077-52042fb40756",
+      "grounding": {
+        "box": {
+          "bottom": 0.32545074820518494,
+          "left": 0.12397737801074982,
+          "right": 0.3172762989997864,
+          "top": 0.2770439088344574
+        },
+        "page": 0
+      },
+      "markdown": "<a id='094fd1f7-0836-43aa-9077-52042fb40756'></a>\n\nInvoice Nr.: 40458946\nDate: 23.02.2019\nYour customer no.: 10649971",
+      "type": "text"
+    },
+    {
+      "id": "07ecf620-224f-43fa-9ae6-29e5cfecbf55",
+      "grounding": {
+        "box": {
+          "bottom": 0.3946331739425659,
+          "left": 0.5043438673019409,
+          "right": 0.8359280824661255,
+          "top": 0.2764044404029846
+        },
+        "page": 0
+      },
+      "markdown": "<a id='07ecf620-224f-43fa-9ae6-29e5cfecbf55'></a>\n\nOrder No.: 201908.660583 / 1233\n\nSales Person: Eduardo Mourao\nTelephone: 0049 9546 9223 645\nMethod of Shipment: UPS\nYour Reference:\n\nPlease Include your customer no.: 10649971 with payment by bank transfer!",
+      "type": "text"
+    },
+    {
+      "id": "af633504-f612-4cc2-a2c4-8ba766833600",
+      "grounding": {
+        "box": {
+          "bottom": 0.3931507170200348,
+          "left": 0.1240127831697464,
+          "right": 0.41411292552948,
+          "top": 0.3625553548336029
+        },
+        "page": 0
+      },
+      "markdown": "<a id='af633504-f612-4cc2-a2c4-8ba766833600'></a>\n\nYour VAT No.: PT502208171\nfornecimento Inter-comunitario Isento de IVA",
+      "type": "text"
+    },
+    {
+      "id": "c0776774-8661-4f99-84c8-0166fbbdd1bc",
+      "grounding": {
+        "box": {
+          "bottom": 0.7229690551757812,
+          "left": 0.04792746901512146,
+          "right": 0.872960090637207,
+          "top": 0.4157465696334839
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c0776774-8661-4f99-84c8-0166fbbdd1bc'></a>\n\n<table><thead><tr><th>Pos.</th><th>Article</th><th>Amount Unit</th><th>Unit Price</th><th>Total Price</th></tr></thead><tbody><tr><td>001.00</td><td>242900<br>Dunlop Nylon Max Grip Jazz III Players Pack - 6-plece plectrum set. Colour: Red, gauge: 1,38mm</td><td>1 plece</td><td>3,66 EUR</td><td>3,66 EUR</td></tr><tr><td>002.00</td><td>151423<br>Dunlop Tortex standard picks - 0.88mm, 12-pack.</td><td>1 plece</td><td>4,80 EUR</td><td>4,80 EUR</td></tr><tr><td>003.00</td><td>119582<br>Fender Vintage Bass Bridge, Incl screws, dimension width 8cm, lenght 4cm, stringspacing 2cm</td><td>1 plece</td><td>47,15 EUR</td><td>47,15 EUR</td></tr><tr><td>004.00</td><td>180181<br>Electro Harmonix 24DC-100 EU AC power supply, Original AC power supply matches Deluxe Memory Man, Bass/<br>Micro Synth, Q-Tron, Q-Tron+, Stereo Polychorus, Worm, Deluxe Electric Mistress, Stereo Memoroy Man, Stereo<br>Polyphase, XO Deluxe Memory Man, XO Q-Tron+</td><td>1 plece</td><td>13,58 EUR</td><td>13,58 EUR</td></tr><tr><td>005.00</td><td>378874<br>the sssnake DD1015, Minijack Mono - Minijack Mono Patchkabel, Length 15cm, 6 pcs. per Set</td><td>1 plece</td><td>8,05 EUR</td><td>8,05 EUR</td></tr></tbody><tfoot><tr><td colspan=\"3\"></td><td>Amount carried forward:</td><td>77,24 EUR</td></tr></tfoot></table>",
+      "type": "table"
+    },
+    {
+      "id": "efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b",
+      "grounding": {
+        "box": {
+          "bottom": 0.9788023233413696,
+          "left": 0.05477075278759003,
+          "right": 0.25101959705352783,
+          "top": 0.915152907371521
+        },
+        "page": 0
+      },
+      "markdown": "<a id='efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b'></a>\n\nThomann GmbH\nHans-Thomann-Str.1\nD-96138 Burgebrach\n\nBank Sparkasse Bamberg\nIBAN DE97 7705 0000 0000 1030 85\nBIC BYLADEM1SKB",
+      "type": "text"
+    },
+    {
+      "id": "3d93a0b8-def3-418c-b5da-4e45cb2d1783",
+      "grounding": {
+        "box": {
+          "bottom": 0.9455326199531555,
+          "left": 0.28308406472206116,
+          "right": 0.4223327338695526,
+          "top": 0.9144553542137146
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3d93a0b8-def3-418c-b5da-4e45cb2d1783'></a>\n\ninfo@thomann.de\nTel +49 (0)9546 9223-66\nFax +49 (0)9546 9223-24",
+      "type": "text"
+    },
+    {
+      "id": "4dd01bc0-c90a-4499-9965-518406ea2816",
+      "grounding": {
+        "box": {
+          "bottom": 0.9461458921432495,
+          "left": 0.4718143939971924,
+          "right": 0.6447358131408691,
+          "top": 0.9148907661437988
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4dd01bc0-c90a-4499-9965-518406ea2816'></a>\n\nGesch\u00e4ftsf\u00fchrer: Hans Thomann\nAmtsgericht Bamberg: HRB 5862\nSitz der Gesellschaft: Burgebrach",
+      "type": "text"
+    },
+    {
+      "id": "460fddbd-4590-4049-8b04-f658b7cd2312",
+      "grounding": {
+        "box": {
+          "bottom": 0.9792436361312866,
+          "left": 0.280286967754364,
+          "right": 0.4790946841239929,
+          "top": 0.950162410736084
+        },
+        "page": 0
+      },
+      "markdown": "<a id='460fddbd-4590-4049-8b04-f658b7cd2312'></a>\n\nRaiffeisenbank Burgebrach\nDE58 7706 2014 0000 0056 30\nGENODEF1BGB\n-",
+      "type": "text"
+    },
+    {
+      "id": "a509601a-79cd-4f82-acdb-3f8fffc72391",
+      "grounding": {
+        "box": {
+          "bottom": 0.9751784801483154,
+          "left": 0.4739048182964325,
+          "right": 0.6322098970413208,
+          "top": 0.9497103691101074
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a509601a-79cd-4f82-acdb-3f8fffc72391'></a>\n\nPostbank N\u00fcrnberg\nDE41 7601 0085 0283 5648 54\nPBNKDEFF",
+      "type": "text"
+    },
+    {
+      "id": "26f7ebe9-1f20-4051-ab04-e2c3c67c0643",
+      "grounding": {
+        "box": {
+          "bottom": 0.9878236055374146,
+          "left": 0.28678426146507263,
+          "right": 0.6637630462646484,
+          "top": 0.9752286672592163
+        },
+        "page": 0
+      },
+      "markdown": "<a id='26f7ebe9-1f20-4051-ab04-e2c3c67c0643'></a>\n\nEs gelten unsere umseitig abgedruckten Allgemeinen Gesch\u00e4ftsbedingungen.",
+      "type": "text"
+    },
+    {
+      "id": "4ff46cdc-bc44-4840-8183-24506d9253bf",
+      "grounding": {
+        "box": {
+          "bottom": 0.9453116655349731,
+          "left": 0.674863874912262,
+          "right": 0.83967524766922,
+          "top": 0.914077877998352
+        },
+        "page": 0
+      },
+      "markdown": "<a id='4ff46cdc-bc44-4840-8183-24506d9253bf'></a>\n\nUSt-IdNr.: DE 257375233\n\nSteuernummer: 207/132/90050\n\nWEEE-Reg.-Nr.: DE 18280160",
+      "type": "text"
+    },
+    {
+      "id": "bbaf1942-c231-4ef0-81e6-2309b99acdd1",
+      "grounding": {
+        "box": {
+          "bottom": 0.9776199460029602,
+          "left": 0.6754372119903564,
+          "right": 0.8360387086868286,
+          "top": 0.9496707320213318
+        },
+        "page": 0
+      },
+      "markdown": "<a id='bbaf1942-c231-4ef0-81e6-2309b99acdd1'></a>\n\nDeutsche Bank 24\nDE19 7607 0024 0811 5008 00\nDEUTDEDB760",
+      "type": "text"
+    },
+    {
+      "id": "9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b",
+      "grounding": {
+        "box": {
+          "bottom": 0.1739887297153473,
+          "left": 0.5055079460144043,
+          "right": 0.6334344148635864,
+          "top": 0.15218043327331543
+        },
+        "page": 0
+      },
+      "markdown": "<a id='9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b'></a>\n\nDelivery address:",
+      "type": "text"
+    },
+    {
+      "id": "81cc43ce-72b1-420b-8485-9b50bf43025c",
+      "grounding": {
+        "box": {
+          "bottom": 0.8671104311943054,
+          "left": 0.8600240349769592,
+          "right": 0.9776639342308044,
+          "top": 0.02367687225341797
+        },
+        "page": 0
+      },
+      "markdown": "<a id='81cc43ce-72b1-420b-8485-9b50bf43025c'></a>\n\nMUSIC IS OUR PASSION",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='da35e71a-b1f0-49a6-8f42-3800abc9f42e'></a>\n\n<::logo: Thomann\nthomann\nInvoice Nr.: 40458946\nThe logo features the word \"thomann\" in a black sans-serif font, with a distinctive teal-colored dot replacing the standard dot above the 'i'.::>\n\n<a id='570c3427-dbe6-439e-9044-8bce2928c7a3'></a>\n\nThomann GmbH, Hans-Thomann-Str. 1, D-96138 Burgebrach\n\n<a id='c9c90a92-8a57-48ab-8466-ed4ecb0b5de6'></a>\n\nGnr-Grupo Novo Rock, Lda\nJorge Rom\u00e3o\nAv. da Rep\u00fablica, N\u00b0. 181, LJ 101\n\n<a id='390ae49f-c33a-48e2-b5de-a6f4973576cc'></a>\n\nFilipe Louro\nRua Tullins Fures 223 2&deg;esq\n\n<a id='34b78223-7409-4ede-8200-ba479236be06'></a>\n\nPT-4450 Le\u00e7a da Palmeira\n\n<a id='77665d5b-c8a7-497b-a87c-b160263ba8e1'></a>\n\nPT-4450 Matosinhos\n\n<a id='094fd1f7-0836-43aa-9077-52042fb40756'></a>\n\nInvoice Nr.: 40458946\nDate: 23.02.2019\nYour customer no.: 10649971\n\n<a id='07ecf620-224f-43fa-9ae6-29e5cfecbf55'></a>\n\nOrder No.: 201908.660583 / 1233\n\nSales Person: Eduardo Mourao\nTelephone: 0049 9546 9223 645\nMethod of Shipment: UPS\nYour Reference:\n\nPlease Include your customer no.: 10649971 with payment by bank transfer!\n\n<a id='af633504-f612-4cc2-a2c4-8ba766833600'></a>\n\nYour VAT No.: PT502208171\nfornecimento Inter-comunitario Isento de IVA\n\n<a id='c0776774-8661-4f99-84c8-0166fbbdd1bc'></a>\n\n<table><thead><tr><th>Pos.</th><th>Article</th><th>Amount Unit</th><th>Unit Price</th><th>Total Price</th></tr></thead><tbody><tr><td>001.00</td><td>242900<br>Dunlop Nylon Max Grip Jazz III Players Pack - 6-plece plectrum set. Colour: Red, gauge: 1,38mm</td><td>1 plece</td><td>3,66 EUR</td><td>3,66 EUR</td></tr><tr><td>002.00</td><td>151423<br>Dunlop Tortex standard picks - 0.88mm, 12-pack.</td><td>1 plece</td><td>4,80 EUR</td><td>4,80 EUR</td></tr><tr><td>003.00</td><td>119582<br>Fender Vintage Bass Bridge, Incl screws, dimension width 8cm, lenght 4cm, stringspacing 2cm</td><td>1 plece</td><td>47,15 EUR</td><td>47,15 EUR</td></tr><tr><td>004.00</td><td>180181<br>Electro Harmonix 24DC-100 EU AC power supply, Original AC power supply matches Deluxe Memory Man, Bass/<br>Micro Synth, Q-Tron, Q-Tron+, Stereo Polychorus, Worm, Deluxe Electric Mistress, Stereo Memoroy Man, Stereo<br>Polyphase, XO Deluxe Memory Man, XO Q-Tron+</td><td>1 plece</td><td>13,58 EUR</td><td>13,58 EUR</td></tr><tr><td>005.00</td><td>378874<br>the sssnake DD1015, Minijack Mono - Minijack Mono Patchkabel, Length 15cm, 6 pcs. per Set</td><td>1 plece</td><td>8,05 EUR</td><td>8,05 EUR</td></tr></tbody><tfoot><tr><td colspan=\"3\"></td><td>Amount carried forward:</td><td>77,24 EUR</td></tr></tfoot></table>\n\n<a id='efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b'></a>\n\nThomann GmbH\nHans-Thomann-Str.1\nD-96138 Burgebrach\n\nBank Sparkasse Bamberg\nIBAN DE97 7705 0000 0000 1030 85\nBIC BYLADEM1SKB\n\n<a id='3d93a0b8-def3-418c-b5da-4e45cb2d1783'></a>\n\ninfo@thomann.de\nTel +49 (0)9546 9223-66\nFax +49 (0)9546 9223-24\n\n<a id='4dd01bc0-c90a-4499-9965-518406ea2816'></a>\n\nGesch\u00e4ftsf\u00fchrer: Hans Thomann\nAmtsgericht Bamberg: HRB 5862\nSitz der Gesellschaft: Burgebrach\n\n<a id='460fddbd-4590-4049-8b04-f658b7cd2312'></a>\n\nRaiffeisenbank Burgebrach\nDE58 7706 2014 0000 0056 30\nGENODEF1BGB\n-\n\n<a id='a509601a-79cd-4f82-acdb-3f8fffc72391'></a>\n\nPostbank N\u00fcrnberg\nDE41 7601 0085 0283 5648 54\nPBNKDEFF\n\n<a id='26f7ebe9-1f20-4051-ab04-e2c3c67c0643'></a>\n\nEs gelten unsere umseitig abgedruckten Allgemeinen Gesch\u00e4ftsbedingungen.\n\n<a id='4ff46cdc-bc44-4840-8183-24506d9253bf'></a>\n\nUSt-IdNr.: DE 257375233\n\nSteuernummer: 207/132/90050\n\nWEEE-Reg.-Nr.: DE 18280160\n\n<a id='bbaf1942-c231-4ef0-81e6-2309b99acdd1'></a>\n\nDeutsche Bank 24\nDE19 7607 0024 0811 5008 00\nDEUTDEDB760\n\n<a id='9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b'></a>\n\nDelivery address:\n\n<a id='81cc43ce-72b1-420b-8485-9b50bf43025c'></a>\n\nMUSIC IS OUR PASSION",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 8527,
+    "filename": "invoice_14.pdf",
+    "job_id": "e97zr6d13y5gerhqkb2rchqix",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "da35e71a-b1f0-49a6-8f42-3800abc9f42e",
+        "570c3427-dbe6-439e-9044-8bce2928c7a3",
+        "c9c90a92-8a57-48ab-8466-ed4ecb0b5de6",
+        "390ae49f-c33a-48e2-b5de-a6f4973576cc",
+        "34b78223-7409-4ede-8200-ba479236be06",
+        "77665d5b-c8a7-497b-a87c-b160263ba8e1",
+        "094fd1f7-0836-43aa-9077-52042fb40756",
+        "07ecf620-224f-43fa-9ae6-29e5cfecbf55",
+        "af633504-f612-4cc2-a2c4-8ba766833600",
+        "c0776774-8661-4f99-84c8-0166fbbdd1bc",
+        "efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b",
+        "3d93a0b8-def3-418c-b5da-4e45cb2d1783",
+        "4dd01bc0-c90a-4499-9965-518406ea2816",
+        "460fddbd-4590-4049-8b04-f658b7cd2312",
+        "a509601a-79cd-4f82-acdb-3f8fffc72391",
+        "26f7ebe9-1f20-4051-ab04-e2c3c67c0643",
+        "4ff46cdc-bc44-4840-8183-24506d9253bf",
+        "bbaf1942-c231-4ef0-81e6-2309b99acdd1",
+        "9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b",
+        "81cc43ce-72b1-420b-8485-9b50bf43025c"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='da35e71a-b1f0-49a6-8f42-3800abc9f42e'></a>\n\n<::logo: Thomann\nthomann\nInvoice Nr.: 40458946\nThe logo features the word \"thomann\" in a black sans-serif font, with a distinctive teal-colored dot replacing the standard dot above the 'i'.::>\n\n<a id='570c3427-dbe6-439e-9044-8bce2928c7a3'></a>\n\nThomann GmbH, Hans-Thomann-Str. 1, D-96138 Burgebrach\n\n<a id='c9c90a92-8a57-48ab-8466-ed4ecb0b5de6'></a>\n\nGnr-Grupo Novo Rock, Lda\nJorge Rom\u00e3o\nAv. da Rep\u00fablica, N\u00b0. 181, LJ 101\n\n<a id='390ae49f-c33a-48e2-b5de-a6f4973576cc'></a>\n\nFilipe Louro\nRua Tullins Fures 223 2&deg;esq\n\n<a id='34b78223-7409-4ede-8200-ba479236be06'></a>\n\nPT-4450 Le\u00e7a da Palmeira\n\n<a id='77665d5b-c8a7-497b-a87c-b160263ba8e1'></a>\n\nPT-4450 Matosinhos\n\n<a id='094fd1f7-0836-43aa-9077-52042fb40756'></a>\n\nInvoice Nr.: 40458946\nDate: 23.02.2019\nYour customer no.: 10649971\n\n<a id='07ecf620-224f-43fa-9ae6-29e5cfecbf55'></a>\n\nOrder No.: 201908.660583 / 1233\n\nSales Person: Eduardo Mourao\nTelephone: 0049 9546 9223 645\nMethod of Shipment: UPS\nYour Reference:\n\nPlease Include your customer no.: 10649971 with payment by bank transfer!\n\n<a id='af633504-f612-4cc2-a2c4-8ba766833600'></a>\n\nYour VAT No.: PT502208171\nfornecimento Inter-comunitario Isento de IVA\n\n<a id='c0776774-8661-4f99-84c8-0166fbbdd1bc'></a>\n\n<table><thead><tr><th>Pos.</th><th>Article</th><th>Amount Unit</th><th>Unit Price</th><th>Total Price</th></tr></thead><tbody><tr><td>001.00</td><td>242900<br>Dunlop Nylon Max Grip Jazz III Players Pack - 6-plece plectrum set. Colour: Red, gauge: 1,38mm</td><td>1 plece</td><td>3,66 EUR</td><td>3,66 EUR</td></tr><tr><td>002.00</td><td>151423<br>Dunlop Tortex standard picks - 0.88mm, 12-pack.</td><td>1 plece</td><td>4,80 EUR</td><td>4,80 EUR</td></tr><tr><td>003.00</td><td>119582<br>Fender Vintage Bass Bridge, Incl screws, dimension width 8cm, lenght 4cm, stringspacing 2cm</td><td>1 plece</td><td>47,15 EUR</td><td>47,15 EUR</td></tr><tr><td>004.00</td><td>180181<br>Electro Harmonix 24DC-100 EU AC power supply, Original AC power supply matches Deluxe Memory Man, Bass/<br>Micro Synth, Q-Tron, Q-Tron+, Stereo Polychorus, Worm, Deluxe Electric Mistress, Stereo Memoroy Man, Stereo<br>Polyphase, XO Deluxe Memory Man, XO Q-Tron+</td><td>1 plece</td><td>13,58 EUR</td><td>13,58 EUR</td></tr><tr><td>005.00</td><td>378874<br>the sssnake DD1015, Minijack Mono - Minijack Mono Patchkabel, Length 15cm, 6 pcs. per Set</td><td>1 plece</td><td>8,05 EUR</td><td>8,05 EUR</td></tr></tbody><tfoot><tr><td colspan=\"3\"></td><td>Amount carried forward:</td><td>77,24 EUR</td></tr></tfoot></table>\n\n<a id='efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b'></a>\n\nThomann GmbH\nHans-Thomann-Str.1\nD-96138 Burgebrach\n\nBank Sparkasse Bamberg\nIBAN DE97 7705 0000 0000 1030 85\nBIC BYLADEM1SKB\n\n<a id='3d93a0b8-def3-418c-b5da-4e45cb2d1783'></a>\n\ninfo@thomann.de\nTel +49 (0)9546 9223-66\nFax +49 (0)9546 9223-24\n\n<a id='4dd01bc0-c90a-4499-9965-518406ea2816'></a>\n\nGesch\u00e4ftsf\u00fchrer: Hans Thomann\nAmtsgericht Bamberg: HRB 5862\nSitz der Gesellschaft: Burgebrach\n\n<a id='460fddbd-4590-4049-8b04-f658b7cd2312'></a>\n\nRaiffeisenbank Burgebrach\nDE58 7706 2014 0000 0056 30\nGENODEF1BGB\n-\n\n<a id='a509601a-79cd-4f82-acdb-3f8fffc72391'></a>\n\nPostbank N\u00fcrnberg\nDE41 7601 0085 0283 5648 54\nPBNKDEFF\n\n<a id='26f7ebe9-1f20-4051-ab04-e2c3c67c0643'></a>\n\nEs gelten unsere umseitig abgedruckten Allgemeinen Gesch\u00e4ftsbedingungen.\n\n<a id='4ff46cdc-bc44-4840-8183-24506d9253bf'></a>\n\nUSt-IdNr.: DE 257375233\n\nSteuernummer: 207/132/90050\n\nWEEE-Reg.-Nr.: DE 18280160\n\n<a id='bbaf1942-c231-4ef0-81e6-2309b99acdd1'></a>\n\nDeutsche Bank 24\nDE19 7607 0024 0811 5008 00\nDEUTDEDB760\n\n<a id='9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b'></a>\n\nDelivery address:\n\n<a id='81cc43ce-72b1-420b-8485-9b50bf43025c'></a>\n\nMUSIC IS OUR PASSION",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "da35e71a-b1f0-49a6-8f42-3800abc9f42e": {
+      "box": {
+        "bottom": 0.12426373362541199,
+        "left": 0.5042201280593872,
+        "right": 0.787319540977478,
+        "top": 0.03097378835082054
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "570c3427-dbe6-439e-9044-8bce2928c7a3": {
+      "box": {
+        "bottom": 0.17269131541252136,
+        "left": 0.12448433041572571,
+        "right": 0.45787283778190613,
+        "top": 0.15616688132286072
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c9c90a92-8a57-48ab-8466-ed4ecb0b5de6": {
+      "box": {
+        "bottom": 0.22577688097953796,
+        "left": 0.1250552535057068,
+        "right": 0.3419790267944336,
+        "top": 0.18140262365341187
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "390ae49f-c33a-48e2-b5de-a6f4973576cc": {
+      "box": {
+        "bottom": 0.2136254459619522,
+        "left": 0.5062379837036133,
+        "right": 0.683320164680481,
+        "top": 0.18179680407047272
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "34b78223-7409-4ede-8200-ba479236be06": {
+      "box": {
+        "bottom": 0.23844294250011444,
+        "left": 0.5044407844543457,
+        "right": 0.6746176481246948,
+        "top": 0.21986253559589386
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "77665d5b-c8a7-497b-a87c-b160263ba8e1": {
+      "box": {
+        "bottom": 0.25011587142944336,
+        "left": 0.12568625807762146,
+        "right": 0.2688012719154358,
+        "top": 0.23452924191951752
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "094fd1f7-0836-43aa-9077-52042fb40756": {
+      "box": {
+        "bottom": 0.32545074820518494,
+        "left": 0.12397737801074982,
+        "right": 0.3172762989997864,
+        "top": 0.2770439088344574
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "07ecf620-224f-43fa-9ae6-29e5cfecbf55": {
+      "box": {
+        "bottom": 0.3946331739425659,
+        "left": 0.5043438673019409,
+        "right": 0.8359280824661255,
+        "top": 0.2764044404029846
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "af633504-f612-4cc2-a2c4-8ba766833600": {
+      "box": {
+        "bottom": 0.3931507170200348,
+        "left": 0.1240127831697464,
+        "right": 0.41411292552948,
+        "top": 0.3625553548336029
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "c0776774-8661-4f99-84c8-0166fbbdd1bc": {
+      "box": {
+        "bottom": 0.7229690551757812,
+        "left": 0.04792746901512146,
+        "right": 0.872960090637207,
+        "top": 0.4157465696334839
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "efcdc9fd-3b3f-4f16-94a4-c31915fc4a2b": {
+      "box": {
+        "bottom": 0.9788023233413696,
+        "left": 0.05477075278759003,
+        "right": 0.25101959705352783,
+        "top": 0.915152907371521
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "3d93a0b8-def3-418c-b5da-4e45cb2d1783": {
+      "box": {
+        "bottom": 0.9455326199531555,
+        "left": 0.28308406472206116,
+        "right": 0.4223327338695526,
+        "top": 0.9144553542137146
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4dd01bc0-c90a-4499-9965-518406ea2816": {
+      "box": {
+        "bottom": 0.9461458921432495,
+        "left": 0.4718143939971924,
+        "right": 0.6447358131408691,
+        "top": 0.9148907661437988
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "460fddbd-4590-4049-8b04-f658b7cd2312": {
+      "box": {
+        "bottom": 0.9792436361312866,
+        "left": 0.280286967754364,
+        "right": 0.4790946841239929,
+        "top": 0.950162410736084
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "a509601a-79cd-4f82-acdb-3f8fffc72391": {
+      "box": {
+        "bottom": 0.9751784801483154,
+        "left": 0.4739048182964325,
+        "right": 0.6322098970413208,
+        "top": 0.9497103691101074
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "26f7ebe9-1f20-4051-ab04-e2c3c67c0643": {
+      "box": {
+        "bottom": 0.9878236055374146,
+        "left": 0.28678426146507263,
+        "right": 0.6637630462646484,
+        "top": 0.9752286672592163
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "4ff46cdc-bc44-4840-8183-24506d9253bf": {
+      "box": {
+        "bottom": 0.9453116655349731,
+        "left": 0.674863874912262,
+        "right": 0.83967524766922,
+        "top": 0.914077877998352
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "bbaf1942-c231-4ef0-81e6-2309b99acdd1": {
+      "box": {
+        "bottom": 0.9776199460029602,
+        "left": 0.6754372119903564,
+        "right": 0.8360387086868286,
+        "top": 0.9496707320213318
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "9c7fd243-4202-4dc6-a3a7-d8d8b7c1ad3b": {
+      "box": {
+        "bottom": 0.1739887297153473,
+        "left": 0.5055079460144043,
+        "right": 0.6334344148635864,
+        "top": 0.15218043327331543
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "81cc43ce-72b1-420b-8485-9b50bf43025c": {
+      "box": {
+        "bottom": 0.8671104311943054,
+        "left": 0.8600240349769592,
+        "right": 0.9776639342308044,
+        "top": 0.02367687225341797
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}

@@ -1,0 +1,644 @@
+{
+  "chunks": [
+    {
+      "id": "b31b0355-9706-4b82-bbc4-0ca37a9f627c",
+      "grounding": {
+        "box": {
+          "bottom": 0.10055144876241684,
+          "left": 0.07097623497247696,
+          "right": 0.20074144005775452,
+          "top": 0.047266192734241486
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b31b0355-9706-4b82-bbc4-0ca37a9f627c'></a>\n\n<::logo: Alamy\\nalamy\\nThe logo features the word \"alamy\" in a bold, black, sans-serif, lowercase font.::>",
+      "type": "logo"
+    },
+    {
+      "id": "b178bce7-c7e9-4eed-b15e-8c3dcee666cc",
+      "grounding": {
+        "box": {
+          "bottom": 0.1007242202758789,
+          "left": 0.4799441695213318,
+          "right": 0.5987951159477234,
+          "top": 0.048946741968393326
+        },
+        "page": 0
+      },
+      "markdown": "<a id='b178bce7-c7e9-4eed-b15e-8c3dcee666cc'></a>\n\nAlamy Inc\n49 Flatbush Ave, 130,\nBrooklyn, NY 11217,\nUSA",
+      "type": "text"
+    },
+    {
+      "id": "8d7f06d7-e954-4da1-a7d1-238fd98b6c24",
+      "grounding": {
+        "box": {
+          "bottom": 0.14101961255073547,
+          "left": 0.07152923941612244,
+          "right": 0.3121108114719391,
+          "top": 0.11230435967445374
+        },
+        "page": 0
+      },
+      "markdown": "<a id='8d7f06d7-e954-4da1-a7d1-238fd98b6c24'></a>\n\nYour Alamy invoice",
+      "type": "text"
+    },
+    {
+      "id": "7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73",
+      "grounding": {
+        "box": {
+          "bottom": 0.13886617124080658,
+          "left": 0.4786399304866791,
+          "right": 0.6550843715667725,
+          "top": 0.11915437877178192
+        },
+        "page": 0
+      },
+      "markdown": "<a id='7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73'></a>\n\nFederal Tax ID 46-052-1136",
+      "type": "text"
+    },
+    {
+      "id": "654d5feb-3c6e-48b5-8d0a-9b68b758fa37",
+      "grounding": {
+        "box": {
+          "bottom": 0.2131284773349762,
+          "left": 0.06882745027542114,
+          "right": 0.8918877840042114,
+          "top": 0.14638900756835938
+        },
+        "page": 0
+      },
+      "markdown": "<a id='654d5feb-3c6e-48b5-8d0a-9b68b758fa37'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Invoice number:</td><td id=\"0-3\">Invoice date:</td><td id=\"0-4\">06 May 2024</td><td id=\"0-5\">Paid</td></tr>\n<tr><td id=\"0-6\">IY04370868</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">Total: $ 49.50</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8",
+      "grounding": {
+        "box": {
+          "bottom": 0.2924938499927521,
+          "left": 0.06740932166576385,
+          "right": 0.17181332409381866,
+          "top": 0.21760955452919006
+        },
+        "page": 0
+      },
+      "markdown": "<a id='d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8'></a>\n\nInvoice to:\n227 N 5th Ave\nRidgefield\nWA\n98642-3846\nUnited States",
+      "type": "text"
+    },
+    {
+      "id": "36f021be-e7ed-41fe-9aeb-02929db30d7f",
+      "grounding": {
+        "box": {
+          "bottom": 0.2783699333667755,
+          "left": 0.34170836210250854,
+          "right": 0.6431772112846375,
+          "top": 0.21553745865821838
+        },
+        "page": 0
+      },
+      "markdown": "<a id='36f021be-e7ed-41fe-9aeb-02929db30d7f'></a>\n\nOrdered by: andr3akropp@gmail.com\nOrder reference: OY92605918\nRemittance advice to be sent to: customerfinance@alamy.com",
+      "type": "text"
+    },
+    {
+      "id": "fde4fa46-a924-4bdf-9753-52d39ed5b5d7",
+      "grounding": {
+        "box": {
+          "bottom": 0.49662238359451294,
+          "left": 0.06932000070810318,
+          "right": 0.2737358510494232,
+          "top": 0.31421881914138794
+        },
+        "page": 0
+      },
+      "markdown": "<a id='fde4fa46-a924-4bdf-9753-52d39ed5b5d7'></a>\n\nYour order (1 item)\n\n<::abstract image with white diagonal lines on a black background\n: figure::>",
+      "type": "figure"
+    },
+    {
+      "id": "c39203b6-f21c-44e2-b5ae-c136238d0be8",
+      "grounding": {
+        "box": {
+          "bottom": 0.5505486130714417,
+          "left": 0.34240081906318665,
+          "right": 0.8913666009902954,
+          "top": 0.3420253098011017
+        },
+        "page": 0
+      },
+      "markdown": "<a id='c39203b6-f21c-44e2-b5ae-c136238d0be8'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\" colspan=\"2\">Image ID: GMM2C6</td></tr>\n<tr><td id=\"0-c\">Image details</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Image title</td><td id=\"0-f\">Vector Seamless Dash Diagonal Parallel Line Halfton Pattern</td></tr>\n<tr><td id=\"0-g\">Credit line</td><td id=\"0-h\">YAY Media AS / Alamy Stock Vector</td></tr>\n<tr><td id=\"0-i\">License details</td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">Country</td><td id=\"0-l\">Worldwide</td></tr>\n<tr><td id=\"0-m\">Usage</td><td id=\"0-n\">Standard</td></tr>\n<tr><td id=\"0-o\">Start date</td><td id=\"0-p\">06 May 2024</td></tr>\n<tr><td id=\"0-q\">Duration</td><td id=\"0-r\">In perpetuity</td></tr>\n<tr><td id=\"0-s\">Additional details</td><td id=\"0-t\">Standard License for 1 user only. Allowed usage: across websites, social media, short-form video on video sharing sites, digital publishing, digital marketing, and print runs up to 100,000. Restrictions stated prior to or at time of purchase may limit the scope of permissible usage.</td></tr>\n</table>",
+      "type": "table"
+    },
+    {
+      "id": "3f35e4ce-53a9-4c59-acce-6591bd8434fb",
+      "grounding": {
+        "box": {
+          "bottom": 0.6518445611000061,
+          "left": 0.7046985626220703,
+          "right": 0.8936110734939575,
+          "top": 0.5649719834327698
+        },
+        "page": 0
+      },
+      "markdown": "<a id='3f35e4ce-53a9-4c59-acce-6591bd8434fb'></a>\n\n<::attestation: Payment Mark\nPaid\nSubtotal: $ 45.00\nSales tax @ 10%: $ 4.50\nTotal: $ 49.50\nThe word 'Paid' is prominently displayed in green at the top right, followed by a breakdown of subtotal, sales tax, and total, with the total amount also highlighted in green.::>",
+      "type": "attestation"
+    },
+    {
+      "id": "66e3f664-912f-4d9a-a7c9-79a22e545dff",
+      "grounding": {
+        "box": {
+          "bottom": 0.7250293493270874,
+          "left": 0.06302303075790405,
+          "right": 0.8982023596763611,
+          "top": 0.6495202779769897
+        },
+        "page": 0
+      },
+      "markdown": "<a id='66e3f664-912f-4d9a-a7c9-79a22e545dff'></a>\n\nPaid by credit card\n\nCard category: VISA\nCard number: *********8366\nExpiry: 02 / 2028",
+      "type": "text"
+    },
+    {
+      "id": "571d90ff-05b9-486b-8143-527148eefd2c",
+      "grounding": {
+        "box": {
+          "bottom": 0.8201691508293152,
+          "left": 0.08794297277927399,
+          "right": 0.3375685214996338,
+          "top": 0.7416233420372009
+        },
+        "page": 0
+      },
+      "markdown": "<a id='571d90ff-05b9-486b-8143-527148eefd2c'></a>\n\nGet in touch\n\n866 671 7305 (toll free)\nsales@alamy.com",
+      "type": "text"
+    },
+    {
+      "id": "ed70f795-7e21-49af-a692-ff886d30c652",
+      "grounding": {
+        "box": {
+          "bottom": 0.789444625377655,
+          "left": 0.487700492143631,
+          "right": 0.7053064107894897,
+          "top": 0.7415774464607239
+        },
+        "page": 0
+      },
+      "markdown": "<a id='ed70f795-7e21-49af-a692-ff886d30c652'></a>\n\nLicense agreement\n\nhttps://www.alamy.com/terms/default.asp",
+      "type": "text"
+    }
+  ],
+  "markdown": "<a id='b31b0355-9706-4b82-bbc4-0ca37a9f627c'></a>\n\n<::logo: Alamy\\nalamy\\nThe logo features the word \"alamy\" in a bold, black, sans-serif, lowercase font.::>\n\n<a id='b178bce7-c7e9-4eed-b15e-8c3dcee666cc'></a>\n\nAlamy Inc\n49 Flatbush Ave, 130,\nBrooklyn, NY 11217,\nUSA\n\n<a id='8d7f06d7-e954-4da1-a7d1-238fd98b6c24'></a>\n\nYour Alamy invoice\n\n<a id='7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73'></a>\n\nFederal Tax ID 46-052-1136\n\n<a id='654d5feb-3c6e-48b5-8d0a-9b68b758fa37'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Invoice number:</td><td id=\"0-3\">Invoice date:</td><td id=\"0-4\">06 May 2024</td><td id=\"0-5\">Paid</td></tr>\n<tr><td id=\"0-6\">IY04370868</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">Total: $ 49.50</td></tr>\n</table>\n\n<a id='d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8'></a>\n\nInvoice to:\n227 N 5th Ave\nRidgefield\nWA\n98642-3846\nUnited States\n\n<a id='36f021be-e7ed-41fe-9aeb-02929db30d7f'></a>\n\nOrdered by: andr3akropp@gmail.com\nOrder reference: OY92605918\nRemittance advice to be sent to: customerfinance@alamy.com\n\n<a id='fde4fa46-a924-4bdf-9753-52d39ed5b5d7'></a>\n\nYour order (1 item)\n\n<::abstract image with white diagonal lines on a black background\n: figure::>\n\n<a id='c39203b6-f21c-44e2-b5ae-c136238d0be8'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\" colspan=\"2\">Image ID: GMM2C6</td></tr>\n<tr><td id=\"0-c\">Image details</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Image title</td><td id=\"0-f\">Vector Seamless Dash Diagonal Parallel Line Halfton Pattern</td></tr>\n<tr><td id=\"0-g\">Credit line</td><td id=\"0-h\">YAY Media AS / Alamy Stock Vector</td></tr>\n<tr><td id=\"0-i\">License details</td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">Country</td><td id=\"0-l\">Worldwide</td></tr>\n<tr><td id=\"0-m\">Usage</td><td id=\"0-n\">Standard</td></tr>\n<tr><td id=\"0-o\">Start date</td><td id=\"0-p\">06 May 2024</td></tr>\n<tr><td id=\"0-q\">Duration</td><td id=\"0-r\">In perpetuity</td></tr>\n<tr><td id=\"0-s\">Additional details</td><td id=\"0-t\">Standard License for 1 user only. Allowed usage: across websites, social media, short-form video on video sharing sites, digital publishing, digital marketing, and print runs up to 100,000. Restrictions stated prior to or at time of purchase may limit the scope of permissible usage.</td></tr>\n</table>\n\n<a id='3f35e4ce-53a9-4c59-acce-6591bd8434fb'></a>\n\n<::attestation: Payment Mark\nPaid\nSubtotal: $ 45.00\nSales tax @ 10%: $ 4.50\nTotal: $ 49.50\nThe word 'Paid' is prominently displayed in green at the top right, followed by a breakdown of subtotal, sales tax, and total, with the total amount also highlighted in green.::>\n\n<a id='66e3f664-912f-4d9a-a7c9-79a22e545dff'></a>\n\nPaid by credit card\n\nCard category: VISA\nCard number: *********8366\nExpiry: 02 / 2028\n\n<a id='571d90ff-05b9-486b-8143-527148eefd2c'></a>\n\nGet in touch\n\n866 671 7305 (toll free)\nsales@alamy.com\n\n<a id='ed70f795-7e21-49af-a692-ff886d30c652'></a>\n\nLicense agreement\n\nhttps://www.alamy.com/terms/default.asp",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 8281,
+    "filename": "invoice_23.pdf",
+    "job_id": "h94g4oe6mv97ob7mbmo2gwbdn",
+    "org_id": "u3z0u1hn4acl",
+    "page_count": 1,
+    "version": "dpt-2-20250919"
+  },
+  "splits": [
+    {
+      "chunks": [
+        "b31b0355-9706-4b82-bbc4-0ca37a9f627c",
+        "b178bce7-c7e9-4eed-b15e-8c3dcee666cc",
+        "8d7f06d7-e954-4da1-a7d1-238fd98b6c24",
+        "7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73",
+        "654d5feb-3c6e-48b5-8d0a-9b68b758fa37",
+        "d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8",
+        "36f021be-e7ed-41fe-9aeb-02929db30d7f",
+        "fde4fa46-a924-4bdf-9753-52d39ed5b5d7",
+        "c39203b6-f21c-44e2-b5ae-c136238d0be8",
+        "3f35e4ce-53a9-4c59-acce-6591bd8434fb",
+        "66e3f664-912f-4d9a-a7c9-79a22e545dff",
+        "571d90ff-05b9-486b-8143-527148eefd2c",
+        "ed70f795-7e21-49af-a692-ff886d30c652"
+      ],
+      "class_": "full",
+      "identifier": "full",
+      "markdown": "<a id='b31b0355-9706-4b82-bbc4-0ca37a9f627c'></a>\n\n<::logo: Alamy\\nalamy\\nThe logo features the word \"alamy\" in a bold, black, sans-serif, lowercase font.::>\n\n<a id='b178bce7-c7e9-4eed-b15e-8c3dcee666cc'></a>\n\nAlamy Inc\n49 Flatbush Ave, 130,\nBrooklyn, NY 11217,\nUSA\n\n<a id='8d7f06d7-e954-4da1-a7d1-238fd98b6c24'></a>\n\nYour Alamy invoice\n\n<a id='7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73'></a>\n\nFederal Tax ID 46-052-1136\n\n<a id='654d5feb-3c6e-48b5-8d0a-9b68b758fa37'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">Invoice number:</td><td id=\"0-3\">Invoice date:</td><td id=\"0-4\">06 May 2024</td><td id=\"0-5\">Paid</td></tr>\n<tr><td id=\"0-6\">IY04370868</td><td id=\"0-7\"></td><td id=\"0-8\"></td><td id=\"0-9\">Total: $ 49.50</td></tr>\n</table>\n\n<a id='d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8'></a>\n\nInvoice to:\n227 N 5th Ave\nRidgefield\nWA\n98642-3846\nUnited States\n\n<a id='36f021be-e7ed-41fe-9aeb-02929db30d7f'></a>\n\nOrdered by: andr3akropp@gmail.com\nOrder reference: OY92605918\nRemittance advice to be sent to: customerfinance@alamy.com\n\n<a id='fde4fa46-a924-4bdf-9753-52d39ed5b5d7'></a>\n\nYour order (1 item)\n\n<::abstract image with white diagonal lines on a black background\n: figure::>\n\n<a id='c39203b6-f21c-44e2-b5ae-c136238d0be8'></a>\n\n<table id=\"0-a\">\n<tr><td id=\"0-b\" colspan=\"2\">Image ID: GMM2C6</td></tr>\n<tr><td id=\"0-c\">Image details</td><td id=\"0-d\"></td></tr>\n<tr><td id=\"0-e\">Image title</td><td id=\"0-f\">Vector Seamless Dash Diagonal Parallel Line Halfton Pattern</td></tr>\n<tr><td id=\"0-g\">Credit line</td><td id=\"0-h\">YAY Media AS / Alamy Stock Vector</td></tr>\n<tr><td id=\"0-i\">License details</td><td id=\"0-j\"></td></tr>\n<tr><td id=\"0-k\">Country</td><td id=\"0-l\">Worldwide</td></tr>\n<tr><td id=\"0-m\">Usage</td><td id=\"0-n\">Standard</td></tr>\n<tr><td id=\"0-o\">Start date</td><td id=\"0-p\">06 May 2024</td></tr>\n<tr><td id=\"0-q\">Duration</td><td id=\"0-r\">In perpetuity</td></tr>\n<tr><td id=\"0-s\">Additional details</td><td id=\"0-t\">Standard License for 1 user only. Allowed usage: across websites, social media, short-form video on video sharing sites, digital publishing, digital marketing, and print runs up to 100,000. Restrictions stated prior to or at time of purchase may limit the scope of permissible usage.</td></tr>\n</table>\n\n<a id='3f35e4ce-53a9-4c59-acce-6591bd8434fb'></a>\n\n<::attestation: Payment Mark\nPaid\nSubtotal: $ 45.00\nSales tax @ 10%: $ 4.50\nTotal: $ 49.50\nThe word 'Paid' is prominently displayed in green at the top right, followed by a breakdown of subtotal, sales tax, and total, with the total amount also highlighted in green.::>\n\n<a id='66e3f664-912f-4d9a-a7c9-79a22e545dff'></a>\n\nPaid by credit card\n\nCard category: VISA\nCard number: *********8366\nExpiry: 02 / 2028\n\n<a id='571d90ff-05b9-486b-8143-527148eefd2c'></a>\n\nGet in touch\n\n866 671 7305 (toll free)\nsales@alamy.com\n\n<a id='ed70f795-7e21-49af-a692-ff886d30c652'></a>\n\nLicense agreement\n\nhttps://www.alamy.com/terms/default.asp",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "b31b0355-9706-4b82-bbc4-0ca37a9f627c": {
+      "box": {
+        "bottom": 0.10055144876241684,
+        "left": 0.07097623497247696,
+        "right": 0.20074144005775452,
+        "top": 0.047266192734241486
+      },
+      "page": 0,
+      "type": "chunkLogo"
+    },
+    "b178bce7-c7e9-4eed-b15e-8c3dcee666cc": {
+      "box": {
+        "bottom": 0.1007242202758789,
+        "left": 0.4799441695213318,
+        "right": 0.5987951159477234,
+        "top": 0.048946741968393326
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "8d7f06d7-e954-4da1-a7d1-238fd98b6c24": {
+      "box": {
+        "bottom": 0.14101961255073547,
+        "left": 0.07152923941612244,
+        "right": 0.3121108114719391,
+        "top": 0.11230435967445374
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "7b2907b6-ec7a-43b6-a1fb-b2bbe2ecad73": {
+      "box": {
+        "bottom": 0.13886617124080658,
+        "left": 0.4786399304866791,
+        "right": 0.6550843715667725,
+        "top": 0.11915437877178192
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "654d5feb-3c6e-48b5-8d0a-9b68b758fa37": {
+      "box": {
+        "bottom": 0.2131284773349762,
+        "left": 0.06882745027542114,
+        "right": 0.8918877840042114,
+        "top": 0.14638900756835938
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.2120210110161569,
+        "left": 0.07218397987960246,
+        "right": 0.8918406881141436,
+        "top": 0.1485429311332337
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.17423756544404867,
+        "left": 0.07218397987960246,
+        "right": 0.20763848988897315,
+        "top": 0.1485429311332337
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.17423756544404867,
+        "left": 0.20763848988897315,
+        "right": 0.4256329778125405,
+        "top": 0.1485429311332337
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.17423756544404867,
+        "left": 0.4256329778125405,
+        "right": 0.5558022895352934,
+        "top": 0.1485429311332337
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.17423756544404867,
+        "left": 0.5558022895352934,
+        "right": 0.8918199364875825,
+        "top": 0.1485429311332337
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.2120210110161569,
+        "left": 0.07218397987960246,
+        "right": 0.20763848988897315,
+        "top": 0.17423756544404867
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.2120210110161569,
+        "left": 0.20763848988897315,
+        "right": 0.4256329778125405,
+        "top": 0.17423756544404867
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.2120210110161569,
+        "left": 0.4256329778125405,
+        "right": 0.5558022895352934,
+        "top": 0.17423756544404867
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.2120210110161569,
+        "left": 0.5558022895352934,
+        "right": 0.8918199364875825,
+        "top": 0.17423756544404867
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "d7df4f78-720e-4cec-bdd7-fcce7ddb6ef8": {
+      "box": {
+        "bottom": 0.2924938499927521,
+        "left": 0.06740932166576385,
+        "right": 0.17181332409381866,
+        "top": 0.21760955452919006
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "36f021be-e7ed-41fe-9aeb-02929db30d7f": {
+      "box": {
+        "bottom": 0.2783699333667755,
+        "left": 0.34170836210250854,
+        "right": 0.6431772112846375,
+        "top": 0.21553745865821838
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "fde4fa46-a924-4bdf-9753-52d39ed5b5d7": {
+      "box": {
+        "bottom": 0.49662238359451294,
+        "left": 0.06932000070810318,
+        "right": 0.2737358510494232,
+        "top": 0.31421881914138794
+      },
+      "page": 0,
+      "type": "chunkFigure"
+    },
+    "c39203b6-f21c-44e2-b5ae-c136238d0be8": {
+      "box": {
+        "bottom": 0.5505486130714417,
+        "left": 0.34240081906318665,
+        "right": 0.8913666009902954,
+        "top": 0.3420253098011017
+      },
+      "page": 0,
+      "type": "chunkTable"
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.5487369558091171,
+        "left": 0.34900617902552,
+        "right": 0.8861149930297163,
+        "top": 0.3448349418486646
+      },
+      "page": 0,
+      "type": "table"
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.39184677007824353,
+        "left": 0.34900617902552,
+        "right": 0.8875248061763141,
+        "top": 0.3448349418486646
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.39184677007824353,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.36856709668260335
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.39184677007824353,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.36856709668260335
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.40544395938449096,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.39184677007824353
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.40544395938449096,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.39184677007824353
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.4200103618974973,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.40544395938449096
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.4200103618974973,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.40544395938449096
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.44552639624494184,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.4200103618974973
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.44552639624494184,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.4200103618974973
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.4598330211189374,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.44552639624494184
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.4598330211189374,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.44552639624494184
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.473404982748864,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.4598330211189374
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.473404982748864,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.4598330211189374
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.48742956972111173,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.473404982748864
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.48742956972111173,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.473404982748864
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.5018155037723968,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.48742956972111173
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.5018155037723968,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.48742956972111173
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.5487369558091171,
+        "left": 0.34900617902552,
+        "right": 0.43810135091185476,
+        "top": 0.5018155037723968
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.5487369558091171,
+        "left": 0.43810135091185476,
+        "right": 0.8875248061763141,
+        "top": 0.5018155037723968
+      },
+      "page": 0,
+      "type": "tableCell"
+    },
+    "3f35e4ce-53a9-4c59-acce-6591bd8434fb": {
+      "box": {
+        "bottom": 0.6518445611000061,
+        "left": 0.7046985626220703,
+        "right": 0.8936110734939575,
+        "top": 0.5649719834327698
+      },
+      "page": 0,
+      "type": "chunkAttestation"
+    },
+    "66e3f664-912f-4d9a-a7c9-79a22e545dff": {
+      "box": {
+        "bottom": 0.7250293493270874,
+        "left": 0.06302303075790405,
+        "right": 0.8982023596763611,
+        "top": 0.6495202779769897
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "571d90ff-05b9-486b-8143-527148eefd2c": {
+      "box": {
+        "bottom": 0.8201691508293152,
+        "left": 0.08794297277927399,
+        "right": 0.3375685214996338,
+        "top": 0.7416233420372009
+      },
+      "page": 0,
+      "type": "chunkText"
+    },
+    "ed70f795-7e21-49af-a692-ff886d30c652": {
+      "box": {
+        "bottom": 0.789444625377655,
+        "left": 0.487700492143631,
+        "right": 0.7053064107894897,
+        "top": 0.7415774464607239
+      },
+      "page": 0,
+      "type": "chunkText"
+    }
+  }
+}
